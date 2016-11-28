@@ -1,0 +1,46 @@
+footer{
+  padding: 50px 0 0;
+  background-color: $dark-grey;
+  a{
+    color: $white;
+    font-family: $main-font;
+    font-size: 16px;
+    font-weight: 300;
+    &:hover{
+      color: $primary-light-color;
+      text-decoration: none;
+      & .social-icon-wrapper{
+        background-color: $primary-color;
+      }
+    }
+    p{
+      padding-top: 10px;
+    }
+  }
+  p.credit{
+    color: $white;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 50px;
+  }
+  .footerIcons{
+    width: 100%;
+  }
+  .social-icon-wrapper{
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 30%;
+    transition: all .2s ease-in;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  footer{
+    .social-icon-wrapper{
+      width: 50%;
+    }
+  }
+}

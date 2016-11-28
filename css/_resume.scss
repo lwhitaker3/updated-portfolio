@@ -1,0 +1,168 @@
+.intro-resume-container{
+  color: white;
+  height: 300px;
+  padding-top: 100px;
+  h1{
+    margin-left: 40%;
+  }
+  .container{
+    position: relative;
+    height: 100%;
+    .header_picture{
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: auto;
+      width: 36%;
+    }
+  }
+}
+@media (min-width: 550px) and (max-width: $screen-sm-min) {
+  .intro-resume-container{
+    height: 250px;
+    padding-top: 150px;
+    .container{
+      .header_picture{
+        width: 40%;
+      }
+    }
+  }
+}
+@media (max-width: 550px) {
+  .intro-resume-container{
+    height: 200px;
+    padding-top: 100px;
+    .container{
+      .header_picture{
+        width: 40%;
+      }
+    }
+    h1{
+      font-size: 32px;
+    }
+  }
+}
+.pdf-button{
+  margin: 50px 0;
+}
+.skills-container{
+  background-color: $primary-color;
+  color: white;
+  padding-bottom: 50px;
+  img{
+    width: 25%;
+  }
+
+}
+.resume-section-wrapper{
+  .row{
+    position: relative;
+    .vertical-line{
+      border-left: 2px solid $light-grey;
+      position: absolute;
+      right: -12.5%;
+      height: 100%;
+      width: 100%;
+      z-index: -1;
+
+    }
+  }
+}
+.resumeImg{
+  width: 80px;
+  margin: 20px 0;
+}
+.resume-entry{
+  margin: 40px 0;
+  background-color: #E7E7E8;
+  padding: 0;
+  p{
+    padding: 0 15px;
+  }
+  .resume-date{
+    background-color: $primary-color;
+    color: white;
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+  }
+  .resume-position{
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  .resume-title{
+    font-size: 24px;
+  }
+  .resume-description{
+    font-size: 16px;
+    padding: 0 40px 30px;
+
+    span{
+
+    }
+  }
+}
+@media (min-width: $screen-sm-min) {
+  .resume-entry::before {
+      content: '';
+      position: absolute;
+      top: 0px;
+      right: 100%;
+  		z-index: 2;
+  		height: 0;
+  		border-top: 20px solid transparent;
+  		border-bottom: 20px solid transparent;
+  		border-right: 20px solid $primary-color;
+  }
+}
+
+.other-experience-container{
+  background-color: $primary-color;
+  color: white;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  .row{
+    text-align: left;
+  }
+
+}
+
+.slideLeft {
+    animation-name: slideLeft;
+    -webkit-animation-name: slideLeft;
+    animation-duration: 1.5s;
+    -webkit-animation-duration: 1.5s;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-timing-function: ease-in-out;
+    visibility: visible !important;
+		z-index: 2;
+}
+@keyframes slideLeft {
+    0% {
+        transform: translateX(150%);
+    }
+    80% {
+        transform: translateX(-1%);
+    }
+    95% {
+        transform: translateX(0.5%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
+@-webkit-keyframes slideLeft {
+    0% {
+        -webkit-transform: translateX(150%);
+    }
+    80% {
+        -webkit-transform: translateX(-1%);
+    }
+    95% {
+        -webkit-transform: translateX(0.5%);
+    }
+    100% {
+        -webkit-transform: translateX(0%);
+    }
+}

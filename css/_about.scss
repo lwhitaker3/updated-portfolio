@@ -1,0 +1,81 @@
+.intro-about-container{
+  color: white;
+  height: 300px;
+  padding-top: 100px;
+  h1{
+    margin-left: 40%;
+  }
+  .container{
+    position: relative;
+    height: 100%;
+    .header_picture{
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: auto;
+      width: 40%;
+    }
+  }
+}
+@media (min-width: 550px) and (max-width: $screen-sm-min) {
+  .intro-about-container{
+    height: 250px;
+    padding-top: 150px;
+  }
+}
+@media (max-width: 550px) {
+  .intro-about-container{
+    height: 200px;
+    padding-top: 100px;
+    h1{
+      font-size: 32px;
+    }
+  }
+}
+.about_pic_wrapper{
+  border-radius: 50%;
+  width: 75%;
+  overflow: hidden;
+  margin: 30px auto;
+  display: block;
+}
+.aboutPics{
+  width: 100%;
+}
+@media (max-width: $screen-sm-min) {
+  .about_pic_wrapper{
+    width: 60%;
+  }
+}
+@media (min-width: $screen-sm-min) and  (max-width: $screen-md-min){
+  .about_pic_wrapper{
+    width: 90%;
+  }
+}
+.about-text{
+  margin: 60px 0;
+}
+@media (max-width: $screen-sm-min) {
+  .about-text{
+    margin: 0px 0;
+  }
+}
+.larger-intro{
+  text-align: center;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 24px;
+}
+.about-me{
+  font-size: 16px;
+  line-height: 1.7;
+  margin-top: 30px;
+}
+.question{
+  font-weight: 700;
+  font-size: 20px;
+}
+.response{
+  font-size: 16px;
+  padding-left: 10px;
+}

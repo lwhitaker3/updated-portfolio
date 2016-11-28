@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_code",
+  "version": "1.0.0",
+  "description": "Louise's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwhitaker3/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lwhitaker3/Portfolio/issues"
+  },
+  "homepage": "https://github.com/lwhitaker3/Portfolio#readme"
+}

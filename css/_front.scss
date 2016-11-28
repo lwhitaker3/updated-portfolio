@@ -1,0 +1,220 @@
+.intro-container-wrapper{
+  // background-image: url('../img/intro_image-02.png');
+  .intro-container{
+    color: $white;
+    height: 100vh;
+    min-height: 600px;
+    .container{
+      padding-top: 150px;
+    }
+    @media (max-width: $screen-sm-min) {
+      .container{
+        padding-top: 100px;
+      }
+    }
+    h1{
+      font-size: 60px;
+      font-weight: 700;
+    }
+    @media (max-width: $screen-sm-min) {
+      h1{
+        font-size: 42px;
+      }
+    }
+  }
+}
+
+
+.about-container{
+  .about_row{
+    margin: 50px 0 0;
+  }
+  .btn-default{
+    margin: 50px 0 100px;
+  }
+  h1{
+    font-size: 90px;
+    margin: 0;
+  }
+  h3{
+    font-size: 50px;
+    line-height: 1.1;
+  }
+  p{
+    line-height: 1.7;
+    text-align: left;
+  }
+  @media (max-width: $screen-sm-min) {
+    h1{
+      font-size: 60px;
+    }
+    h3{
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.resume-container{
+  p{
+    &.larger{
+      margin-bottom: 60px;
+    }
+  }
+  h6:before{
+      background-color: white;
+  }
+  h6:after {
+      background-color: white;
+  }
+  .resumeIcons{
+    width: 40%;
+  }
+  .btn-reverse{
+    margin: 50px 0;
+  }
+}
+
+.portfolio-container{
+  .btn-default{
+    margin: 50px 0;
+  }
+}
+// TEXT ROTATOR
+#rotator{
+  text-align: center;
+  font-size: 30px;
+}
+#underline{
+    border-bottom: 2px solid $white;
+}
+#change{
+  color: $dark-grey;
+  display: inline-block;
+  width: 220px;
+  text-align: left;
+  line-height: 0;
+  margin: 0;
+  opacity: 0;
+  top: -5px;
+  transition: opacity .5s ease-in,top 0s ease-in .5s;
+  position: relative;
+  font-weight: normal;
+  &.fadeIn{
+    opacity: 1;
+    top: 0;
+    transition: opacity .5s ease-in,top .5s ease-in;
+  }
+}
+
+
+
+// Position text along bottom
+$text-offset: 400px - 90;
+$a-height: 400px;
+
+.accordion {
+  width:100%;
+  max-width:100%;
+  height:$a-height;
+  overflow:hidden;
+  margin:20px auto 0;
+  ul {
+    width:100%;
+    display:table;
+    table-layout:fixed;
+    margin:0;
+    padding:0;
+    li {
+      display:table-cell;
+      vertical-align:bottom;
+      position: relative;
+      width:16.666%; // 6 into 100
+      height:$a-height;
+      background-repeat:no-repeat;
+      background-position:center center;
+      background-size: cover;
+      transition:all 500ms ease;
+      div {
+        display:block;
+        overflow:hidden;
+        width:100%;
+        text-align: left;
+        a {
+          display:block;
+          height:$a-height;
+          width:100%;
+          position:relative;
+          z-index:3;
+          vertical-align:bottom;
+          // padding:15px 20px;
+          box-sizing:border-box;
+          color:#fff;
+          text-decoration:none;
+          font-family:Open Sans, sans-serif;
+          transition:all 200ms ease;
+          * {
+            opacity:0;
+            margin:0;
+            width:100%;
+            text-overflow:ellipsis;
+            position:relative;
+            z-index:5;
+            white-space:nowrap;
+            overflow:hidden;
+            -webkit-transform:translateX(-20px);
+            transform:translateX(-20px);
+            -webkit-transition:all 400ms ease;
+            transition:all 400ms ease;
+          }
+          div{
+            position: absolute;
+            background-color: $primary-color;
+            bottom: 0;
+            padding: 15px;
+          }
+        }
+      }
+    }
+    // Background images
+    li:nth-child(1) { background-image:url('http://michael-ferry.com/assets/accordion1.jpg'); }
+    li:nth-child(2) { background-image:url('http://michael-ferry.com/assets/accordion2.jpg'); }
+    li:nth-child(3) { background-image:url('http://michael-ferry.com/assets/accordion3.jpg'); }
+    &:hover li { width:8%; }
+    &:hover li:hover {
+      width:60%;
+      a {
+        background:rgba(255,255,255,.1);
+        * {
+          opacity:1;
+          -webkit-transform:translateX(0);
+          transform:translateX(0);
+        }
+      }
+    }
+  }
+}
+
+// Stack items
+@media screen and (max-width: $screen-sm-min) {
+  body { margin:0; }
+  .accordion {
+    height:auto;
+    ul li{
+      height: 200px;
+    }
+    ul li div a{
+      height: 200px;
+    }
+    ul,ul:hover {
+      li,li:hover {
+        position:relative;
+        display:table;
+        table-layout:fixed;
+        width:100%;
+        -webkit-transition:none;
+        transition:none;
+      }
+    }
+  }
+}
