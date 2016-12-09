@@ -129,7 +129,7 @@
           </div>
           <div class="row">
             <div class="col-sm-6 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/dashboard/v2wire.png">
+              <img class="product" alt="placeholder" src="/img/dashboard/v2wire3.png">
 
             </div>
             <div class="col-sm-6">
@@ -222,7 +222,7 @@
                     <p>These are some of the very early sketches that were completed.</p>
                   </div>
                   <div class="col-sm-7">
-                    PICTURE HERE
+                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/sketches.jpg">
                   </div>
                 </div>
               </div>
@@ -240,13 +240,13 @@
                     <p>The first version of the wireframes were developed to better understand what features were needed on each of the pages. They were very rough, but helped solidify the navigation structure and the form design.</p>
                   </div>
                   <div class="col-sm-5">
-                    PICTURE HERE
+                    <img class="portfolio_picture" alt="Version 1 of Wireframes" src="/img/dashboard/v1wires.jpg">
                   </div>
                   <div class="col-sm-7">
                     <p>The second version of the wireframes were created to showcase the design of the system.</p>
                   </div>
                   <div class="col-sm-5">
-                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wire.png">
+                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wire2.png">
                   </div>
                 </div>
               </div>
