@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Louise's Portfolio</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/aos.css" />
+        <title>Louise's Resume</title>
 
-        <link rel="stylesheet" href="css/main.css">
+        <?php include 'templates/head.php'; ?>
 
-        <link rel="shortcut icon" type="image/x-icon" href="favicon/favicon.ico">
-
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
@@ -25,7 +16,7 @@
       <div class="container-fluid intro-resume-container">
         <div class="container">
           <img class="header_picture" alt="notebook" src="img/intro_images-05.png">
-          <h1 data-aos="fade-down">Resume</h1>
+          <h1 class="fadeInDown">Resume</h1>
         </div>
       </div>
 

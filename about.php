@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Louise's Portfolio</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/aos.css" />
+        <title>About Louise</title>
 
-        <link rel="stylesheet" href="css/main.css">
+        <?php include 'templates/head.php'; ?>
 
-        <link rel="shortcut icon" type="image/x-icon" href="favicon/favicon.ico">
-
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
 
 
@@ -24,7 +15,7 @@
       <div class="container-fluid intro-about-container">
         <div class="container">
           <img class="header_picture" alt="coffee" src="img/intro_images-06.png">
-          <h1 data-aos="fade-down">ABOUT ME</h1>
+          <h1 class="fadeInDown">ABOUT ME</h1>
         </div>
       </div>
 
@@ -33,17 +24,17 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-4">
-              <div class="about_pic_wrapper">
+              <div data-aos="fade-right" data-aos-once="true" class="about_pic_wrapper">
                 <img class="aboutPics" alt="At Meetup" src="img/louise-01.jpg">
               </div>
             </div>
             <div class="col-sm-4">
-              <div class="hidden-xs about_pic_wrapper">
+              <div data-aos="fade" data-aos-once="true" class="hidden-xs about_pic_wrapper">
                 <img class="aboutPics" alt="Graduation" src="img/louise-02.jpg">
               </div>
             </div>
             <div class="col-sm-4">
-              <div class="hidden-xs about_pic_wrapper">
+              <div data-aos="fade-left" data-aos-once="true" class="hidden-xs about_pic_wrapper">
                 <img class="aboutPics" alt="Presenting Project" src="img/louise-03.jpg">
               </div>
             </div>
@@ -99,9 +90,6 @@
 
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
       <script src="js/aos.js"></script>
-      <script>
-        AOS.init();
-      </script>
       <script src="js/parallax.min.js"></script>
       <script src="js/main.js"></script>
     </body>

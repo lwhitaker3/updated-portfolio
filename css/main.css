@@ -5963,6 +5963,46 @@ p {
 
   h2 {
     font-size: 36px; } }
+.fadeInDown {
+  -webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-20px); }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0); } }
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-60px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0); } }
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+@keyframes fadeIn {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
 .navbar {
   background-color: transparent; }
   .navbar a.navbar-brand {
@@ -6233,7 +6273,6 @@ p {
       width: 16.666%;
       height: 400px;
       background-repeat: no-repeat;
-      background-position: center center;
       background-size: cover;
       transition: all 500ms ease; }
       .accordion ul li div {
@@ -6272,17 +6311,20 @@ p {
             bottom: 0;
             padding: 15px; }
     .accordion ul li:nth-child(1) {
-      background-image: url("http://michael-ferry.com/assets/accordion1.jpg"); }
+      background-image: url("../img/home_portfolio-03.png");
+      background-position: center left; }
     .accordion ul li:nth-child(2) {
-      background-image: url("http://michael-ferry.com/assets/accordion2.jpg"); }
+      background-image: url("../img/home_portfolio-01.png");
+      background-position: center center; }
     .accordion ul li:nth-child(3) {
-      background-image: url("http://michael-ferry.com/assets/accordion3.jpg"); }
+      background-image: url("../img/home_portfolio-02.png");
+      background-position: center right; }
     .accordion ul:hover li {
       width: 8%; }
     .accordion ul:hover li:hover {
       width: 60%; }
       .accordion ul:hover li:hover a {
-        background: rgba(255, 255, 255, 0.1); }
+        background: rgba(255, 255, 255, 0.5); }
         .accordion ul:hover li:hover a * {
           opacity: 1;
           -webkit-transform: translateX(0);
@@ -6634,7 +6676,8 @@ footer {
   opacity: 0; }
 
 .portfolio-item-wrapper h2 {
-  font-size: 36px;
+  font-size: 28px;
+  line-height: 1.4;
   font-weight: 700;
   display: block;
   width: 100%;
@@ -6646,8 +6689,8 @@ footer {
   margin: 0; }
 
 .portfolio-item-wrapper p {
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
   display: block;
   width: 100%;
   text-align: left; }

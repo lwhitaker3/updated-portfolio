@@ -132,7 +132,6 @@ $a-height: 400px;
       width:16.666%; // 6 into 100
       height:$a-height;
       background-repeat:no-repeat;
-      background-position:center center;
       background-size: cover;
       transition:all 500ms ease;
       div {
@@ -177,14 +176,25 @@ $a-height: 400px;
       }
     }
     // Background images
-    li:nth-child(1) { background-image:url('http://michael-ferry.com/assets/accordion1.jpg'); }
-    li:nth-child(2) { background-image:url('http://michael-ferry.com/assets/accordion2.jpg'); }
-    li:nth-child(3) { background-image:url('http://michael-ferry.com/assets/accordion3.jpg'); }
+    li:nth-child(1) {
+      background-image:url('../img/home_portfolio-03.png');
+      background-position:center left;
+
+    }
+    li:nth-child(2) {
+      background-image:url('../img/home_portfolio-01.png');
+      background-position:center center;
+    }
+    li:nth-child(3) {
+      background-image:url('../img/home_portfolio-02.png');
+      background-position:center right;
+
+    }
     &:hover li { width:8%; }
     &:hover li:hover {
       width:60%;
       a {
-        background:rgba(255,255,255,.1);
+        background:rgba(255,255,255,.5);
         * {
           opacity:1;
           -webkit-transform:translateX(0);
