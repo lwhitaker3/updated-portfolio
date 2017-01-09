@@ -206,19 +206,30 @@
     }
   }
 }
-.inner-navbar-wrapper{
+.process-row-wrapper {
   position: relative;
+}
+.inner-navbar-wrapper{
+  bottom: 0;
+  position: absolute;
+  top: -100px;
 }
 .inner-navbar{
   position: absolute;
-  top: 100px;
   z-index: 1;
   padding-right: 5px;
   // border-right: 1px solid black;
 }
-.stick {
+.inner-navbar:not(.bottom) {
+  top: 100px;
+}
+.inner-navbar.stick {
     position:fixed;
     top:100px;
+}
+.inner-navbar.bottom {
+  position: absolute;
+  bottom: 0;
 }
 .step{
   padding: 0px 0px 40px 0px;

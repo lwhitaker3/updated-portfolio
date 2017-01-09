@@ -304,7 +304,7 @@
       <script src="/js/main.js"></script>
       <script>
 
-        $('body').scrollspy({ target: '.inner-navbar', offset: 50})
+        $('body').scrollspy({ target: '.inner-navbar', offset: 100})
 
         // Add smooth scrolling on all links inside the navbar
         $(".inner-navbar a").on('click', function(event) {
@@ -321,7 +321,7 @@
             // Using jQuery's animate() method to add smooth page scroll
             // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
             $('html, body').animate({
-              scrollTop: $(hash).offset().top-50
+              scrollTop: $(hash).offset().top-99
             }, 800, function(){
 
             // Add hash (#) to URL when done scrolling (default click behavior)
@@ -332,38 +332,32 @@
 
         });
 
-        var s;
-        var pos;
-        var height;
-        var bottomPos;
+        (function() {
+          $(document).ready(handlePageUpdate);
+          $(window).resize(handlePageUpdate);
+          $(window).scroll(handlePageUpdate);
 
-        $(document).ready(function() {
-            s = $(".inner-navbar-wrapper");
-            pos = s.position();
-            height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-            bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
-
-        });
-
-        $(window).resize(function() {
-          s = $(".inner-navbar-wrapper");
-          pos = s.position();
-          height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-          bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
-
-        });
-
-        $(window).scroll(function() {
+          function handlePageUpdate() {
             var windowpos = $(window).scrollTop();
-            if (windowpos >= pos.top) {
+            if (windowpos >= $(".inner-navbar-wrapper").offset().top) {
                 $(".inner-navbar").addClass("stick");
-                if (bottomPos >= height) {
+                $(".inner-navbar").removeClass("bottom");
+
+                // Absolute bottom of content area.
+                var bottomPos = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
+                // Viewport to bottom of navbar.
+                // 100px offset from top of navbar to top of viewport.
+                var navbarBottom = $(".inner-navbar").height() + 100;
+                if (windowpos + navbarBottom >= bottomPos) {
                     $(".inner-navbar").removeClass("stick");
+                    $(".inner-navbar").addClass("bottom");
                 }
             } else {
                 $(".inner-navbar").removeClass("stick");
+                $(".inner-navbar").removeClass("bottom");
             }
-        });
+          }
+        })();
 
         $('.carousel').slick({
           dots: true,
