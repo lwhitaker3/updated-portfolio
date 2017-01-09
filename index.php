@@ -70,17 +70,17 @@
           </div>
           <div class="row">
             <div data-aos="fade-right" data-aos-once="true" class="col-sm-4">
-              <img class="resumeIcons" alt="UX/UI Design" src="img/skills_icons-1.png">
+              <img class="resumeIcons" alt="UX/UI Design" src="img/icons/ux-design.png">
               <h4>UX/UI Design</h4>
               <p>From wireframing to prototyping, I enjoy creating interactive experiences that make sense. I have experience using Sketch, InVision, Axure RP, Illustrator, Photoshop and inDesign.</p>
             </div>
             <div data-aos="fade" data-aos-once="true" class="col-sm-4">
-              <img class="resumeIcons" alt="UX Research" src="img/skills_icons-2.png">
+              <img class="resumeIcons" alt="UX Research" src="img/icons/ux-research.png">
               <h4>UX Research</h4>
               <p>Knowing how users think and what they expect is so important to creating products that work. I have conducted card sorts, interviews, ethnography studies, and usability tests.</p>
             </div>
-            <div class="col-sm-4">
-              <img data-aos="fade-left" data-aos-once="true" class="resumeIcons" alt="Code" src="img/skills_icons-3.png">
+            <div data-aos="fade-left" data-aos-once="true" class="col-sm-4">
+              <img class="resumeIcons" alt="Code" src="img/icons/dev.png">
               <h4>Code</h4>
               <p>I love building sites that are intuitive and easy to use or using coding as a tool to prototype. I can code with HTML, CSS/SCSS, Javascript, PHP, and Wordpress.</p>
             </div>

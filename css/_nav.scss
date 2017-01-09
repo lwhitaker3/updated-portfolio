@@ -15,6 +15,10 @@
 .navbar-default .navbar-nav > li > a {
   color: $white;
   font-size: 16px;
+  transition: all .2s ease-in;
+  &:hover{
+    color: $dark-grey;
+  }
 }
 
 .navbar-fixed-top{
@@ -156,7 +160,7 @@
   z-index: 100;
   top: 0;
   left: 0;
-  background-image: url('../img/menu_image.png');
+  background-image: url('../img/backgrounds/menu_image.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -185,10 +189,10 @@
     display: block;
     transition: 0.3s;
     &:hover{
-      color: $primary-light-color;
+      color: $dark-grey;
     }
     &:focus{
-      color: $primary-light-color;
+      color: $dark-grey;
     }
   }
   .overlay-icon-wrapper{
@@ -200,7 +204,7 @@
     width: 75px;
     transition: all .2s ease-in;
     &:hover{
-      background-color: $primary-light-color;
+      background-color: $dark-grey;
     }
     img{
       width: 100%;

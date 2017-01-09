@@ -14,7 +14,7 @@
 
       <div class="container-fluid intro-about-container">
         <div class="container">
-          <img class="header_picture" alt="coffee" src="img/intro_images-06.png">
+          <img class="header_picture fadeIn" alt="coffee" src="img/intro_image/coffee.png">
           <h1 class="fadeInDown">ABOUT ME</h1>
         </div>
       </div>
@@ -25,17 +25,17 @@
           <div class="row">
             <div class="col-sm-4">
               <div data-aos="fade-right" data-aos-once="true" class="about_pic_wrapper">
-                <img class="aboutPics" alt="At Meetup" src="img/louise-01.jpg">
+                <img class="aboutPics" alt="At Meetup" src="img/photos/louise-01.jpg">
               </div>
             </div>
             <div class="col-sm-4">
               <div data-aos="fade" data-aos-once="true" class="hidden-xs about_pic_wrapper">
-                <img class="aboutPics" alt="Graduation" src="img/louise-02.jpg">
+                <img class="aboutPics" alt="Graduation" src="img/photos/louise-02.jpg">
               </div>
             </div>
             <div class="col-sm-4">
               <div data-aos="fade-left" data-aos-once="true" class="hidden-xs about_pic_wrapper">
-                <img class="aboutPics" alt="Presenting Project" src="img/louise-03.jpg">
+                <img class="aboutPics" alt="Presenting Project" src="img/photos/louise-03.jpg">
               </div>
             </div>
           </div>

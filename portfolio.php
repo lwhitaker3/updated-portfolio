@@ -14,7 +14,7 @@
 
       <div class="container-fluid intro-portfolio-container">
         <div class="container">
-          <img class="header_picture" alt="notebook" src="img/intro_images-04.png">
+          <img class="header_picture fadeIn" alt="notebook" src="img/intro_image/notebook.png">
           <h1 class="fadeInDown">Portfolio</h1>
         </div>
       </div>
@@ -37,10 +37,10 @@
 
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_thumb-02.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/good_lemon.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
         						<div class="portfolio-item-caption">
         							<h2>The Good Lemon</h2>
                       <p>Spreading goodness, 1 lemonade at a time</p>
@@ -52,10 +52,10 @@
 
             <div class="mix uxr">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_thumb-03.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/radio_ui.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>Radio UI</h2>
                       <p>A touchscreen interface for police radios</p>
@@ -67,10 +67,10 @@
 
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>PERFECT DATE</h2>
                       <p>Plan your perfect date based on the weather</p>
@@ -82,10 +82,10 @@
 
             <div class="mix code">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>PERFECT DATE</h2>
                       <p>Plan your perfect date based on the weather</p>
@@ -97,10 +97,10 @@
 
             <div class="mix code">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>PERFECT DATE</h2>
                       <p>Plan your perfect date based on the weather</p>
@@ -112,10 +112,10 @@
 
             <div class="mix other">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/portfolio_placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
                 <a href="portfolio-single.html">
                   <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/magnify.png">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>PERFECT DATE</h2>
                       <p>Plan your perfect date based on the weather</p>

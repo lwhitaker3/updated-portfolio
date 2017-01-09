@@ -40,17 +40,17 @@
         <div class="row">
             <a href="mailto:l.whitaker@umiami.edu">
               <div class="overlay-icon-wrapper">
-                <img alt="email" src="/img/social_icon-01.png">
+                <img alt="email" src="/img/icons/email.png">
               </div>
             </a>
             <a href="https://www.linkedin.com/in/louiserwhitaker">
               <div class="overlay-icon-wrapper">
-                <img alt="linked in" src="/img/social_icon-02.png">
+                <img alt="linked in" src="/img/icons/linkedin.png">
               </div>
             </a>
             <a href="https://www.github.com/lwhitaker3">
               <div class="overlay-icon-wrapper">
-                <img alt="github" src="/img/social_icon-03.png">
+                <img alt="github" src="/img/icons/github.png">
               </div>
             </a>
         </div>

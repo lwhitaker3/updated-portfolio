@@ -218,7 +218,8 @@ p{
     margin: 0 0 5px 0;
   }
   padding: 30px;
-  background-color: lighten($light-grey, 15);
+  border-left: 1px solid $secondary-color;
+  // background-color: lighten($light-grey, 15);
   p.last{
     margin-bottom: 20px;
   }
@@ -302,6 +303,7 @@ p{
 @import "_nav.scss";
 @import "_front.scss";
 @import "_footer.scss";
+@import "_credits.scss";
 @import "_about.scss";
 @import "_resume.scss";
 @import "_portfolio.scss";

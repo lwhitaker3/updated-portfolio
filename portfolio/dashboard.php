@@ -332,31 +332,39 @@
 
         });
 
+        var s;
+        var pos;
+        var height;
+        var bottomPos;
+
         $(document).ready(function() {
-            var s = $(".inner-navbar-wrapper");
-            var pos = s.position();
-            var height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
+            s = $(".inner-navbar-wrapper");
+            pos = s.position();
+            height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
+            bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
 
+        });
 
-            $(window).resize(function() {
-              var height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-            });
+        $(window).resize(function() {
+          s = $(".inner-navbar-wrapper");
+          pos = s.position();
+          height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
+          bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
 
-            $(window).scroll(function() {
-                var windowpos = $(window).scrollTop();
-                if (windowpos >= pos.top) {
-                    $(".inner-navbar").addClass("stick");
-                    var bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
-                    if (bottomPos >= height) {
-                        $(".inner-navbar").removeClass("stick");
-                    }
-                } else {
+        });
+
+        $(window).scroll(function() {
+            var windowpos = $(window).scrollTop();
+            if (windowpos >= pos.top) {
+                $(".inner-navbar").addClass("stick");
+                if (bottomPos >= height) {
                     $(".inner-navbar").removeClass("stick");
                 }
-            });
+            } else {
+                $(".inner-navbar").removeClass("stick");
+            }
         });
-      </script>
-      <script>
+
         $('.carousel').slick({
           dots: true,
           infinite: false,

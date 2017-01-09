@@ -1,0 +1,63 @@
+.intro-credit-container{
+  color: white;
+  height: 300px;
+  padding-top: 100px;
+  h1{
+    margin-left: 40%;
+  }
+  .container{
+    position: relative;
+    height: 100%;
+    .header_picture{
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: auto;
+      width: 36%;
+    }
+  }
+}
+@media (min-width: 550px) and (max-width: $screen-sm-min) {
+  .intro-credit-container{
+    height: 250px;
+    padding-top: 150px;
+    .container{
+      .header_picture{
+        width: 40%;
+      }
+    }
+  }
+}
+@media (max-width: 550px) {
+  .intro-credit-container{
+    height: 200px;
+    padding-top: 100px;
+    .container{
+      .header_picture{
+        width: 40%;
+      }
+    }
+    h1{
+      font-size: 32px;
+    }
+  }
+}
+
+.credits{
+  margin-bottom: 50px;
+  h2{
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  li{
+    color: $secondary-color;
+  }
+  a{
+    color: $dark-grey;
+    text-decoration: none;
+    transition: all .2s ease-in;
+    &:hover{
+      color: $secondary-color;
+    }
+  }
+}
