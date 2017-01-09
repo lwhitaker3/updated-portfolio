@@ -3,16 +3,17 @@ AOS.init();
 // PARALLAX
 
 $('.intro-container').parallax({
-	imageSrc: './img/intro_image.png',
+	imageSrc: './img/backgrounds/intro_image.png',
 	speed: .4,
 	position: top,
 });
-$('.intro-portfolio-container').parallax({imageSrc: '/img/header-03.jpg', speed: .4});
-$('.intro-about-container').parallax({imageSrc: '/img/header-03.jpg', speed: .4});
-$('.intro-resume-container').parallax({imageSrc: '/img/header-03.jpg', speed: .2});
+$('.intro-portfolio-container').parallax({imageSrc: '/img/backgrounds/header.jpg', speed: .4});
+$('.intro-about-container').parallax({imageSrc: '/img/backgrounds/header.jpg', speed: .4});
+$('.intro-resume-container').parallax({imageSrc: '/img/backgrounds/header.jpg', speed: .2});
+$('.intro-credit-container').parallax({imageSrc: '/img/backgrounds/header.jpg', speed: .2});
 
 
-$('.intro-portfolio-single-container').parallax({imageSrc: '/img/background-01.png', speed: .4});
+$('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-01.png', speed: .4});
 
 
 // MAIN NAV
@@ -46,77 +47,65 @@ $(document).ready(function(){
 	}
 });
 
-
-var menuwidth;
 var list1;
 var list2;
 var list3;
 
-$(document).ready(function(){
-	menuwidth = $('.nav-bar-relative').width()+$('.nav-bar-relative').offset().left+30;
-	list1 = menuwidth - ($('#menuList li:nth-child(1)').width() + $('#menuList li:nth-child(1)').offset().left) + 15;
-	list2 = menuwidth - ($('#menuList li:nth-child(2)').width() + $('#menuList li:nth-child(2)').offset().left) + 15;
-	list3 = menuwidth - ($('#menuList li:nth-child(3)').width() + $('#menuList li:nth-child(3)').offset().left) + 15;
+$(document).ready(cacheMenuSize);
+$(window).resize(cacheMenuSize);
+
+function cacheMenuSize() {
+	var menuwidth = $('.nav-bar-relative').width()+$('.nav-bar-relative').offset().left+30;
+	var items = $('#menuList li');
+	items.css({
+		"transform": "translate(0px, 0px)",
+		"transition-duration": "0s"
+	});
+	var item1 = $(items[0]);
+	var item2 = $(items[1]);
+	var item3 = $(items[2]);
+	list1 = menuwidth - (item1.width() + item1.offset().left) + 15;
+	list2 = menuwidth - (item2.width() + item2.offset().left) + 15;
+	list3 = menuwidth - (item3.width() + item3.offset().left) + 15;
 	console.log(list1);
-});
 
-// $(window).resize(function(){
-// 	menuwidth = $('.nav-bar-relative').width()+$('.nav-bar-relative').offset().left+30;
-// 	list1 = menuwidth - ($('#menuList li:nth-child(1)').width() + $('#menuList li:nth-child(1)').offset().left) + 15;
-// 	list2 = menuwidth - ($('#menuList li:nth-child(2)').width() + $('#menuList li:nth-child(2)').offset().left) + 15;
-// 	list3 = menuwidth - ($('#menuList li:nth-child(3)').width() + $('#menuList li:nth-child(3)').offset().left) + 15;
-// 	console.log(list1);
-// });
-
-
-$(document).ready(function(){
-	if($(document).scrollTop()>50){
-		$('#menuList').addClass('listHidden');
-		$('#menuList li:nth-child(1)').css({"transform": "translate(" + list1 + "px, 0px)"});
-		$('#menuList li:nth-child(2)').css({"transform": "translate(" + list2 + "px, 0px)"});
-		$('#menuList li:nth-child(3)').css({"transform": "translate(" + list3 + "px, 0px)"});
-    $('#menuIcon').addClass('show');
-		$('.navbar.main-nav.main-nav').css("background-color","rgba(255,255,255,1)");
-		$(".navbar-brand.main-nav").html( "<img alt='LRW Logo' src='img/logo-pink.png'>" );
-		$('.navbar.main-nav.main-nav').css("transition","background-color 1s ease-in");
-		$('#nav-icon1.main-nav span').removeClass("removepinkcolor");
+	if (isNavScrolled()) {
+		item1.css({"transform": "translate(" + list1 + "px, 0px)"});
+		item2.css({"transform": "translate(" + list2 + "px, 0px)"});
+		item3.css({"transform": "translate(" + list3 + "px, 0px)"});
+	}
+	items.css({
+		"transition-duration": ""
+	});
+};
 
 
-  } else {
-    $('#menuIcon').removeClass('show');
-    $('#menuList').removeClass('listHidden');
-		$('#menuList li:nth-child(1),#menuList li:nth-child(2),#menuList li:nth-child(3)').css({"transform": "translate(0px, 0px)"});
-		$('.navbar.main-nav.main-nav').css("background-color","transparent");
-		$(".navbar-brand.main-nav").html( "<img alt='LRW Logo' src='img/logo-white.png'>" );
-		$('.navbar.main-nav.main-nav').css("transition","background-color 1s ease-in");
-		$('#nav-icon1.main-nav span').addClass("removepinkcolor");
+$(document).ready(handleScroll);
+$(document).scroll(handleScroll);
 
-  }
-});
-
-
-$(document).scroll(function(){
-  if($(document).scrollTop()>50){
+function handleScroll() {
+	if(isNavScrolled()){
 		$('#menuList').addClass('listHidden');
 		$('#menuList li:nth-child(1)').css({"transform": "translate(" + list1 + "px, 0px)"});
 		$('#menuList li:nth-child(2)').css({"transform": "translate(" + list2 + "px, 0px)"});
 		$('#menuList li:nth-child(3)').css({"transform": "translate(" + list3 + "px, 0px)"});
     $('#menuIcon').addClass('show');
 		$('.navbar.main-nav').css("background-color","rgba(255,255,255,1)");
-		$(".navbar-brand.main-nav").html( "<img alt='LRW Logo' src='/img/logo-pink.png'>" );
-		$('.navbar.main-nav').css("transition","background-color 1s ease-in");
+		$('.main-nav #logo-pink').show();
+		$('.main-nav #logo-white').hide();
 		$('#nav-icon1.main-nav span').removeClass("removepinkcolor");
-
-
   } else {
     $('#menuIcon').removeClass('show');
     $('#menuList').removeClass('listHidden');
 		$('#menuList li:nth-child(1),#menuList li:nth-child(2),#menuList li:nth-child(3)').css({"transform": "translate(0px, 0px)"});
 		$('.navbar.main-nav').css("background-color","transparent");
-		$(".navbar-brand.main-nav").html( "<img alt='LRW Logo' src='/img/logo-white.png'>" );
-		$('.navbar.main-nav').css("transition","background-color 1s ease-in");
+		$('.main-nav #logo-pink').hide();
+		$('.main-nav #logo-white').show();
 		$('#nav-icon1.main-nav span').addClass("removepinkcolor");
-
   }
-});
+}
+
+function isNavScrolled() {
+	return $(document).scrollTop() > 50;
+}
 // MAIN NAV

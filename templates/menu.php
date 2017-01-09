@@ -9,7 +9,8 @@
         <span></span>
       </div>
       <a class="navbar-brand main-nav" href="/index.php">
-        <img alt="LRW Logo" src="/img/logo-white.png">
+        <img alt="LRW Logo" src="/img/logo-white.png" id="logo-white">
+        <img alt="LRW Logo" src="/img/logo-pink.png" id="logo-pink" style="display: none">
       </a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
