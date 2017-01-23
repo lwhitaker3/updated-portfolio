@@ -6,6 +6,15 @@
 
         <?php include 'templates/head.php'; ?>
 
+        <style>
+        .construction_message{
+          font-size: 18px;
+          text-align: center;
+          margin: 30px 0 100px;
+
+        }
+        </style>
+
     </head>
     <body>
 
@@ -23,114 +32,9 @@
       <div class="container-fluid space">
         <div class="container">
 
-          <div data-aos="fade" data-aos-once="true" class="row text-center filter-buttons">
-            <div class="col-sm-12">
-              <button class="btn btn-default filter" data-filter=".uxd">UX Design</button>
-              <button class="btn btn-default filter" data-filter=".uxr">UX Research</button>
-              <button class="btn btn-default filter" data-filter=".code">Code</button>
-              <button class="btn btn-default filter" data-filter=".other">Other</button>
-              <button class="btn btn-default filter" data-filter="all">Show All</button>
-            </div>
-          </div>
-
-          <div id="filter-section" class="row portfolio-item-row">
-
-            <div class="mix uxd">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/good_lemon.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-        						<div class="portfolio-item-caption">
-        							<h2>The Good Lemon</h2>
-                      <p>Spreading goodness, 1 lemonade at a time</p>
-        						</div>
-                  </div>
-                </a>
-    					</div>
-            </div>
-
-            <div class="mix uxr">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/radio_ui.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>Radio UI</h2>
-                      <p>A touchscreen interface for police radios</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="mix uxd">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>PERFECT DATE</h2>
-                      <p>Plan your perfect date based on the weather</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="mix code">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>PERFECT DATE</h2>
-                      <p>Plan your perfect date based on the weather</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="mix code">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>PERFECT DATE</h2>
-                      <p>Plan your perfect date based on the weather</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="mix other">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
-                <a href="portfolio-single.html">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>PERFECT DATE</h2>
-                      <p>Plan your perfect date based on the weather</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="gap"></div>
-            <div class="gap"></div>
+          <p class="construction_message">This page is under construction, check back later for projects.</p>
 
 
-
-          </div>
         </div>
       </div>
 

@@ -44,20 +44,21 @@
 
       <div class="about-text container-fluid space">
         <div class="container">
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-sm-offset-2 col-sm-8">
               <p class="larger-intro">I have always loved design and technology; UX design allows me to bring those two passions together.</p>
             </div>
-          </div>
+          </div> -->
           <div class="row flex">
 
 
 
 
             <div class="col-sm-8 col-md-offset-1">
-              <p class="about-me">My journey to discovering my passion for UX began as an undergrad. I worked at the Department of Housing and Residential Life in the freshman dorms. The hardest part of my job was not dealing with frustrated parents or the 900 freshman residents, it was trying to understand all of the software we used to complete tasks everyday. When I started taking web development classes as junior, I learned about user centered design. If all products were designed with end-users in mind then software would be easier to use and wouldn't be the part of learning a new job that took the longest.</p>
-              <p class="about-me">I have lived in Miami for the last 5 years; I graduated with my Bachelor's degree in communication last May and stayed to get my Master's in Interactive Media. In my time at Miami I have had a chance to dive further into UX design and learn more about wireframing tools, UX research methods, and interactive design. I have also had a chance to hone in my web development skills and started learning more about back-end development.</p>
-              <p class="about-me">You will likely find me at the Starbucks on campus during the week working with a latte in hand. In my spare time, I love to scrapbook, watch Netflix, and spend time with friends.</p>
+              <p class="about-me">I graduated with my bachelor's degree in communication in May of 2015 from the University of Miami and continued on to get my master's in Interactive Media. While working towards my master’s, I have had a chance to dive further into UX design and learn more about wireframing and prototyping tools, UX research methods, human factors, and interaction design. I’ve also had the opportunity to sharpen my web development skills and become acquainted with back-end development and database design.</p>
+              <p class="about-me">As an undergrad, I worked at the Department of Housing and Residential Life in the freshman dorms. The hardest part of my job wasn’t dealing with frustrated parents or the 900 freshman residents, it was trying to understand all of the software we used to complete everyday tasks. When I was introduced to user-centered design, I realized that if all products were designed with the end-user in mind, then the software wouldn't be the hardest part of mastering a new job.</p>
+              <p class="about-me">To me, UX design is like a giant puzzle. It’s about solving problems big and small and making sure all the parts fit together to create a cohesive experience. I love that it’s logical and creative at the same time. There’s no single answer; it's about finding the solution that best fits the situation.</p>
+              <p class="about-me">I am originally from Seattle, but I have lived in Miami for the last 5 years. When I graduate I am looking to move back to Seattle, despite the gloomy weather. I’m a proud Seahawks fan and coffee addict, so I like to think that I am still a true Seattleite at heart.</p>
             </div>
 
             <div class="quick-facts col-sm-4 col-md-3 flex-vertical-align hidden-xs">

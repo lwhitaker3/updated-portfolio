@@ -1,7 +1,7 @@
 // TEXT ROTATOR
 var content=["problem solver",
              "creative thinker",
-             "Seattlite",
+             "Seattleite",
              "coffee addict",
              "Seahawks Fan",
              "ux designer"]

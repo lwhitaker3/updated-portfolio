@@ -1,33 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Louise's Portfolio</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="/css/normalize.min.css">
-        <link rel="stylesheet" href="/css/aos.css" />
+        <title>SafetyFirst</title>
+
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
 
-        <link rel="stylesheet" href="/css/main.css">
+        <?php include '../templates/head.php'; ?>
 
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico">
-
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
-
 
     <body data-spy="scroll" data-target=".inner-navbar">
 
 
 
       <?php
+      include_once '../templates/project_menu_variables.php';
       include '../templates/portfolio_menu.php';
-      $next="index.php";
-      $prev="radio.html";
       include '../templates/project_menu.php'; ?>
 
 
@@ -37,13 +27,13 @@
           <div class="row row-wrapper flex flex_box">
             <div class="col-sm-6 col-wrapper flex-vertical-align portfolio-header">
               <div class="content-wrapper">
-                <h1 data-aos="fade-down">RADIO UI</h1>
+                <h1 data-aos="fade-down">Project Name</h1>
                 <div class="row">
                   <div class="col-xs-4 col-xs-offset-4 col-sm-offset-0">
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Touch screen interface for radio used by public safety supervisors and government knowledge workers</h4>
+                <h4>Stuff</h4>
               </div>
             </div>
             <div class="col-sm-6 col-wrapper">
@@ -58,7 +48,7 @@
 
       <div class="container-fluid overview">
         <div class="container">
-          <h6 class="center">RADIO UI</h6>
+          <h6 class="center">Project Name</h6>
           <div class="row">
 
             <h2 class="center">OVERVIEW</h2>
@@ -83,24 +73,51 @@
               <div class='list-wrapper'>
                 <div class="row">
                   <h4 class="center upper">At a Glance</h4>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Skills</h5>
                     <p class="list first">Responsive Design</p>
+                    <p class="list">Front-End Devlopment</p>
+                    <p class="list">Responsive Design</p>
                     <p class="list last">Front-End Devlopment</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
                     <p class="list first">Responsive Design</p>
                     <p class="list last">Front-End Devlopment</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
                     <p class="list first">Responsive Design</p>
                     <p class="list last">Front-End Devlopment</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
                     <p class="list first">Responsive Design</p>
+                  </div>
+                  <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="col-xs-6">
+                      <h5>Skills</h5>
+                      <p class="list first">Responsive Design</p>
+                      <p class="list">Front-End Devlopment</p>
+                      <p class="list">Responsive Design</p>
+                      <p class="list last">Front-End Devlopment</p>
+                    </div>
+                    <div class="col-xs-6">
+                      <h5>Tools</h5>
+                      <p class="list first">Responsive Design</p>
+                      <p class="list last">Front-End Devlopment</p>
+                    </div>
+                  </div>
+                  <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="col-xs-6">
+                      <h5>Deliverables</h5>
+                      <p class="list first">Responsive Design</p>
+                      <p class="list last">Front-End Devlopment</p>
+                    </div>
+                    <div class="col-xs-6">
+                      <h5>Date</h5>
+                      <p class="list first">Responsive Design</p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -111,7 +128,7 @@
 
       <div class="container-fluid space product-showcase color-panel">
         <div class="container">
-          <h6 class="white">RADIO UI</h6>
+          <h6 class="white">Project Name</h6>
           <div class="row">
 
             <h2 class="center white">THE RADIO INTERFACE</h2>
@@ -150,7 +167,7 @@
 
       <div class="container-fluid space process">
         <div class="container">
-          <h6 class="center">RADIO UI</h6>
+          <h6 class="center">Project Name</h6>
           <div class="row">
 
             <h2 class="center">THE PROCESS</h2>
@@ -286,7 +303,7 @@
 
       <div class="container-fluid space final-product">
         <div class="container">
-          <h6 class="white">RADIO UI</h6>
+          <h6 class="white">Project Name</h6>
           <div class="row">
 
             <h2 class="center white">THE FINAL PRODUCT</h2>
@@ -316,7 +333,7 @@
 
       <div class="container-fluid space take-away">
         <div class="container">
-          <h6 class="center">RADIO UI</h6>
+          <h6 class="center">Project Name</h6>
           <div class="row">
 
             <h2 class="center">LESSONS LEARNED</h2>
@@ -346,122 +363,16 @@
         </div>
       </div>
 
+
+
+
+
       <?php
-      include '../templates/project_menu.php'; ?>
+      include '../templates/project_menu.php';
+      include '../templates/footer.php';
+      include '../templates/portfolio_js.php';
 
-
-
-      <?php include '../templates/footer.php'; ?>
-
-
-
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-      <script src="/js/bootstrap.min.js"></script>
-
-      <script src="/js/aos.js"></script>
-      <script>
-        AOS.init();
-      </script>
-      <script src="/js/parallax.min.js"></script>
-      <script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
-      <script>
-        $(function(){
-        	$('#filter-section').mixItUp();
-        });
-      </script>
-      <script src="/js/slick.min.js"></script>
-      <script src="/js/main.js"></script>
-      <script>
-
-        $('body').scrollspy({ target: '.inner-navbar', offset: 50})
-
-        // Add smooth scrolling on all links inside the navbar
-        $(".inner-navbar a").on('click', function(event) {
-
-          // Make sure this.hash has a value before overriding default behavior
-          if (this.hash !== "") {
-
-            // Prevent default anchor click behavior
-            event.preventDefault();
-
-            // Store hash
-            var hash = this.hash;
-
-            // Using jQuery's animate() method to add smooth page scroll
-            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-            $('html, body').animate({
-              scrollTop: $(hash).offset().top-50
-            }, 800, function(){
-
-            // Add hash (#) to URL when done scrolling (default click behavior)
-              window.location.hash = hash;
-            });
-
-          } // End if
-
-        });
-
-        $(document).ready(function() {
-            var s = $(".inner-navbar-wrapper");
-            var pos = s.position();
-            var height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-
-
-            $(window).resize(function() {
-              var height = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-            });
-
-            $(window).scroll(function() {
-                var windowpos = $(window).scrollTop();
-                if (windowpos >= pos.top) {
-                    $(".inner-navbar").addClass("stick");
-                    var bottomPos = $(".inner-navbar").height() + $(".inner-navbar").offset().top;
-                    if (bottomPos >= height) {
-                        $(".inner-navbar").removeClass("stick");
-                    }
-                } else {
-                    $(".inner-navbar").removeClass("stick");
-                }
-            });
-        });
-      </script>
-      <script>
-        $('.carousel').slick({
-          dots: true,
-          infinite: false,
-          speed: 300,
-          slidesToShow: 4,
-          slidesToScroll: 4,
-          responsive: [
-            {
-              breakpoint: 1200,
-              settings: {
-                slidesToShow: 3,
-                slidesToScroll: 3,
-                infinite: true,
-                dots: true
-              }
-            },
-            {
-              breakpoint: 992,
-              settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
-              }
-            },
-            {
-              breakpoint: 550,
-              settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1
-              }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-          ]
-        });
-      </script>
+      ?>
 
 
 

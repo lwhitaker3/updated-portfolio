@@ -1,33 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Louise's Portfolio</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="/css/normalize.min.css">
-        <link rel="stylesheet" href="/css/aos.css" />
+        <title>SafetyFirst</title>
+
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
 
-        <link rel="stylesheet" href="/css/main.css">
+        <?php include '../templates/head.php'; ?>
 
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico">
-
-        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
-
 
     <body data-spy="scroll" data-target=".inner-navbar">
 
 
 
       <?php
+      include_once '../templates/project_menu_variables.php';
       include '../templates/portfolio_menu.php';
-      $next="index.php";
-      $prev="radio.html";
       include '../templates/project_menu.php'; ?>
 
 
@@ -82,7 +72,7 @@
               <div class='list-wrapper'>
                 <div class="row">
                   <h4 class="center upper">At a Glance</h4>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Skills</h5>
                     <p class="list first">Responsive Design</p>
                     <p class="list">Prototyping</p>
@@ -90,24 +80,52 @@
                     <p class="list">Form Design</p>
                     <p class="list last">Dashboard Design</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
-                    <p class="list first">Axure</p>
+                    <p class="list first last">Axure</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
                     <p class="list first">Task Flows</p>
                     <p class="list">Site Map</p>
                     <p class="list">Annotated Wireframes</p>
                     <p class="list last">Prototype</p>
                   </div>
-                  <div class="col-xs-6 col-sm-3 col-md-12">
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
                     <p class="list first">Oct 2016 - Dec 2016</p>
+                  </div>
+                  <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="col-xs-6">
+                      <h5>Skills</h5>
+                      <p class="list first">Responsive Design</p>
+                      <p class="list">Prototyping</p>
+                      <p class="list">Interaction Design</p>
+                      <p class="list">Form Design</p>
+                      <p class="list last">Dashboard Design</p>
+                    </div>
+                    <div class="col-xs-6">
+                      <h5>Tools</h5>
+                      <p class="list first last">Axure</p>
+                    </div>
+                  </div>
+                  <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="col-xs-6">
+                      <h5>Deliverables</h5>
+                      <p class="list first">Task Flows</p>
+                      <p class="list">Site Map</p>
+                      <p class="list">Annotated Wireframes</p>
+                      <p class="list last">Prototype</p>
+                    </div>
+                    <div class="col-xs-6">
+                      <h5>Date</h5>
+                      <p class="list first">Oct 2016 - Dec 2016</p>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
@@ -277,126 +295,15 @@
         </div>
       </div>
 
+
+
+
       <?php
-      include '../templates/project_menu.php'; ?>
+      include '../templates/project_menu.php';
+      include '../templates/footer.php';
+      include '../templates/portfolio_js.php';
 
-
-
-      <?php include '../templates/footer.php'; ?>
-
-
-
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-      <script src="/js/bootstrap.min.js"></script>
-
-      <script src="/js/aos.js"></script>
-      <script>
-        AOS.init();
-      </script>
-      <script src="/js/parallax.min.js"></script>
-      <script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
-      <script>
-        $(function(){
-        	$('#filter-section').mixItUp();
-        });
-      </script>
-      <script src="/js/slick.min.js"></script>
-      <script src="/js/main.js"></script>
-      <script>
-
-        $('body').scrollspy({ target: '.inner-navbar', offset: 100})
-
-        // Add smooth scrolling on all links inside the navbar
-        $(".inner-navbar a").on('click', function(event) {
-
-          // Make sure this.hash has a value before overriding default behavior
-          if (this.hash !== "") {
-
-            // Prevent default anchor click behavior
-            event.preventDefault();
-
-            // Store hash
-            var hash = this.hash;
-
-            // Using jQuery's animate() method to add smooth page scroll
-            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-            $('html, body').animate({
-              scrollTop: $(hash).offset().top-99
-            }, 800, function(){
-
-            // Add hash (#) to URL when done scrolling (default click behavior)
-              window.location.hash = hash;
-            });
-
-          } // End if
-
-        });
-
-        (function() {
-          $(document).ready(handlePageUpdate);
-          $(window).resize(handlePageUpdate);
-          $(window).scroll(handlePageUpdate);
-
-          function handlePageUpdate() {
-            var windowpos = $(window).scrollTop();
-            if (windowpos >= $(".inner-navbar-wrapper").offset().top) {
-                $(".inner-navbar").addClass("stick");
-                $(".inner-navbar").removeClass("bottom");
-
-                // Absolute bottom of content area.
-                var bottomPos = $(".process-row-wrapper").height() + $(".process-row-wrapper").offset().top;
-                // Viewport to bottom of navbar.
-                // 100px offset from top of navbar to top of viewport.
-                var navbarBottom = $(".inner-navbar").height() + 100;
-                if (windowpos + navbarBottom >= bottomPos) {
-                    $(".inner-navbar").removeClass("stick");
-                    $(".inner-navbar").addClass("bottom");
-                }
-            } else {
-                $(".inner-navbar").removeClass("stick");
-                $(".inner-navbar").removeClass("bottom");
-            }
-          }
-        })();
-
-        $('.carousel').slick({
-          dots: true,
-          infinite: false,
-          speed: 300,
-          slidesToShow: 4,
-          slidesToScroll: 4,
-          responsive: [
-            {
-              breakpoint: 1200,
-              settings: {
-                slidesToShow: 3,
-                slidesToScroll: 3,
-                infinite: true,
-                dots: true
-              }
-            },
-            {
-              breakpoint: 992,
-              settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
-              }
-            },
-            {
-              breakpoint: 550,
-              settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1
-              }
-            }
-            // You can unslick at a given breakpoint now by adding:
-            // settings: "unslick"
-            // instead of a settings object
-          ]
-        });
-      </script>
-
-
+      ?>
 
 
     </body>
