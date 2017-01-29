@@ -1,0 +1,70 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Perfect Date</title>
+    <link rel="stylesheet" href="stylesheets/app.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Karma' rel='stylesheet' type='text/css'>
+    <script language="javascript" type="text/javascript" src="js/p5.js"></script>
+
+  </head>
+  <body class="weather_page">
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="left">
+        <li><a href="index.html"><img src="img/logo-01.png" alt="main image"></a></li>
+      </ul>
+    </nav>
+
+    <div class="row suggestion_container">
+
+      <div class="user_info row">
+        <div class="small-12 columns">
+          <h3 id="place">City</h3>
+          <a id="linkToWeather" href="weather.html"><p id="dateChosen">Date</p></a>
+        </div>
+      </div>
+
+      <div class="row">
+        <a id="refresh" href=""><div class="medium-8 small-10 small-centered columns">
+          <div class="row suggestion">
+            <div class="small-12 columns"><span id="weatherForecast">Forecast: <span id="forecast"></span></span><br> <span id="ideas"></span></div>
+          </div>
+        </a></div>
+      </div>
+
+      <div class="row">
+        <div class="small-12 columns">
+          <div class= "weather_info">
+            <div id="canvas"></div>
+            <h2><span id="temp">Temp</span><span class="tempSign">&#8457;</span></h2>
+            <p><span id="min">Temp</span>/<span id="max">Temp</span></p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/foundation/js/foundation.min.js"></script>
+    <script src="bower_components/foundation/js/foundation/foundation.dropdown.js"></script>
+      <script src="bower_components/foundation/js/foundation/foundation.topbar.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/date.js"></script>
+
+
+  </body>
+</html>

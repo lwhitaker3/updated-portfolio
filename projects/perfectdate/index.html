@@ -1,0 +1,108 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Perfect Date</title>
+    <link rel="stylesheet" href="stylesheets/app.css" />
+    <link rel="stylesheet" href="stylesheets/foundation-datepicker.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Karma' rel='stylesheet' type='text/css'>
+    <script language="javascript" type="text/javascript" src="js/p5.js"></script>
+
+  </head>
+  <body class="home" onload="addDay()">
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="left">
+        <li><img src="img/logo-01.png" alt="main image"></li>
+      </ul>
+
+
+      <ul class="right">
+        <li><a href="#"  data-reveal-id="myModal"><img class="info" src="img/info.png" alt="info"></a></li>
+
+
+      </ul>
+
+    </nav>
+    <div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+      <h1 id="modalTitle">About Perfect Date</h1>
+      <p class="lead">Plan your perfect date based on the weather</p>
+      <p>Enter your zip code so we can see the weather in your area. From there we will look at what time of day and what type of date you want to go on and give you an idea for your next date. The rest is up to you!</p>
+      <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+
+
+    <div class="form" >
+      <form name="userInfo" method="get" action="date_idea.html">
+
+      <div class="row">
+        <div class="medium-8 small-10 small-centered columns">
+          <p>Plan your perfect date based on the weather</p>
+          <div class="row collapse">
+            <div class="small-3 large-2 columns">
+              <span class="prefix"><img src="img/location.png" alt="location"></span>
+            </div>
+            <div class="small-9 large-10 columns">
+              <input type="text" name="city" placeholder="Enter your city">
+            </div>
+          </div>
+          <div class="row collapse">
+            <div class="small-3 large-2 columns">
+              <span class="prefix"><img src="img/calendar.png" alt="day"></span>
+            </div>
+            <div class="small-9 large-10 columns">
+              <select name="day" value="day1">
+                <option value="" disabled selected>Select a Day</option>
+                <option selected id="day1" value="day1"></option>
+                <option id="day2" value="day2"></option>
+                <option id="day3" value="day3"></option>
+                <option id="day4" value="day4"></option>
+                <option id="day5" value="day5"></option>
+              </select>
+            </div>
+          </div>
+          <div class="row collapse">
+            <div class="small-3 large-2 columns">
+              <span class="prefix"><img src="img/rose.png" alt="rose"></span>
+            </div>
+            <div class="small-9 large-10 columns">
+              <select name="date">
+                <option value="" disabled selected>Select a Date Category</option>
+                <option selected value="category0">Any Date</option>
+                <option value="category1">First Date</option>
+                <option value="category2">Food Date</option>
+                <option value="category3">Daytime Date</option>
+                <option value="category4">Active Date</option>
+                <option value="category5">Night In Date</option>
+                <option value="category6">Romantic Date</option>
+                <option value="category7">Cheap Date</option>
+                <option value="category8">Adventurous Date</option>
+                <option value="category9">Night Out Date</option>
+              </select>
+            </div>
+          </div>
+          <input class="button right" type="submit"  value="Get Idea"></input>
+        </form>
+        </div>
+
+
+      </div>
+
+
+    </div>
+
+
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/foundation/js/foundation.min.js"></script>
+    <script src="bower_components/foundation/js/foundation/foundation.dropdown.js"></script>
+    <script src="bower_components/foundation/js/foundation/foundation.topbar.js"></script>
+    <script src="js/weather.js"></script>
+    <script src="js/app.js"></script>
+
+
+  </body>
+</html>

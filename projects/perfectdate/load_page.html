@@ -1,0 +1,43 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Perfect Date</title>
+    <link rel="stylesheet" href="stylesheets/app.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Karma' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  </head>
+
+
+  <body class="load"><a href="index.html">
+
+    <div class="heart-wrapper">
+      <img class="heart" src="img/glasses-04.svg" alt="glasses">
+    </div>
+
+    <div class="glasses">
+      <div class="glass-wrapper"><img class="glass glass1" src="img/glasses-02.svg" alt="glasses"></div>
+      <div class="glass-wrapper"><img class="glass glass2" src="img/glasses-03.svg" alt="glasses"></div>
+    </div>
+    <h1 class="loadTitle">Perfect D<span class="a">a</span>te</h1>
+
+
+
+    <script src="js/app.js"></script>
+    <script>
+
+    $(".heart").removeClass("change").delay(2000).queue(function(next){
+        $(this).addClass("change");
+        next();
+    });
+    $("h1.loadTitle").removeClass("change").delay(2000).queue(function(next){
+        $(this).addClass("change");
+        next();
+    });
+    </script>
+
+  </a></body>
+</html>

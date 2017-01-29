@@ -13,7 +13,6 @@ $('.intro-resume-container').parallax({imageSrc: '/img/backgrounds/header.jpg', 
 $('.intro-credit-container').parallax({imageSrc: '/img/backgrounds/header.jpg', speed: .2});
 
 
-$('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-01.png', speed: .4});
 
 
 // MAIN NAV
@@ -33,7 +32,7 @@ $(document).ready(function(){
 });
 
 $( window ).resize(function() {
-	if($( window ).width() <= 786){
+	if($( window ).width() <= 768){
 		$('.flex_box').removeClass('flex');
 	}
 	else{
@@ -42,7 +41,7 @@ $( window ).resize(function() {
 });
 
 $(document).ready(function(){
-	if($( window ).width() <= 786){
+	if($( window ).width() <= 768){
 		$('.flex_box').removeClass('flex');
 	}
 });

@@ -21,15 +21,15 @@
 
 
       <div class="aboutPics-wrapper container-fluid text-center space">
-        <div class="container">
+        <div class="container flyin-container">
           <div class="row">
             <div class="col-sm-4">
-              <div data-aos="fade-right" data-aos-once="true" class="about_pic_wrapper">
+              <div data-aos="fade-right" data-aos-once="true" class="hidden-xs about_pic_wrapper">
                 <img class="aboutPics" alt="At Meetup" src="img/photos/louise-01.jpg">
               </div>
             </div>
             <div class="col-sm-4">
-              <div data-aos="fade" data-aos-once="true" class="hidden-xs about_pic_wrapper">
+              <div data-aos="fade" data-aos-once="true" class="about_pic_wrapper">
                 <img class="aboutPics" alt="Graduation" src="img/photos/louise-02.jpg">
               </div>
             </div>

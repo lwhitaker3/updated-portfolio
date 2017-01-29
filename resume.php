@@ -21,7 +21,7 @@
       </div>
 
       <div class="aboutPics-wrapper container-fluid text-center space">
-        <div class="container">
+        <div class="container flyin-container">
           <div class="row">
             <div class="col-md-offset-1 col-lg-offset-2 col-sm-12 col-md-10 col-lg-8">
               <h2 class="margin-top-50" data-aos="fade" data-aos-once="true">Louise R. Whitaker</h2>
@@ -44,7 +44,7 @@
 
 
       <div class="skills-container container-fluid text-center space">
-        <div class="container">
+        <div class="container flyin-container">
           <h2 data-aos="fade" data-aos-once="true" class="white margin-top-50">Skills</h2>
           <div data-aos="fade" data-aos-once="true" class="row">
             <div class="col-xs-offset-5 col-xs-2">
@@ -79,7 +79,7 @@
       </div>
 
       <div class="container-fluid space">
-        <div class="container">
+        <div class="container flyin-container">
           <h2 data-aos="fade" data-aos-once="true" class="center margin-top-50">Timeline</h2>
           <div data-aos="fade" data-aos-once="true" class="row">
             <div class="col-xs-offset-5 col-xs-2">
@@ -211,12 +211,6 @@
                   </div>
 
 
-
-
-
-
-
-
                   <div class="hidden-xs vertical-line"></div>
                 </div>
               </div>
@@ -227,10 +221,8 @@
 
 
 
-
-
       <div class="other-experience-container container-fluid space text-center">
-        <div class="container">
+        <div class="container flyin-container">
           <h2 data-aos="fade" data-aos-once="true" class="white margin-top-50">Projects</h2>
           <div data-aos="fade" data-aos-once="true" class="row">
             <div class="col-xs-offset-5 col-xs-2">

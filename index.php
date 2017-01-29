@@ -23,7 +23,7 @@
 
 
       <div class="about-container container-fluid text-center space">
-        <div class="container">
+        <div class="container flyin-container">
           <h6 data-aos="fade-down" data-aos-once="true">About Me</h6>
           <div class="flex_box row about_row flex">
             <div data-aos="fade-right" data-aos-once="true" class="col-sm-5 flex-vertical-align">
@@ -56,7 +56,7 @@
 
 
       <div class="resume-container container-fluid text-center space color-panel">
-        <div class="container">
+        <div class="container flyin-container">
           <h6 data-aos="fade-down" data-aos-once="true" class="white">Resume</h6>
           <h1 data-aos="fade" data-aos-once="true" >What I Do</h1>
           <div data-aos="fade" data-aos-once="true" class="row">
@@ -95,7 +95,7 @@
       </div>
 
       <div class="portfolio-container container-fluid text-center space">
-        <div class="container">
+        <div class="container flyin-container">
           <h6 data-aos="fade-down" data-aos-once="true">Portfolio</h6>
           <h1 data-aos="fade" data-aos-once="true" class="color">My Recent Work</h1>
           <div data-aos="fade" data-aos-once="true" class="row">

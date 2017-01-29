@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>Project Name</title>
+        <title>Portfolio: Princess Run</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -24,21 +24,21 @@
 
       <div class="container-fluid intro-portfolio-single-container">
         <div class="container container-wrapper">
-          <div class="row row-wrapper flex flex_box">
-            <div class="col-sm-6 col-wrapper flex-vertical-align portfolio-header">
+          <div class="row row-wrapper flex flex_box2">
+            <div class="col-md-6 col-wrapper flex-vertical-align portfolio-header">
               <div class="content-wrapper">
-                <h1 data-aos="fade-down">Project Name</h1>
+                <h1 data-aos="fade-down">Princess Run</h1>
                 <div class="row">
-                  <div class="col-xs-4 col-xs-offset-4 col-sm-offset-0">
+                  <div class="col-xs-4 col-xs-offset-4 col-md-offset-0">
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Intro</h4>
+                <h4>An infinite 2-d scrolling game developed in p5.js</h4>
               </div>
             </div>
-            <div class="col-sm-6 col-wrapper">
+            <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/phone_placeholder.png">
+                <img class="portfolio-single-intro-img" alt="Game in Laptop" src="/img/princessrun/intro.png">
               </div>
             </div>
           </div>
@@ -62,11 +62,10 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Talk About the Ask</p>
+              <p>Create an "awesome" skecth with p5.JS</p>
               <h3>Project Description</h3>
-              <p>We did this</p>
-              <p>We did that</p>
-              <p>Yay!</p>
+              <p>Princess Run is an infinite 2-d runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen tries to stop her by shooting Fire Orbs.</p>
+              <p>The game was hand coded from scratch in P5.js. All of the sprites were created in Illustrator. </p>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>
@@ -74,24 +73,19 @@
                   <h4 class="center upper">At a Glance</h4>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Skills</h5>
-                    <p class="list first">A</p>
-                    <p class="list">B</p>
-                    <p class="list">C</p>
-                    <p class="list last">D</p>
+                    <p class="list first">Front-End Development</p>
+                    <p class="list">Game Design</p>
+                    <p class="list last">Interaction Design</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
-                    <p class="list first">A</p>
-                    <p class="list last">B</p>
-                  </div>
-                  <div class="hidden-xs col-sm-3 col-md-12">
-                    <h5>Deliverables</h5>
-                    <p class="list first">A</p>
-                    <p class="list last">B</p>
+                    <p class="list first">Illustrator</p>
+                    <p class="list">Javascript</p>
+                    <p class="list last">HTML/CSS</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
-                    <p class="list first">A</p>
+                    <p class="list first">December 2015</p>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
@@ -127,37 +121,28 @@
 
       <div class="container-fluid space product-showcase color-panel">
         <div class="container">
-          <h6 class="white">Project Name</h6>
+          <h6 class="white">Princess Run</h6>
           <div class="row">
 
-            <h2 class="center white">The Interface</h2>
+            <h2 class="center white">The Game</h2>
             <div class="row">
               <div class="col-sm-offset-5 col-sm-2 col-xs-offset-4 col-xs-4">
                 <div class="lineBreak"></div>
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
+              <p class="intro">Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-4 right right-column">
-              <h4>Feature</h4>
-              <p>Yay</p>
-              <h4 class="margin-top">Feature</h4>
-              <p>Yay</p>
-            </div>
-            <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
+            <div class="col-sm-8">
+              <img class="product" alt="placeholder" src="/img/princessrun/overview.png">
             </div>
             <div class="col-sm-4">
               <h4>Feature</h4>
               <p>Yay</p>
               <h4 class="margin-top">Feature</h4>
               <p>Yay</p>
-            </div>
-            <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
             </div>
           </div>
         </div>
@@ -373,6 +358,9 @@
 
       ?>
 
+<script>
+$('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-02.png', speed: .4});
+</script>
 
 
 

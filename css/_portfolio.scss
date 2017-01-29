@@ -71,6 +71,9 @@ transform:translatey(0);
 	overflow: hidden;
 	text-align: center;
 	cursor: pointer;
+  a{
+    color: $primary-color;
+  }
 }
 
 .portfolio-item-wrapper .portfolio-item {
@@ -243,7 +246,7 @@ transform:translatey(0);
 
 .portfolio-item-row .mix{
   text-align: left;
-  background: #03899c;
+  background: $primary-color;
   margin-bottom: 2%;
   display: none;
 }
