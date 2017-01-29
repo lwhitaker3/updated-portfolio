@@ -26,7 +26,7 @@
         <div class="container flyin-container">
           <h6 data-aos="fade-down" data-aos-once="true">About Me</h6>
           <div class="flex_box row about_row flex">
-            <div data-aos="fade-right" data-aos-once="true" class="col-sm-5 flex-vertical-align">
+            <div data-aos="fade-right" data-aos-once="true" class="col-md-6 flex-vertical-align">
               <h1 class="color">HI THERE!</h1>
               <div class="row">
                 <div class="col-xs-offset-4 col-xs-4">
@@ -37,7 +37,7 @@
             </div>
 
 
-            <div data-aos="fade-left" data-aos-once="true" class="col-sm-7">
+            <div data-aos="fade-left" data-aos-once="true" class="col-md-6">
               <div class="row">
                 <div class="col-sm-10 col-sm-offset-1">
                   <p class="larger">My name is Louise!  I am a user experience designer from Seattle. I am currently working on my MFA in Interactive Media at the University of Miami with a specialization in UX/UI design and will be graduating in May 2017.</p>
@@ -104,12 +104,12 @@
             </div>
           </div>
           <div data-aos="fade" data-aos-once="true" class="row">
-            <div class="col-sm-offset-3 col-sm-6">
+            <div class="col-md-offset-3 col-md-6">
               <p class="larger">Below are some of my recent projects. Check out my portfolio to see even more work!</p>
             </div>
           </div>
           <div data-aos="fade" data-aos-once="true" class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class="col-md-offset-1 col-md-10">
               <div class="accordion">
                 <ul>
                   <li>

@@ -32,7 +32,7 @@ $(document).ready(function(){
 });
 
 $( window ).resize(function() {
-	if($( window ).width() <= 768){
+	if($( window ).width() <= 992){
 		$('.flex_box').removeClass('flex');
 	}
 	else{
@@ -41,7 +41,7 @@ $( window ).resize(function() {
 });
 
 $(document).ready(function(){
-	if($( window ).width() <= 768){
+	if($( window ).width() <= 992){
 		$('.flex_box').removeClass('flex');
 	}
 });

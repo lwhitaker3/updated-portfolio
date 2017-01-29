@@ -24,7 +24,7 @@
 
       <div class="container-fluid intro-portfolio-single-container">
         <div class="container container-wrapper">
-          <div class="row row-wrapper flex flex_box2">
+          <div class="row row-wrapper flex flex_box">
             <div class="col-md-6 col-wrapper flex-vertical-align portfolio-header">
               <div class="content-wrapper">
                 <h1 data-aos="fade-down">Princess Run</h1>
