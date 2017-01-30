@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>Project Name</title>
+        <title>Portfolio | Perfect Date</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -25,18 +25,18 @@
       <div class="container-fluid intro-portfolio-single-container">
         <div class="container container-wrapper">
           <div class="row row-wrapper flex flex_box">
-            <div class="col-sm-6 col-wrapper flex-vertical-align portfolio-header">
+            <div class="col-md-6 col-wrapper flex-vertical-align portfolio-header">
               <div class="content-wrapper">
                 <h1 data-aos="fade-down">Project Name</h1>
                 <div class="row">
-                  <div class="col-xs-4 col-xs-offset-4 col-sm-offset-0">
+                  <div class="col-xs-4 col-xs-offset-4 col-md-offset-0">
                     <div class="lineBreak"></div>
                   </div>
                 </div>
                 <h4>Intro</h4>
               </div>
             </div>
-            <div class="col-sm-6 col-wrapper">
+            <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
                 <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/phone_placeholder.png">
               </div>
@@ -318,12 +318,14 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">1</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">2</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">3</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">4</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">5</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">6</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-1.png" alt="screen"><h4 class="center">1</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-2.png" alt="screen"><h4 class="center">2</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-3.png" alt="screen"><h4 class="center">3</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-4.png" alt="screen"><h4 class="center">4</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-5.png" alt="screen"><h4 class="center">5</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-6.png" alt="screen"><h4 class="center">6</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-7.png" alt="screen"><h4 class="center">5</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-8.png" alt="screen"><h4 class="center">6</h4></div>
               </div>
             </div>
           </div>
@@ -372,6 +374,10 @@
       include '../templates/portfolio_js.php';
 
       ?>
+
+      <script>
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-05.png', speed: .4});
+      </script>
 
 
 

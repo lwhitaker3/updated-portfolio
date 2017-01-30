@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>Portfolio: Princess Run</title>
+        <title>Portfolio | Princess Run</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -48,7 +48,7 @@
 
       <div class="container-fluid overview">
         <div class="container">
-          <h6 class="center">Project Name</h6>
+          <h6 class="center">Princess Run</h6>
           <div class="row">
 
             <h2 class="center">OVERVIEW</h2>
@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Create an "awesome" skecth with p5.JS</p>
+              <p>Create an "awesome" sketch with p5.JS</p>
               <h3>Project Description</h3>
               <p>Princess Run is an infinite 2-d runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen tries to stop her by shooting Fire Orbs.</p>
               <p>The game was hand coded from scratch in P5.js. All of the sprites were created in Illustrator. </p>
@@ -84,32 +84,35 @@
                     <p class="list last">HTML/CSS</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
+                    <h5>Deliverables</h5>
+                    <p class="list first last">Game in p5.js</p>
+                  </div>
+                  <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
                     <p class="list first">December 2015</p>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Skills</h5>
-                      <p class="list first">A</p>
-                      <p class="list">B</p>
-                      <p class="list">C</p>
-                      <p class="list last">D</p>
+                      <p class="list first">Front-End Development</p>
+                      <p class="list">Game Design</p>
+                      <p class="list last">Interaction Design</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Tools</h5>
-                      <p class="list first">A</p>
-                      <p class="list last">B</p>
+                      <p class="list first">Illustrator</p>
+                      <p class="list">Javascript</p>
+                      <p class="list last">HTML/CSS</p>
                     </div>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Deliverables</h5>
-                      <p class="list first">A</p>
-                      <p class="list last">B</p>
+                      <p class="list first last">Game in p5.js</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>
-                      <p class="list first">A</p>
+                      <p class="list first">December 2015</p>
                     </div>
                   </div>
                 </div>
@@ -358,9 +361,9 @@
 
       ?>
 
-<script>
-$('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-02.png', speed: .4});
-</script>
+      <script>
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-02.png', speed: .4});
+      </script>
 
 
 

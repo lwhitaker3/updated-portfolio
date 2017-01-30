@@ -19,11 +19,13 @@ $('.intro-credit-container').parallax({imageSrc: '/img/backgrounds/header.jpg', 
 $(document).ready(function(){
 	$('#nav-icon1').click(function(){
 		$(this).toggleClass('open');
+		$('#nav-icon2').toggleClass('open');
     $('#navOverlay').toggleClass('navOpen');
     $('body').toggleClass('overlayOpen');
 	});
   $('#nav-icon2').click(function(){
     $(this).toggleClass('open');
+		$('#nav-icon1').toggleClass('open');
     $('#navOverlay').toggleClass('navOpen');
     $('body').toggleClass('overlayOpen');
   });
@@ -31,12 +33,20 @@ $(document).ready(function(){
 
 });
 
+
 $( window ).resize(function() {
 	if($( window ).width() <= 992){
 		$('.flex_box').removeClass('flex');
 	}
 	else{
 		$('.flex_box').addClass('flex');
+	}
+
+	if($( window ).width() >= 768 && !isNavScrolled()){
+		$('#navOverlay').removeClass('navOpen');
+		$('body').removeClass('overlayOpen');
+		$('#nav-icon1').removeClass('open');
+		$('#nav-icon2').removeClass('open');
 	}
 });
 

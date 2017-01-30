@@ -119,10 +119,10 @@
   padding-top: 100px;
   .portfolio-single-intro-img{
 
-    // display: block;
-    // margin: 50px auto 0;
+    display: block;
+    margin: 50px auto 0;
     max-width: 100%;
-    // max-height: 500px;
+    max-height: 500px;
   }
 }
 @media (max-width: $screen-md-min) {
@@ -272,6 +272,10 @@ div.slick-slide:focus{
   margin-bottom: 40px;
 }
 
+.slick-arrow{
+  z-index: 100;
+}
+
 @media(max-width:$screen-md-min){
   .portfolio-header{
     text-align: center;
@@ -279,5 +283,11 @@ div.slick-slide:focus{
   .lineBreak{
     margin-left: auto;
     margin-right: auto;
+  }
+}
+.carousel{
+  h4{
+    font-size: 16px;
+    font-weight: normal;
   }
 }

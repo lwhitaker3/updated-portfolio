@@ -235,11 +235,11 @@ function gotWeather2(weather) {
 
   if (weather.list[0].weather[0].id == 200 || weather.list[0].weather[0].id == 201 || weather.list[0].weather[0].id == 202 || weather.list[0].weather[0].id == 210 || weather.list[0].weather[0].id == 211 || weather.list[0].weather[0].id == 212 || weather.list[0].weather[0].id == 221 || weather.list[0].weather[0].id == 230 || weather.list[0].weather[0].id == 231 || weather.list[0].weather[0].id == 232){
     document.getElementById("pic1").src = "img/weather2-01.png";
-  } else if (weather.list[0].weather[0].id == 801 || weather.list[0].weather[0].id == 802 || weather.list[0].weather[0].id == 803){
+  } else if (weather.list[0].weather[0].id == 802 || weather.list[0].weather[0].id == 803){
     document.getElementById("pic1").src = "img/weather2-02.png";
   } else if (weather.list[0].weather[0].id == 600 || weather.list[0].weather[0].id == 601 || weather.list[0].weather[0].id == 602 || weather.list[0].weather[0].id == 611 || weather.list[0].weather[0].id == 612 || weather.list[0].weather[0].id == 615 || weather.list[0].weather[0].id == 616 || weather.list[0].weather[0].id == 620 || weather.list[0].weather[0].id == 621 || weather.list[0].weather[0].id == 622){
     document.getElementById("pic1").src = "img/weather2-03.png";
-  } else if (weather.list[0].weather[0].id == 801 || weather.list[0].weather[0].id == 802){
+  } else if (weather.list[0].weather[0].id == 801){
     document.getElementById("pic1").src = "img/weather2-04.png";
   } else if (weather.list[0].weather[0].id == 800){
     document.getElementById("pic1").src = "img/weather2-05.png";
@@ -260,11 +260,11 @@ function gotWeather2(weather) {
 
   if (weather.list[1].weather[0].id == 200 || weather.list[1].weather[0].id == 201 || weather.list[1].weather[0].id == 202 || weather.list[1].weather[0].id == 210 || weather.list[1].weather[0].id == 211 || weather.list[1].weather[0].id == 212 || weather.list[1].weather[0].id == 221 || weather.list[1].weather[0].id == 230 || weather.list[1].weather[0].id == 231 || weather.list[1].weather[0].id == 232){
     document.getElementById("pic2").src = "img/weather2-01.png";
-  } else if (weather.list[1].weather[0].id == 801 || weather.list[1].weather[0].id == 802 || weather.list[1].weather[0].id == 803){
+  } else if (weather.list[1].weather[0].id == 802 || weather.list[1].weather[0].id == 803){
     document.getElementById("pic2").src = "img/weather2-02.png";
   } else if (weather.list[1].weather[0].id == 600 || weather.list[1].weather[0].id == 601 || weather.list[1].weather[0].id == 602 || weather.list[1].weather[0].id == 611 || weather.list[1].weather[0].id == 612 || weather.list[1].weather[0].id == 615 || weather.list[1].weather[0].id == 616 || weather.list[1].weather[0].id == 620 || weather.list[1].weather[0].id == 621 || weather.list[1].weather[0].id == 622){
     document.getElementById("pic2").src = "img/weather2-03.png";
-  } else if (weather.list[1].weather[0].id == 801 || weather.list[1].weather[0].id == 802){
+  } else if (weather.list[1].weather[0].id == 801){
     document.getElementById("pic2").src = "img/weather2-04.png";
   } else if (weather.list[1].weather[0].id == 800){
     document.getElementById("pic2").src = "img/weather2-05.png";
@@ -286,11 +286,11 @@ function gotWeather2(weather) {
 
   if (weather.list[2].weather[0].id == 200 || weather.list[2].weather[0].id == 201 || weather.list[2].weather[0].id == 202 || weather.list[2].weather[0].id == 210 || weather.list[2].weather[0].id == 211 || weather.list[2].weather[0].id == 212 || weather.list[2].weather[0].id == 221 || weather.list[2].weather[0].id == 230 || weather.list[2].weather[0].id == 231 || weather.list[2].weather[0].id == 232){
     document.getElementById("pic3").src = "img/weather2-01.png";
-  } else if (weather.list[2].weather[0].id == 801 || weather.list[2].weather[0].id == 802 || weather.list[2].weather[0].id == 803){
+  } else if (weather.list[2].weather[0].id == 802 || weather.list[2].weather[0].id == 803){
     document.getElementById("pic3").src = "img/weather2-02.png";
   } else if (weather.list[2].weather[0].id == 600 || weather.list[2].weather[0].id == 601 || weather.list[2].weather[0].id == 602 || weather.list[2].weather[0].id == 611 || weather.list[2].weather[0].id == 612 || weather.list[2].weather[0].id == 615 || weather.list[2].weather[0].id == 616 || weather.list[2].weather[0].id == 620 || weather.list[2].weather[0].id == 621 || weather.list[2].weather[0].id == 622){
     document.getElementById("pic3").src = "img/weather2-03.png";
-  } else if (weather.list[2].weather[0].id == 801 || weather.list[2].weather[0].id == 802){
+  } else if (weather.list[2].weather[0].id == 801){
     document.getElementById("pic3").src = "img/weather2-04.png";
   } else if (weather.list[2].weather[0].id == 800){
     document.getElementById("pic3").src = "img/weather2-05.png";
@@ -311,11 +311,11 @@ function gotWeather2(weather) {
 
   if (weather.list[3].weather[0].id == 200 || weather.list[3].weather[0].id == 201 || weather.list[3].weather[0].id == 202 || weather.list[3].weather[0].id == 210 || weather.list[3].weather[0].id == 211 || weather.list[3].weather[0].id == 212 || weather.list[3].weather[0].id == 221 || weather.list[3].weather[0].id == 230 || weather.list[3].weather[0].id == 231 || weather.list[3].weather[0].id == 232){
     document.getElementById("pic4").src = "img/weather2-01.png";
-  } else if (weather.list[3].weather[0].id == 801 || weather.list[3].weather[0].id == 802 || weather.list[3].weather[0].id == 803){
+  } else if (weather.list[3].weather[0].id == 802 || weather.list[3].weather[0].id == 803){
     document.getElementById("pic4").src = "img/weather2-02.png";
   } else if (weather.list[3].weather[0].id == 600 || weather.list[3].weather[0].id == 601 || weather.list[3].weather[0].id == 602 || weather.list[3].weather[0].id == 611 || weather.list[3].weather[0].id == 612 || weather.list[3].weather[0].id == 615 || weather.list[3].weather[0].id == 616 || weather.list[3].weather[0].id == 620 || weather.list[3].weather[0].id == 621 || weather.list[3].weather[0].id == 622){
     document.getElementById("pic4").src = "img/weather2-03.png";
-  } else if (weather.list[3].weather[0].id == 801 || weather.list[3].weather[0].id == 802){
+  } else if (weather.list[3].weather[0].id == 801){
     document.getElementById("pic4").src = "img/weather2-04.png";
   } else if (weather.list[3].weather[0].id == 800){
     document.getElementById("pic4").src = "img/weather2-05.png";
@@ -335,11 +335,11 @@ function gotWeather2(weather) {
 
   if (weather.list[4].weather[0].id == 200 || weather.list[4].weather[0].id == 201 || weather.list[4].weather[0].id == 202 || weather.list[4].weather[0].id == 210 || weather.list[4].weather[0].id == 211 || weather.list[4].weather[0].id == 212 || weather.list[4].weather[0].id == 221 || weather.list[4].weather[0].id == 230 || weather.list[4].weather[0].id == 231 || weather.list[4].weather[0].id == 232){
     document.getElementById("pic5").src = "img/weather2-01.png";
-  } else if (weather.list[4].weather[0].id == 801 || weather.list[4].weather[0].id == 802 || weather.list[4].weather[0].id == 803){
+  } else if (weather.list[4].weather[0].id == 802 || weather.list[4].weather[0].id == 803){
     document.getElementById("pic5").src = "img/weather2-02.png";
   } else if (weather.list[4].weather[0].id == 600 || weather.list[4].weather[0].id == 601 || weather.list[4].weather[0].id == 602 || weather.list[4].weather[0].id == 611 || weather.list[4].weather[0].id == 612 || weather.list[4].weather[0].id == 615 || weather.list[4].weather[0].id == 616 || weather.list[4].weather[0].id == 620 || weather.list[4].weather[0].id == 621 || weather.list[4].weather[0].id == 622){
     document.getElementById("pic5").src = "img/weather2-03.png";
-  } else if (weather.list[4].weather[0].id == 801 || weather.list[4].weather[0].id == 802){
+  } else if (weather.list[4].weather[0].id == 801){
     document.getElementById("pic5").src = "img/weather2-04.png";
   } else if (weather.list[4].weather[0].id == 800){
     document.getElementById("pic5").src = "img/weather2-05.png";
