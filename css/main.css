@@ -6387,6 +6387,9 @@ footer {
     footer a:focus {
       color: #F8BBD0;
       text-decoration: none; }
+    footer a:visited {
+      color: #fff;
+      text-decoration: none; }
     footer a p {
       padding-top: 10px; }
   footer .credit {

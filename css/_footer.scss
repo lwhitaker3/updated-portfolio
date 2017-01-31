@@ -15,14 +15,17 @@ footer{
       & .social-icon-wrapper{
         background-color: $primary-color;
       }
-    }
-    &:focus{
+    }&:focus{
       color: $primary-light-color;
       text-decoration: none;
+    }&:visited{
+        color: $white;
+        text-decoration: none;
     }
     p{
       padding-top: 10px;
     }
+
   }
   .credit{
     color: $white;
