@@ -95,6 +95,20 @@ h6{
   }
 }
 
+a{
+  color: $primary-color;
+  &:hover{
+    color: $dark-grey;
+  }&:active{
+    color: $primary-color;
+    text-decoration: none;
+  }&:visited{
+    color: $primary-color;
+    text-decoration: none;
+  }&:focus{
+    color: $primary-dark-color;
+  }
+}
 
 p{
   font-size: 16px;

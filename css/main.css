@@ -5850,6 +5850,19 @@ h6 {
     h6.white:before, h6.white:after {
       background-color: #fff; }
 
+a {
+  color: #E91E63; }
+  a:hover {
+    color: #333333; }
+  a:active {
+    color: #E91E63;
+    text-decoration: none; }
+  a:visited {
+    color: #E91E63;
+    text-decoration: none; }
+  a:focus {
+    color: #C2185B; }
+
 p {
   font-size: 16px;
   line-height: 1.5; }
