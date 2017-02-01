@@ -37,7 +37,8 @@
               <ul>
                 <li><a href="https://codepen.io/ferry/pen/ZYVwxz" target="_blank">Responsive Accordion</a></li>
                 <li><a href="https://codepen.io/designcouch/pen/Atyop" target="_blank">Menu "Hamburger" Icon Animations</a></li>
-                <li><a href="http://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp" target="_blank">Full Screen Menu Overlay</a></li>
+                <li><a href="https://miketricking.github.io/dist/" target="_blank">Image Hover Effects</a></li>
+                <li><a href="https://tympanus.net/Development/HoverEffectIdeas/" target="_blank">Hover Effect Ideas</a></li>
               </ul>
 
               <h2>Device Mockups</h2>

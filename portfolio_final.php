@@ -66,7 +66,7 @@
               </div>
             </div>
 
-
+            <!-- MAYBE CHATBOT? -->
             <!-- <div class="mix other code">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">

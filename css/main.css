@@ -5882,6 +5882,8 @@ p {
     font-size: 16px;
     font-weight: bold;
     color: #CCCCCC; }
+  p.caption {
+    font-size: 14px; }
 
 .btn-default {
   color: #E91E63;
@@ -7069,8 +7071,7 @@ div.slick-slide:focus {
   margin-bottom: 20px; }
 
 .portfolio_picture {
-  width: 100%;
-  margin-bottom: 40px; }
+  width: 100%; }
 
 .slick-arrow {
   z-index: 100; }
