@@ -161,13 +161,6 @@
             </div>
           </div>
 
-          <div class="row">
-
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
-            </div>
-
-          </div>
 
           <div class="row process-row-wrapper">
 

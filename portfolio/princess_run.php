@@ -66,6 +66,9 @@
               <h3>Project Description</h3>
               <p>Princess Run is an infinite 2-d runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen tries to stop her by shooting Fire Orbs. If the player is hit by a fire orb or falls into the water they die and must try again.</p>
               <p>The game was hand coded from scratch in P5.js. All of the sprites were created in Illustrator. The mechanics of the game are simple, the princess can run forward and backward as well as jump and the player must collect as many orbs as they can.</p>
+              <a target="_blank" href="http://louisewhitaker.com/projects/princessrun/">
+                <button type="button" class="btn btn-default pdf-button">Open Project in New Tab</button>
+              </a>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>
@@ -165,13 +168,6 @@
             </div>
           </div>
 
-          <div class="row">
-
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
-            </div>
-
-          </div>
 
           <div class="row process-row-wrapper">
 
