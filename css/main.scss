@@ -136,6 +136,19 @@ p{
   &.caption{
     font-size: 14px;
   }
+  &.bold{
+    font-weight: bold;
+  }
+}
+ul{
+  &.larger{
+    font-size: 16px;
+  }
+}
+ol{
+  &.larger{
+    font-size: 16px;
+  }
 }
 
 .btn-default{

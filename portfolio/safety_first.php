@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>SafetyFirst</title>
+        <title>Portfolio | SafetyFirst</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/dashboard/v2wire.png">
+                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/dashboard/intro.png">
               </div>
             </div>
           </div>
@@ -304,6 +304,46 @@
       include '../templates/portfolio_js.php';
 
       ?>
+
+      <script>
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-02.png', speed: .4});
+
+      $('.carousel').slick({
+      dots: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 4,
+      slidesToScroll: 1,
+      responsive: [
+        {
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 550,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ]
+      });
+      </script>
 
 
     </body>

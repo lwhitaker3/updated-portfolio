@@ -58,8 +58,8 @@
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
-                      <h2>Department of Computational Science</h2>
-                      <p>Designing microsites</p>
+                      <h2>CCS</h2>
+                      <p>Designing Microsites for the Department of Computational Science</p>
                     </div>
                   </div>
                 </a>

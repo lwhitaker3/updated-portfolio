@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>SafetyFirst</title>
+        <title>Portfolio | Radio UI</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -25,20 +25,20 @@
       <div class="container-fluid intro-portfolio-single-container">
         <div class="container container-wrapper">
           <div class="row row-wrapper flex flex_box">
-            <div class="col-sm-6 col-wrapper flex-vertical-align portfolio-header">
+            <div class="col-md-6 col-wrapper flex-vertical-align portfolio-header">
               <div class="content-wrapper">
-                <h1 data-aos="fade-down">Project Name</h1>
+                <h1 data-aos="fade-down">Radio UI</h1>
                 <div class="row">
-                  <div class="col-xs-4 col-xs-offset-4 col-sm-offset-0">
+                  <div class="col-xs-4 col-xs-offset-4 col-md-offset-0">
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Stuff</h4>
+                <h4>Touch screen interface for radio used by public safety supervisors and government knowledge workers</h4>
               </div>
             </div>
-            <div class="col-sm-6 col-wrapper">
+            <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/radio/home.png">
+                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/radio/intro.png">
               </div>
             </div>
           </div>
@@ -48,7 +48,7 @@
 
       <div class="container-fluid overview">
         <div class="container">
-          <h6 class="center">Project Name</h6>
+          <h6 class="center">Radio UI</h6>
           <div class="row">
 
             <h2 class="center">OVERVIEW</h2>
@@ -75,48 +75,51 @@
                   <h4 class="center upper">At a Glance</h4>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Skills</h5>
-                    <p class="list first">Responsive Design</p>
-                    <p class="list">Front-End Devlopment</p>
-                    <p class="list">Responsive Design</p>
-                    <p class="list last">Front-End Devlopment</p>
+                    <p class="list first">Mobile Design</p>
+                    <p class="list">Wireframing</p>
+                    <p class="list last">Prototyping</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
-                    <p class="list first">Responsive Design</p>
-                    <p class="list last">Front-End Devlopment</p>
+                    <p class="list first">Axure</p>
+                    <p class="list last">Sketch</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
-                    <p class="list first">Responsive Design</p>
-                    <p class="list last">Front-End Devlopment</p>
+                    <p class="list first">User Flows</p>
+                    <p class="list">Site Map</p>
+                    <p class="list">Annotated Wireframes</p>
+                    <p class="list last">Prototype</p>
+
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
-                    <p class="list first">Responsive Design</p>
+                    <p class="list first">Aug - Oct 2016</p>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Skills</h5>
-                      <p class="list first">Responsive Design</p>
-                      <p class="list">Front-End Devlopment</p>
-                      <p class="list">Responsive Design</p>
-                      <p class="list last">Front-End Devlopment</p>
+                      <p class="list first">Mobile Design</p>
+                      <p class="list">Wireframing</p>
+                      <p class="list last">Prototyping</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Tools</h5>
-                      <p class="list first">Responsive Design</p>
-                      <p class="list last">Front-End Devlopment</p>
+                      <p class="list first">Axure</p>
+                      <p class="list last">Sketch</p>
                     </div>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Deliverables</h5>
-                      <p class="list first">Responsive Design</p>
-                      <p class="list last">Front-End Devlopment</p>
+                      <p class="list first">User Flows</p>
+                      <p class="list">Site Map</p>
+                      <p class="list">Annotated Wireframes</p>
+                      <p class="list last">Prototype</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>
-                      <p class="list first">Responsive Design</p>
+                      <p class="list first">Aug - Oct 2016</p>
                     </div>
                   </div>
                 </div>
@@ -128,7 +131,7 @@
 
       <div class="container-fluid space product-showcase color-panel">
         <div class="container">
-          <h6 class="white">Project Name</h6>
+          <h6 class="white">Radio UI</h6>
           <div class="row">
 
             <h2 class="center white">THE RADIO INTERFACE</h2>
@@ -138,27 +141,27 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
+              <p class="intro">The goal was to create an app that is efficient and simple to use.</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-4 right right-column">
-              <h4>UX/UI Design</h4>
-              <p>From wireframing to prototyping, I enjoy creating interactive experiences that make sense.</p>
-              <h4 class="margin-top">UX/UI Design</h4>
-              <p>From wireframing to prototyping, I enjoy creating interactive experiences that make sense.</p>
+              <h4>Simple Navigation</h4>
+              <p>The user is never more than 2 clicks away from the home screen. The main functions are found under tabs on the home screen. This eliminated the need for a menu.</p>
+              <h4 class="margin-top">Material Design</h4>
+              <p>The application was designed following material design guidelines. This created a cohesive design that is easy to follow. Icons are used to reduce amount of text needed.</p>
             </div>
             <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
+              <img class="product" alt="placeholder" src="/img/radio/product.png">
             </div>
             <div class="col-sm-4">
-              <h4>UX/UI Design</h4>
-              <p>From wireframing to prototyping, I enjoy creating interactive experiences that make sense. </p>
-              <h4 class="margin-top">UX/UI Design</h4>
-              <p>From wireframing to prototyping, I enjoy creating interactive experiences that make sense.</p>
+              <h4>Packed with Functionality</h4>
+              <p>The app has all of the primary functions that public safety supervisors would need to do their job and a lot more. Includes scan features, personal messaging, contact lists and so on.</p>
+              <h4 class="margin-top">Fully Doucmented</h4>
+              <p>Each wireframe is fully annotated to explain the interactions on the page. All functions were thought out and devloped.</p>
             </div>
             <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
+              <img class="product" alt="placeholder" src="/img/radio/product.png">
             </div>
           </div>
         </div>
@@ -167,7 +170,7 @@
 
       <div class="container-fluid space process">
         <div class="container">
-          <h6 class="center">Project Name</h6>
+          <h6 class="center">Radio UI</h6>
           <div class="row">
 
             <h2 class="center">THE PROCESS</h2>
@@ -178,13 +181,6 @@
             </div>
           </div>
 
-          <div class="row">
-
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
-            </div>
-
-          </div>
 
           <div class="row process-row-wrapper">
 
@@ -211,11 +207,11 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
+                  <div class="col-sm-12">
+                    <p>Designing this application came with many challenges because radios are very technical and government workers have a long history of using them. It was important to make sure the functions were well thought out and organized. I created a concept map that borke down the major functions and displays based on page types.</p>
                   </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/mind_map_pages.png">
                   </div>
                 </div>
               </div>
@@ -229,11 +225,19 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
+                  <div class="col-sm-12">
+                    <p>After the initial planning and understanding of the functions was complete, I created task flows to figure out how a user would move through the application.</p>
                   </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/scan_task_flow.png">
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>Once the functions were organized, I created a site map to help figure out the page hierarchy.</p>
+                  </div>
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/app_map.png">
                   </div>
                 </div>
               </div>
@@ -247,11 +251,13 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
+                  <div class="col-sm-12">
+                    <p>It was important to start drawing out the ideas on paper to sort through the good and bad concepts.</p>
                   </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                </div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/sketches.png">
                   </div>
                 </div>
               </div>
@@ -265,11 +271,59 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
+                  <div class="col-sm-12">
+                    <p>The wireframing process involved several rounds of reworking the design to make sure it was as efficient as possible.</p>
                   </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                </div>
+                <div class="row">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires1.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The first round of wireframes in sketch.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires2.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The second round of wireframes in sketch.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires3.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The third round of wireframes in sketch.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires4.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The fourth round of wireframes in sketch.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires5.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The final round of wireframes in sketch.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-8">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/annotated.png">
+                  </div>
+                  <div class="col-sm-4">
+                    <p class="caption">The final wireframes were annotated to document the interactions.</p>
+                    <a target="_blank" href="http://louisewhitaker.com/projects/princessrun/">
+                      <button type="button" class="btn btn-default pdf-button">All Annotated Wireframes</button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -283,13 +337,15 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
-                  </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                  <div class="col-sm-12">
+                    <p>The prototype was created in axure to illustrate how the pages are related to each other and demonstrate the interactions on different pages.</p>
+                    <a target="_blank" href="http://r23785.axshare.com/screen_frame.html">
+                      <button type="button" class="btn btn-default pdf-button">Open Prototype in New Tab</button>
+                    </a>
+                    <iframe class="hidden-xs" frameborder="0" width="100%" height="900" scrolling="no" src="http://r23785.axshare.com/screen_frame.html"></iframe>
                   </div>
                 </div>
+
               </div>
 
 
@@ -303,7 +359,7 @@
 
       <div class="container-fluid space final-product">
         <div class="container">
-          <h6 class="white">Project Name</h6>
+          <h6 class="white">Radio UI</h6>
           <div class="row">
 
             <h2 class="center white">THE FINAL PRODUCT</h2>
@@ -313,18 +369,24 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
+              <p class="intro"> These are the final screens developed for the project.</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">1</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">2</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">3</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">4</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">5</h4></div>
-                <div><img class="carousel_image" src="/img/carousel_placeholder.png" alt="screen"><h4 class="center">6</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final2.png" alt="screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final1.png" alt="screen"><h4 class="center">Home Screen with scan on</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final3.png" alt="screen"><h4 class="center">Scan List</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final4.png" alt="screen"><h4 class="center">Channel List</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final5.png" alt="screen"><h4 class="center">Private Calls</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final6.png" alt="screen"><h4 class="center">Channel Playback</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final7.png" alt="screen"><h4 class="center">Channel Listeners</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final8.png" alt="screen"><h4 class="center">Alerts</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final9.png" alt="screen"><h4 class="center">Contacts</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final10.png" alt="screen"><h4 class="center">Profile</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final11.png" alt="screen"><h4 class="center">Settings</h4></div>
+
               </div>
             </div>
           </div>
@@ -333,7 +395,7 @@
 
       <div class="container-fluid space take-away">
         <div class="container">
-          <h6 class="center">Project Name</h6>
+          <h6 class="center">Radio UI</h6>
           <div class="row">
 
             <h2 class="center">LESSONS LEARNED</h2>
@@ -342,22 +404,11 @@
                 <div class="lineBreak color"></div>
               </div>
             </div>
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
-            </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-5">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-            </div>
-            <div class="col-sm-5">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
+            <div class="col-sm-offset-1 col-sm-10">
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Shared styles in sketch are your best friend</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Concept maps are a great tool for breaking down a complicated problem into its part and making it more manageable</p>
             </div>
           </div>
         </div>
@@ -373,6 +424,46 @@
       include '../templates/portfolio_js.php';
 
       ?>
+
+      <script>
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-03.png', speed: .4});
+
+      $('.carousel').slick({
+      dots: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 4,
+      slidesToScroll: 1,
+      responsive: [
+        {
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 550,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ]
+      });
+      </script>
 
 
 
