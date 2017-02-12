@@ -1,0 +1,169 @@
+<!DOCTYPE>
+<html>
+
+
+	<head>
+		<title>Planner Test</title>
+
+		<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+
+
+		<link rel="stylesheet" type="text/css" href="stylesheets/style.css" media="screen" />
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+		<!-- Latest compiled and minified CSS -->
+		<!-- <link rel="stylesheet" href="stylesheets/jasny-bootstrap.min.css"> -->
+
+		<!-- Latest compiled and minified JavaScript -->
+		<!-- <script src="js/jasny-bootstrap.min.js"></script> -->
+	</head>
+
+
+	<body>
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-12 title">
+					<h1 class="text-center">Systematize <small>Organize your tasks</small></h1>
+				</div>
+			</div>
+
+			<div class="row">
+
+
+
+				<div class="col-sm-3 planner-list">
+					<h5>Unnassigned Tasks</h5>
+					<form class="form-inline">
+					  <div class="form-group">
+							<label class="sr-only">Add Task</label>
+					    <input type="text" class="form-control" id="exampleInputName2" placeholder="Add Task">
+					  </div>
+					  <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+					</form>
+					<ul class="sortable-list">
+						<li class="sortable-item">&#9679; Do Assignment 2</li>
+						<li class="sortable-item">&#9679; Study for Test 4</li>
+						<li class="sortable-item">&#9679; Make PHP App</li>
+						<li class="sortable-item">&#9679; Email John Doe</li>
+						<li class="sortable-item">&#9679; Make Dinner</li>
+					</ul>
+				</div>
+
+
+				<div class="col-sm-7">
+
+					<div class="row day-row">
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Mon 3/14</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Tues 3/15</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Wed 3/16</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Mon 3/17</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="row day-row">
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Fri 3/18</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Sat 3/19</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Sun 3/20</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-sm-3 day-wrapper">
+							<h4>Mon 3/21</h4>
+							<div class="day-container">
+								<ul class="sortable-list">
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+
+				<div class="col-sm-2 category-list">
+					<h5>Categories</h5>
+				</div>
+
+			</div>
+
+		</div>
+
+
+
+
+
+		<!-- Example JavaScript files -->
+
+		<!-- Example jQuery code (JavaScript)  -->
+		<script type="text/javascript">
+
+			$(document).ready(function(){
+
+				// Example 1.3: Sortable and connectable lists with visual helper
+				$('.sortable-list').sortable({
+					connectWith: '.sortable-list',
+					placeholder: 'placeholder',
+				});
+
+
+		});
+
+		</script>
+
+	</body>
+</html>

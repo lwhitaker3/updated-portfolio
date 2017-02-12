@@ -83,6 +83,7 @@
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
                     <p class="list first">Illustrator</p>
+                    <p class="list">Excel</p>
                     <p class="list">JavaScript (D3.js)</p>
                     <p class="list last">HTML/CSS</p>
                   </div>

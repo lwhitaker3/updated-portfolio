@@ -1,0 +1,53 @@
+/* Sortable items */
+
+.sortable-list {
+	list-style: none;
+	margin: 0;
+	min-height: 30%;
+	padding: 5px;
+}
+.sortable-item {
+	cursor: move;
+	display: block;
+	margin-bottom: 5px;
+}
+
+.planner-list{
+	height: 100%;
+	background-color: #ddd;
+}
+.title{
+	border-bottom: 1px solid black;
+}
+
+.planner-list .sortable-list{
+	height: 100%;
+}
+
+
+
+/* Item placeholder (visual helper) */
+
+.placeholder {
+	border-bottom: 2px solid #d0d2d2;
+	/*height: 30px;*/
+	margin-bottom: 5px;
+}
+.col-sm-3.day-wrapper{
+	padding: 0px;
+}
+.row.day-row{
+	margin: 0 0 20px;
+}
+.day-container{
+	border: 1px solid black;
+	margin: 0;
+}
+.row.day-container h4{
+	padding: 5px;
+	margin: 0;
+}
+.category-list{
+	height: 100%;
+	background-color: #eee;
+}

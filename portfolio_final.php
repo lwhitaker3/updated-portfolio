@@ -36,9 +36,9 @@
           <div id="filter-section" class="row portfolio-item-row">
 
 
-            <!-- <div class="mix uxr">
+            <div class="mix uxr">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/cardsort.png">
                 <a href="/portfolio/card_sort.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -49,7 +49,7 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
             <div class="mix uxd code">
               <div class="portfolio-item-wrapper">
@@ -67,9 +67,9 @@
             </div>
 
             <!-- MAYBE CHATBOT? -->
-            <!-- <div class="mix other code">
+            <div class="mix other code">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/coral.png">
                 <a href="/portfolio/corals.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -80,12 +80,12 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
 
-            <!-- <div class="mix uxr">
+            <div class="mix uxr">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/docs.png">
                 <a href="/portfolio/docs.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -96,7 +96,7 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
 
             <div class="mix uxr">
@@ -115,9 +115,9 @@
             </div>
 
 
-            <!-- <div class="mix uxr">
+            <div class="mix uxr">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/fpers.png">
                 <a href="/portfolio/fpers.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -128,7 +128,7 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
             <div class="mix uxd code other">
               <div class="portfolio-item-wrapper">
@@ -223,9 +223,9 @@
               </div>
             </div>
 
-            <!-- <div class="mix uxd">
+            <div class="mix uxd">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/sapient.png">
                 <a href="/portfolio/sapeint.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -236,7 +236,7 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">
@@ -253,9 +253,9 @@
               </div>
             </div>
 
-            <!-- <div class="mix uxd code">
+            <div class="mix uxd code">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/systematize.png">
                 <a href="/portfolio/systematize.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -266,11 +266,11 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
-            <!-- <div class="mix uxr uxd">
+            <div class="mix uxr uxd">
               <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/placeholder.png">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/ticketapp.png">
                 <a href="/portfolio/ticket_app.php">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
@@ -281,7 +281,7 @@
                   </div>
                 </a>
               </div>
-            </div> -->
+            </div>
 
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">

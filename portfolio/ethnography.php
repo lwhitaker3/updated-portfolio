@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/phone_placeholder.png">
+                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/coke/coke.png">
               </div>
             </div>
           </div>
@@ -136,27 +136,12 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
+              <p class="intro"> Based on the research we conducted on the coke freestyle machine, we came up with a new design for the coke machine and the UI.</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-4 right right-column">
-              <h4>Feature</h4>
-              <p>Yay</p>
-              <h4 class="margin-top">Feature</h4>
-              <p>Yay</p>
-            </div>
-            <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
-            </div>
-            <div class="col-sm-4">
-              <h4>Feature</h4>
-              <p>Yay</p>
-              <h4 class="margin-top">Feature</h4>
-              <p>Yay</p>
-            </div>
-            <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/phone_placeholder.png">
+            <div class="col-sm-12">
+              <img class="product" alt="placeholder" src="/img/coke/ui.png">
             </div>
           </div>
         </div>
@@ -392,21 +377,25 @@
                 <div class="row margin-top">
                   <div class="col-sm-12">
                     <p>We redesigned the UI of the touch screen in order to make the machine more efficient.</p>
+                    <a target="_blank" href="https://invis.io/SYADOLC42">
+                      <button type="button" class="btn btn-default pdf-button">See Quick Prototype</button>
+                    </a>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/ui.png">
+                  <div class="col-sm-7">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/annotated.png">
                   </div>
-                  <div class="col-sm-12">
+                  <div class="col-sm-5">
                     <ol class="larger">
                       <li>User can use the filter to select a subset of drinks, currently the “ALL” is active. When the user selects another option in the filter at the top of the screen, they will see that subset of drinks</li>
                       <li>The user can see all of the drinks in the category</li>
                       <li>Language toggle</li>
-                      <li>When the user selects a beverage the button will expand and 2 becomes visible</li>
+                      <li>When the user selects a beverage the button will expand and flavors becomes visible</li>
                       <li>Once the user choses a beverage the flavors will appear. The regular version with no flavor is selected by default so the user doesn’t have to select the drink a second time if they just want the plain beverage.</li>
                     </ol>
                   </div>
+
 
                 </div>
               </div>
@@ -465,22 +454,11 @@
                 <div class="lineBreak color"></div>
               </div>
             </div>
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Here is the product. Here is the product. Here is the product. Here is the product.Here is the product. Here is the product.</p>
-            </div>
           </div>
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-5">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-            </div>
-            <div class="col-sm-5">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
+            <div class="col-sm-offset-1 col-sm-10">
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Observing users interactin with a product in a natural environment can give really valuable insights into the usabilty of the product.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Having a very clear idea of what you are looking for before you start observing is important because the interactions happen so fast and you can miss things if you aren't focused.</p>
             </div>
           </div>
         </div>
