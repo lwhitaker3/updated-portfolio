@@ -64,10 +64,10 @@
               <h3>The Ask</h3>
               <p>Create an interactive data-driven story using UNICEF data.</p>
               <h3>Project Description</h3>
-              <p>The project is a single page scrolly-telling site that tells the story of infant mortality in the US. It shows how the United States compares with other "high-income developed" countries and explores why the US infant mortality rate is much higher that other countires. It was hand-coded in d3.js.</p>
-              <p>I started the project in September 2015 when I began learning about D3.js. I spent the next three months exploring trends in data and building graphs with D3 to put together a cohesive story. The story starts with infant mortality across the world, zooms into the high income devloped countries, and then dives further into the US and the indiviual states.</p>
+              <p>The project is a single page scrolly-telling site that tells the story of infant mortality in the US. It shows how the United States compares with other "high-income developed" countries and explores why the US infant mortality rate is much higher that other countries. It was hand-coded in d3.js.</p>
+              <p>I started the project in September 2015 when I began learning about D3.js. I spent the next three months exploring trends in data and building graphs with D3 to put together a cohesive story. The story starts with infant mortality across the world, zooms into the high-income developed countries, and then dives further into the US and the individual states.</p>
               <a target="_blank" href="http://lwhitaker3.github.io/USMortality/">
-                <button type="button" class="btn btn-default pdf-button">Open Project in New Tab</button>
+                <button type="button" class="btn btn-default  ">Open Project in New Tab</button>
               </a>
 
             </div>
@@ -137,7 +137,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Using D3.js and different types of charts this project dives into issues sourrounding infant mortality in the United States.</p>
+              <p class="intro">Using D3.js and different types of charts this project dives into issues surrounding infant mortality in the United States.</p>
             </div>
           </div>
           <div class="row">
@@ -182,7 +182,7 @@
                 <p class="headerline">1. Learning</p>
                 <h4 class="color">Learning D3</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -192,27 +192,27 @@
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-01.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">The very first bar chart I made with D3.</p>
+                  <div class="col-sm-5">
+                    <p>The very first bar chart I made with D3.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-02.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">A scrolling interactive graph that I later adapted for my final project.</p>
+                  <div class="col-sm-5">
+                    <p>A scrolling interactive graph that I later adapted for my final project.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-03.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">A choropleth map of the United States showing infant mortality in the different states.</p>
+                  <div class="col-sm-5">
+                    <p>A choropleth map of the United States showing infant mortality in the different states.</p>
                   </div>
                 </div>
               </div>
@@ -221,7 +221,7 @@
                 <p class="headerline">2. Researching</p>
                 <h4 class="color">Gathering the Data</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -232,13 +232,13 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-04.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-04.jpg">
                   </div>
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-05.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-05.jpg">
                   </div>
                   <div class="col-sm-12">
-                    <p class="caption">As I started researching the topic my data and ideas grew exponentially. I needed to make sure that my data stayed organized, so I knew what data belonged to what graph and what it meant. I created separate sheets for each graph I planned on making and kept the titles descriptive, but simple for the purposes of coding.</p>
+                    <p>As I started researching the topic my data and ideas grew exponentially. I needed to make sure that my data stayed organized, so I knew what data belonged to what graph and what it meant. I created separate sheets for each graph I planned on making and kept the titles descriptive, but simple for the purposes of coding.</p>
                   </div>
                 </div>
               </div>
@@ -247,7 +247,7 @@
                 <p class="headerline">3. Wireframing</p>
                 <h4 class="color">Outlining the Project</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -256,13 +256,13 @@
                     <a href="/img/mortality/d3-06a.png">
                       <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-06.png">
                     </a>
-                    <p class="caption">This was the first mockup I did of the project. Click on the image to see the full mockup.</p>
+                    <p>This was the first mockup I did of the project. Click on the image to see the full mockup.</p>
                   </div>
                   <div class="col-sm-6">
                     <a href="/img/mortality/d3-07a.png">
                       <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-07.png">
                     </a>
-                    <p class="caption">This was the second mockup I created after I had started putting the project together. Click on the image to see the full mockup.</p>
+                    <p>This was the second mockup I created after I had started putting the project together. Click on the image to see the full mockup.</p>
                   </div>
                 </div>
               </div>
@@ -272,24 +272,28 @@
                 <p class="headerline">4. Developing</p>
                 <h4 class="color">Coding the Project and Refining the Experience</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>The first draft of the project had 3 basic graphs on the page. As I went on, I added interactivity to them and more styling to create strong graphs within the project.</p>
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-08.png">
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>The first draft of the project had 3 basic graphs on the page. As I went on, I added interactivity to them and more styling to create strong graphs within the project.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-4">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-09.png">
-                    <p class="caption">The scatter plot started off as a static scatter plot comparing Preterm birth rates to infant	mortality.</p>
+                    <p class="caption">The scatter plot started off as a static scatter plot comparing Preterm birth rates to infant mortality.</p>
                   </div>
                   <div class="col-sm-4">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-10.png">
-                    <p class="caption">I realized that there were other factors I could compare to infant mortality for each country. I wanted	to create a scatter plot that changed when the user clicked on a different variable. I wanted to add bar charts too so the user could compare all of the countries in that variable.</p>
+                    <p class="caption">I realized that there were other factors I could compare to infant mortality for each country. I wanted to create a scatter plot that changed when the user clicked on a different variable. I wanted to add bar charts too so the user could compare all of the countries in that variable..</p>
                   </div>
                   <div class="col-sm-4">
                     <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-11.png">
@@ -363,7 +367,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Keeping files organized is so important because it can get out of control very quickly.</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Always have a backup plan. The night before I presented this project at the conference I found out they didnt have internet connection for the project. I had to make a wakthrough video of the website while I talked through it to get the timing right.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Always have a backup plan. The night before I presented this project at the conference I found out they didn't have internet connection for the project. I had to make a walkthrough video of the website while I talked through it to get the timing right.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> D3 is an amazing library, but it is not easy.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> I really enjoyed using data to find a story. Using excel to quickly build charts was incredibly useful to determine if there was something to the data I found.</p>
             </div>

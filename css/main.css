@@ -5851,7 +5851,8 @@ h6 {
       background-color: #fff; }
 
 a {
-  color: #E91E63; }
+  color: #E91E63;
+  display: inline-block; }
   a:hover {
     color: #333333; }
   a:active {
@@ -7085,7 +7086,8 @@ div.slick-slide:focus {
   margin-bottom: 20px; }
 
 .portfolio_picture {
-  width: 100%; }
+  width: 100%;
+  border: 1px solid #CCCCCC; }
 
 .slick-arrow {
   z-index: 100; }
@@ -7114,5 +7116,10 @@ div.slick-slide:focus {
     left: 0;
     width: 100%;
     height: 100%; }
+
+.phone_pic {
+  width: 75%;
+  display: block;
+  margin: 20px auto; }
 
 /*# sourceMappingURL=main.css.map */

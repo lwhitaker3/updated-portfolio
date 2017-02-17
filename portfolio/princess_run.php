@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>An infinite 2-d scrolling game developed in p5.js</h4>
+                <h4>A 2-d endless runner game in p5.js</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
@@ -67,7 +67,7 @@
               <p>Princess Run is an infinite 2-d runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen tries to stop her by shooting Fire Orbs. If the player is hit by a fire orb or falls into the water they die and must try again.</p>
               <p>The game was hand coded from scratch in P5.js. All of the sprites were created in Illustrator. The mechanics of the game are simple, the princess can run forward and backward as well as jump and the player must collect as many orbs as they can.</p>
               <a target="_blank" href="http://louisewhitaker.com/projects/princessrun/">
-                <button type="button" class="btn btn-default pdf-button">Open Project in New Tab</button>
+                <button type="button" class="btn btn-default margin-top">Open Game in New Tab</button>
               </a>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -146,9 +146,9 @@
             </div>
             <div class="col-md-4">
               <h4>The game is infinite</h4>
-              <p>As long as the plaver doesn't get hit with a fire orb or fall into the water they could run forever.</p>
-              <h4 class="margin-top">The game is different everytime</h4>
-              <p>The ground is randomly spawned during game play so the ground and where the orbs generate is different everytime.</p>
+              <p>As long as the player doesn't get hit with a fire orb or fall into the water they could run forever.</p>
+              <h4 class="margin-top">The game is different every time</h4>
+              <p>The ground is randomly spawned during game play so the ground and where the orbs generate is different every time.</p>
             </div>
           </div>
         </div>
@@ -188,16 +188,19 @@
                 <p class="headerline">1. Ideating</p>
                 <h4 class="color">Coming up with a Concept</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
+                  <div class="col-sm-12">
                     <p>I wanted to work with the p5.play add-on library to create a 2D endless runner game that was fun to play. I decided I wanted a princess character to run through the game. <a target="_blank" href="http://thechristopher.miami">Christopher Roy</a>, a fellow student in the Interactive Media program, created a beautiful princess character for the game. His design inspired the look and feel of the rest of the game.</p>
                   </div>
-                  <div class="col-sm-5">
-                    SKETCHES HERE
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/sketch.jpg">
+                  </div>
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/sketch2.jpg">
                   </div>
                 </div>
               </div>
@@ -206,7 +209,7 @@
                 <p class="headerline">2. Designing</p>
                 <h4 class="color">Building Elements in Illustrator</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -217,26 +220,26 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                      <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-01.png">
+                      <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-01.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p class="caption">The ground was a series of blocks that fit together to create different combinations for the ground. I put them together in illustrator to make sure all of the lines matched up and created a seamless look.</p>
+                    <p >The ground was a series of blocks that fit together to create different combinations for the ground. I put them together in illustrator to make sure all of the lines matched up and created a seamless look.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-02.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-02.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p class="caption">The dragon character has movement in the game, so I needed to draw a version of the character and then alter it slightly so that they dragon would look like it was moving.</p>
+                    <p >The dragon character has movement in the game, so I needed to draw a version of the character and then alter it slightly so that they dragon would look like it was moving.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-03.jpeg">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/illustrator-03.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p class="caption">This was the original concept/layout for the game built in illustrator.</p>
+                    <p >This was the original concept/layout for the game built in illustrator.</p>
                   </div>
                 </div>
               </div>
@@ -245,7 +248,7 @@
                 <p class="headerline">3. Developing</p>
                 <h4 class="color">Building the Game</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -255,35 +258,35 @@
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/code-01.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">The first thing I did was add the background and a ground layer that was even when the user starts the game so they can get started without having to worry about obstacles. then created a function that randomly generated ground pieces. Every time the game is played the ground is different. I needed to make sure that two water pieces never ended up next to each other, though, so the user can jump over the water.</p>
+                  <div class="col-sm-5">
+                    <p >The first thing I did was add the background and a ground layer that was even when the user starts the game so they can get started without having to worry about obstacles. then created a function that randomly generated ground pieces. Every time the game is played the ground is different. I needed to make sure that two water pieces never ended up next to each other, though, so the user can jump over the water.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/code-02.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">I wanted to add the different ground levels so I needed to make my character jump. In order to do this, I had to add gravity, but this created a problem with the sprite collisions. When the character was on the ground sprites, she fell through the ground. I needed to create another layer of sprites under the ground layer (here they are on top of the ground layer) so that I could set the collision on that background layer and set the y velocity of the character to zero when she was on the actual ground layer.</p>
+                  <div class="col-sm-5">
+                    <p >I wanted to add the different ground levels so I needed to make my character jump. In order to do this, I had to add gravity, but this created a problem with the sprite collisions. When the character was on the ground sprites, she fell through the ground. I needed to create another layer of sprites under the ground layer (here they are on top of the ground layer) so that I could set the collision on that background layer and set the y velocity of the character to zero when she was on the actual ground layer.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
+                  <div class="col-sm-7">
                     <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/code-03.png">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">Initially, I had planned to have the dragon on the ground. However, I realized that having a flying dragon above the character that never left the screen created a more random experience and added more fun to the game. Once I had the dragon in the game it was just a case of adding all of the finishing touches.</p>
+                  <div class="col-sm-5">
+                    <p >Initially, I had planned to have the dragon on the ground. However, I realized that having a flying dragon above the character that never left the screen created a more random experience and added more fun to the game. Once I had the dragon in the game it was just a case of adding all of the finishing touches.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/code-04.jpeg">
+                  <div class="col-sm-7">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/code-04.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <p class="caption">I needed to make sure the game was random every time. This code shows how I randomized when the original ground piece was set up and it randomized whether an orb was created above it.</p>
+                  <div class="col-sm-5">
+                    <p >I needed to make sure the game was random every time. This code shows how I randomized when the original ground piece was set up and it randomized whether an orb was created above it.</p>
                   </div>
                 </div>
               </div>
@@ -293,7 +296,7 @@
                 <p class="headerline">4. Iterating</p>
                 <h4 class="color">Play Test and Redesign</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -303,11 +306,24 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    TEXT HERE
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/playtest.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    PICTURE HERE
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/playtest2.jpg">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12 margin-top">
+                    <p>The next iteration of the game baseed on feedback I got from users.</p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/princessrun_final2.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/princessrun/princessrun_final.jpg">
                   </div>
                 </div>
               </div>
@@ -337,7 +353,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-12 margin-bottom">
               <div class="carousel">
                 <div><img class="carousel_image" src="/img/princessrun/iteration1.jpg" alt="screen"><h4 class="center">Iteration 1</h4></div>
                 <div><img class="carousel_image" src="/img/princessrun/iteration2.jpg" alt="screen"><h4 class="center">Iteration 2</h4></div>
@@ -391,7 +407,7 @@
         slidesToScroll: 3,
         responsive: [
           {
-            breakpoint: 768,
+            breakpoint: 960,
             settings: {
               slidesToShow: 1,
               slidesToScroll: 1

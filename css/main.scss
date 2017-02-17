@@ -97,6 +97,7 @@ h6{
 
 a{
   color: $primary-color;
+  display: inline-block;
   &:hover{
     color: $dark-grey;
   }&:active{

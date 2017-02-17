@@ -115,7 +115,7 @@
             </div>
 
 
-            <div class="mix uxr">
+            <!-- <div class="mix uxr">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="placeholder" src="img/thumbs/fpers.png">
                 <a href="/portfolio/fpers.php">
@@ -128,7 +128,7 @@
                   </div>
                 </a>
               </div>
-            </div>
+            </div> -->
 
             <div class="mix uxd code other">
               <div class="portfolio-item-wrapper">
@@ -155,6 +155,21 @@
                     <div class="portfolio-item-caption">
                       <h2>Infant Mortality in the US</h2>
                       <p>An interactive visualization on Infant Mortality in the US</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+
+            <div class="mix uxr uxd">
+              <div class="portfolio-item-wrapper">
+                <img class="portfolio-item" alt="placeholder" src="img/thumbs/ticketapp.png">
+                <a href="/portfolio/park_pass.php">
+                  <div class="portfolio-overlay">
+                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
+                    <div class="portfolio-item-caption">
+                      <h2>ParkPass</h2>
+                      <p>Buy tickets for a theme park quickly and efficiently</p>
                     </div>
                   </div>
                 </a>
@@ -215,7 +230,7 @@
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
-                      <h2>Safety First</h2>
+                      <h2>SafetyFirst</h2>
                       <p>Incident reporting system for nursing home employees</p>
                     </div>
                   </div>
@@ -223,7 +238,7 @@
               </div>
             </div>
 
-            <div class="mix uxd">
+            <!-- <div class="mix uxd">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="placeholder" src="img/thumbs/sapient.png">
                 <a href="/portfolio/sapeint.php">
@@ -236,7 +251,7 @@
                   </div>
                 </a>
               </div>
-            </div>
+            </div> -->
 
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">
@@ -268,22 +283,7 @@
               </div>
             </div>
 
-            <div class="mix uxr uxd">
-              <div class="portfolio-item-wrapper">
-                <img class="portfolio-item" alt="placeholder" src="img/thumbs/ticketapp.png">
-                <a href="/portfolio/ticket_app.php">
-                  <div class="portfolio-overlay">
-                    <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
-                    <div class="portfolio-item-caption">
-                      <h2>Ticket App</h2>
-                      <p>Buy tickets for a theme park quickly and efficiently</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-
-            <div class="mix uxd">
+            <!-- <div class="mix uxd">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="placeholder" src="img/thumbs/washing.png">
                 <a href="/portfolio/washing_machine_UI.php">
@@ -296,7 +296,7 @@
                   </div>
                 </a>
               </div>
-            </div>
+            </div> -->
 
             <div class="gap"></div>
             <div class="gap"></div>

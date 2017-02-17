@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>Porfolio | Ethnography</title>
+        <title>Portfolio | Ethnography</title>
 
         <link rel="stylesheet" href="/css/slick.css" />
         <link rel="stylesheet" href="/css/slick-theme.css" />
@@ -48,7 +48,7 @@
 
       <div class="container-fluid overview">
         <div class="container">
-          <h6 class="center">Coke Enthnography</h6>
+          <h6 class="center">Coke Ethnography</h6>
           <div class="row">
 
             <h2 class="center">OVERVIEW</h2>
@@ -64,9 +64,9 @@
               <h3>The Ask</h3>
               <p>Conduct an ethnography study - observe users interacting with the Coke Freestyle Machine and identify problems with using the machine.</p>
               <h3>Project Description</h3>
-              <p>Coke freestyle is a touch screen soda fountain. The machine was developed in 2009 to help revitalize the soft drink industry. We wanted to see if our users were more likely to get a drink if this machine was in the restaurant, and if they were using the phone application Coke developed to work with the machine.</p>
-              <a target="_blank" href="http://louisewhitaker.com/projects/princessrun/">
-                <button type="button" class="btn btn-default pdf-button">See Full PDF Report</button>
+              <p>Coke freestyle is a touch screen soda fountain. The machine was developed in 2009 to help revitalize the soft drink industry. We conducted an ethnography study to see how users interacted with the machine and based on our observations identify issues with the product. We wanted to see if our users were more likely to get a drink if this machine was in the restaurant, and if they were using the phone application Coke developed to work with the machine.</p>
+              <a target="_blank" href="/projects/Ethnography_Whitaker_Roy.pdf">
+                <button type="button" class="btn btn-default margin-top">See Full PDF Report</button>
               </a>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -126,7 +126,7 @@
 
       <div class="container-fluid space product-showcase color-panel">
         <div class="container">
-          <h6 class="white">Coke Enthnography</h6>
+          <h6 class="white">Coke Ethnography</h6>
           <div class="row">
 
             <h2 class="center white">THE REDESIGN</h2>
@@ -150,7 +150,7 @@
 
       <div class="container-fluid space process">
         <div class="container">
-          <h6 class="center">Coke Enthnography</h6>
+          <h6 class="center">Coke Ethnography</h6>
           <div class="row">
 
             <h2 class="center">THE PROCESS</h2>
@@ -182,18 +182,22 @@
                 <p class="headerline">1. Background</p>
                 <h4 class="color">UNDERSTANDING THE PRODUCT</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>Before we began our study it was important to gather bckground research on the product to understand why it was developed, how it works and what controls it has.</p>
+                    <p>Before we began our study it was important to gather background research on the product to understand why it was developed, how it works and what controls it has.</p>
                   </div>
                 </div>
+
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <p>We broke down what all of the controls on the machine were, what interations the user could have, and what tasks the user could acomplish.</p>
+                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/flow.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <p>We broke down what all of the controls on the machine were, what interactions the user could have, and what tasks the user could accomplish.</p>
                     <p class="margin-top">The tasks the user can perform with this machine are:</p>
                       <ul class="larger">
                         <li>Selecting a beverage</li>
@@ -202,9 +206,7 @@
                         <li>Connecting phone with QR code</li>
                       </ul>
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/flow.png">
-                  </div>
+
                 </div>
               </div>
 
@@ -212,13 +214,13 @@
                 <p class="headerline">2. Planning</p>
                 <h4 class="color">Developing the Field Guide</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>We went and observed users interacting with the machine in order to gain a preliminary understanding of potential issues poeople would have using the machine. It helped us put togther a field guide with survey questions we wanted to ask users and things we wanted to observe about the interactions.</p>
+                    <p>We went and observed users interacting with the machine in order to gain a preliminary understanding of potential issues people would have using the machine. It helped us put together a field guide with survey questions we wanted to ask users and the interactions we were looking to observe. </p>
                   </div>
                 </div>
                 <div class="row">
@@ -255,12 +257,15 @@
                 <p class="headerline">3. Researching</p>
                 <h4 class="color">Our Observations</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-8">
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/notes.jpg">
+                  </div>
+                  <div class="col-sm-12  margin-top">
                     <ul class="larger">
                       <li>People selected a variety of different drinks:</li>
                         <ul>
@@ -282,9 +287,6 @@
                       <li>4 people struggled with the touch screen, pressing items multiple times trying to make the screen work</li>
                     </ul>
                   </div>
-                  <div class="col-sm-4">
-                    NOTES IMAGE
-                  </div>
                 </div>
               </div>
 
@@ -292,12 +294,12 @@
                 <p class="headerline">4. Findings</p>
                 <h4 class="color">Themes and Problem Discovery</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-10 col-sm-offset-1">
+                  <div class="col-sm-12">
                     <img class="portfolio_picture" alt="placeholder" src="/img/coke/diagram.jpg">
                   </div>
                 </div>
@@ -354,7 +356,7 @@
                 <p class="headerline">5. Redesign</p>
                 <h4 class="color">Improving Design Based on Our Results</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
@@ -365,38 +367,38 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/redesign.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/redesign.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>The machine should have a separate button for water that is not on the screen in order to make the process of getting water faster. There should be an ice button next to the water button as users were not expecting to press on an ice lever.</p>
                     <p>There should be a barrier where the cup goes so the user can place the cup in the correct place and not spill liquid or ice over their hands.</p>
                     <p>There should be a QR code scanner rather than a QR code on the machine. The scanner should be next to the screen accompanied by a quick line about connecting your phone to the machine, so users are more aware it exists.</p>
-                    <p>The interface would be made larger and iteractions would be more intuitive.</p>
+                    <p>The interface would be made larger and interactions would be more intuitive.</p>
                   </div>
                 </div>
+
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/annotated.png">
+                  </div>
+                  <div class="col-sm-6">
+                    <ol class="larger">
+                      <li>The user can use the filter to select a subset of drinks, currently, the “ALL” is active. When the user selects another option in the filter at the top of the screen, they will see that subset of drinks</li>
+                      <li>The user can see all of the drinks in the category</li>
+                      <li>Language toggle</li>
+                      <li>When the user selects a beverage the button will expand and flavors becomes visible</li>
+                      <li>Once the user chooses a beverage the flavors will appear. The regular version with no flavor is selected by default so the user doesn’t have to select the drink a second time if they just want the plain beverage.</li>
+                    </ol>
+                  </div>
+                </div>
+
                 <div class="row margin-top">
                   <div class="col-sm-12">
                     <p>We redesigned the UI of the touch screen in order to make the machine more efficient.</p>
                     <a target="_blank" href="https://invis.io/SYADOLC42">
-                      <button type="button" class="btn btn-default pdf-button">See Quick Prototype</button>
+                      <button type="button" class="btn btn-default  ">See Quick Prototype</button>
                     </a>
                   </div>
-                </div>
-                <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/annotated.png">
-                  </div>
-                  <div class="col-sm-5">
-                    <ol class="larger">
-                      <li>User can use the filter to select a subset of drinks, currently the “ALL” is active. When the user selects another option in the filter at the top of the screen, they will see that subset of drinks</li>
-                      <li>The user can see all of the drinks in the category</li>
-                      <li>Language toggle</li>
-                      <li>When the user selects a beverage the button will expand and flavors becomes visible</li>
-                      <li>Once the user choses a beverage the flavors will appear. The regular version with no flavor is selected by default so the user doesn’t have to select the drink a second time if they just want the plain beverage.</li>
-                    </ol>
-                  </div>
-
-
                 </div>
               </div>
 
@@ -411,7 +413,7 @@
 
       <div class="container-fluid space final-product">
         <div class="container">
-          <h6 class="white">Coke Enthnography</h6>
+          <h6 class="white">Coke Ethnography</h6>
           <div class="row">
 
             <h2 class="center white">Problems Discovered</h2>
@@ -445,7 +447,7 @@
 
       <div class="container-fluid space take-away">
         <div class="container">
-          <h6 class="center">Coke Enthnography</h6>
+          <h6 class="center">Coke Ethnography</h6>
           <div class="row">
 
             <h2 class="center">LESSONS LEARNED</h2>
@@ -457,7 +459,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Observing users interactin with a product in a natural environment can give really valuable insights into the usabilty of the product.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Observing users interacting with a product in a natural environment can give really valuable insights into the usability of the product.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Having a very clear idea of what you are looking for before you start observing is important because the interactions happen so fast and you can miss things if you aren't focused.</p>
             </div>
           </div>

@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Todo web application built with PHP</h4>
+                <h4>To do web application built with PHP</h4>
               </div>
             </div>
             <div class="col-sm-6 col-wrapper">
@@ -64,10 +64,10 @@
               <h3>The Ask</h3>
               <p>Create a data driven website</p>
               <h3>Project Description</h3>
-              <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your todo lists and plan out your week. The user can create basic to do lists with notes and due dates. On the calendar page the user can drag individual items on the todo list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well. </p>
-              <p>This project came from my frustration with todo list apps out there. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to brake it into what tasks I am going to get done on each day.</p>
+              <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your to-do lists and plan out your week. The user can create basic to do lists with notes and due dates. On the calendar page, the user can drag individual items on the todo list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well.</p>
+              <p>This project came from my frustration with todo list apps out there. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
               <a target="_blank" href="http://ec2-54-245-149-157.us-west-2.compute.amazonaws.com/planner">
-                <button type="button" class="btn btn-default pdf-button">Try it Out</button>
+                <button type="button" class="btn btn-default margin-top">Try it Out</button>
               </a>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -147,7 +147,7 @@
             </div>
             <div class="col-sm-4">
               <h4>Create Todo Lists</h4>
-              <p>Add items to the todo list. Each item can have a due date, notes and reminders.</p>
+              <p>Add items to the todo list. Each item can have a due date, notes, and reminders.</p>
               <h4 class="margin-top">Plan Out Your Week</h4>
               <p>Drag the items to different days of the week to schedule your week.</p>
               <h4 class="margin-top">Add Notes</h4>
@@ -190,30 +190,56 @@
                 <p class="headerline">1. Planning</p>
                 <h4 class="color">Creating the Design Docs</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>I started by looking at other planner apps out there to see what features they had and how they worked.From there I started skecthing and coming up with how I wanted to structure my app.</p>
+                    <p>I started by looking at other planner apps out there to see what features they had and how they worked.</p>
+                  </div>
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive1.jpg">
+                  </div>
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive2.jpg">
+                  </div>
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive3.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    TEXT HERE
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/sketches.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>The sketches I did to start getting my ideas on paper and thinking about what would work best</p>
+                    <p>I started stetching to get my ideas on paper and thinking about what would work best. It was important to me that all of the features worked together. I wanted to make sure it was relatively simple to use and didn't have an overload of functions that would make it confusing. The problem I found with many apps was that they had too many features packed into one app and it was easy to get lost in it.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/database.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/database.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>The database design for the app. I started planning out what variables and data I would need to get from the user and how I could use all of that information to create an app tht was elegant and easy to use.</p>
+                    <p>This was the database design for the app. I started planning out what variables and data I would need to get from the user and how I could use all of that information to create an app that was elegant and easy to use.</p>
                   </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>These were the task flows I developed to work through the tasks the user could perform using this app. The final tasks i decided to develop for the app were:</p>
+                    <ul>
+                      <li>Create to-do list items (Title, Due Date, Description, and Category)</li>
+                      <li>Add reminders to to-list items (Title, Day)</li>
+                      <li>Create sticky notes (Title, Note, and Category)</li>
+                      <li>Create categories (Name and color)</li>
+                      <li>Put to-do list items on calendar</li>
+                      <li>Add notes to the calendar</li>
+                    </ul>
+                  </div>
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/tasks.jpg">
+                  </div>
+
                 </div>
               </div>
 
@@ -221,19 +247,37 @@
                 <p class="headerline">2. 1st Prototype</p>
                 <h4 class="color">Solidifying the Plan in XD</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd.png">
-                  </div>
-                  <div class="col-sm-5">
+                  <div class="col-sm-12">
                     <p>I built a prototype in Adobe XD to demonstrate what I was trying to accomplish with the application. This prototype allowed me to think about what features I wanted the app to have and how they would all work together.</p>
                     <a target="_blank" href="http://adobe.ly/1RIRp2r">
-                      <button type="button" class="btn btn-default pdf-button">Try it Out</button>
+                      <button type="button" class="btn btn-default  ">Try it Out</button>
                     </a>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd1.png">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd2.png">
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd3.png">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd4.png">
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/wires_notes.jpg">
                   </div>
                 </div>
               </div>
@@ -242,37 +286,48 @@
                 <p class="headerline">3. 2nd Prototype</p>
                 <h4 class="color">Testing the Draggable Interface</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/html.png">
-                  </div>
-                  <div class="col-sm-5">
-                    <p>In HTML/CSS I created a prototype for the calendar page to get an idea of how the interations would work</p>
+                  <div class="col-sm-12">
+                    <p>In HTML, CSS, and Javascript I created a prototype for the calendar page to get an idea of how the interactions would work. I was trying to get a feel for how easy it would be to drag the todo list items into the calendar.</p>
                     <a target="_blank" href="/projects/planner_test/">
-                      <button type="button" class="btn btn-default pdf-button">Try it Out</button>
+                      <button type="button" class="btn btn-default  ">Try it Out</button>
                     </a>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/html.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/html2.jpg">
                   </div>
                 </div>
               </div>
 
               <div id="step4" class="step col-md-11 col-md-offset-1">
                 <p class="headerline">3. 3rd Prototype</p>
-                <h4 class="color">Putting It All Togther</h4>
+                <h4 class="color">Putting It All Together</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/screen1.png">
+                  <div class="col-sm-12">
+                    <p>Using Laravel I built this application from scratch.</p>
                   </div>
-                  <div class="col-sm-5">
-                    <p>This is the final prototype I developed.</p>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/code.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/final.jpg">
+
                   </div>
                 </div>
               </div>
@@ -306,10 +361,10 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/systematize/screen0.png" alt="screen"><h4 class="center">Login Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen1.png" alt="screen"><h4 class="center">Calendar Page/Home Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen2.png" alt="screen"><h4 class="center">List View Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen3.png" alt="screen"><h4 class="center">Stcky Notes Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen0.jpg" alt="screen"><h4 class="center">Login Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen1.jpg" alt="screen"><h4 class="center">Calendar Page/Home Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen2.jpg" alt="screen"><h4 class="center">List View Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen3.jpg" alt="screen"><h4 class="center">Sticky Notes Page</h4></div>
               </div>
             </div>
           </div>
@@ -330,10 +385,8 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Lesson 1</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Prototyping in HTML/CSS can be really helpful. I discovered a problem with my draggable interactions before I got into the back-end development so I was able to figure out how to solve it before I was too far into the project.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> This project was the first time I had worked with PHP. I learned back-end development and database design while working on this project. </p>
             </div>
           </div>
         </div>
@@ -349,7 +402,7 @@
       ?>
 
       <script>
-      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-04.png', speed: .4});
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-06.png', speed: .4});
 
       $('.carousel').slick({
       dots: true,

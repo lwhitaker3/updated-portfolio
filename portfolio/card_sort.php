@@ -33,12 +33,12 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Reorganizing Content on Iteractive Media Site</h4>
+                <h4>Reorganizing Content on Interactive Media Site</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/cardsort/intro.png">
+                <img class="portfolio-single-intro-img" alt="Card Sort Screen Shots" src="/img/cardsort/intro.png">
               </div>
             </div>
           </div>
@@ -62,10 +62,10 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Conduct card sorts to find an appropriate way that matches users mental models to organize content on the Interactive Media site.</p>
+              <p>Conduct card sorts to find an appropriate way to organize content on the Interactive Media site that matches users' mental models.</p>
               <h3>Project Description</h3>
-              <p>The team performed a non-directive (without context) card sort where we told particpants to group the items as quickly as possible. The product researched was the UM Interactive Media website (interactive.miami.edu), a website for the School of Communication's Interaactive Media program which is part of the University of Miami located in Coral Gables, Florida.</p>
-              <p>We used Xsort to conduct the card sort. We had 16 participants within four age categories perform the card sort. For there we analyzed the data and translated it into a stronger navigation structure for the site.</p>
+              <p>The team performed a non-directive (without context) card sort where we told participants to group the items as quickly as possible. The product researched was the UM Interactive Media website (interactive.miami.edu), a website for the School of Communication's Interactive Media program which is part of the University of Miami located in Coral Gables, Florida.</p>
+              <p>We used xSort to conduct the card sort. We had 16 participants within four age categories perform the card sort. For there we analyzed the data and translated it into a stronger navigation structure for the site.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>
@@ -136,12 +136,12 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> After conducting the card sort with 16 people we used excel to organize the data and find trends in the way particpants grouped the cards.</p>
+              <p class="intro">After conducting the card sort with 16 participants we used excel to organize the data. We found clear trends in how users grouped the cards which helped us develop a new navigation structure for the website.</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-12 margin-bottom">
-              <img class="product" alt="placeholder" src="/img/cardsort/excel_intro.png">
+              <img class="product" alt="Excel Results" src="/img/cardsort/excel_intro.png">
             </div>
           </div>
         </div>
@@ -180,17 +180,20 @@
                 <p class="headerline">1. Planning</p>
                 <h4 class="color">Developing the Test Protocol</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/setup.png">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/setup.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>We spent time searching through the Interactive Media site in order to find all of the headings we wanted to use for the card sort. We were looking for page headings and sub headings an wanted to make sure we were as thourough as possible to get the best results possible.</p>
-                    <p>We developed a procedure for the test and set the cards up in xSort.</p>
+                    <p>We spent time searching through the Interactive Media site in order to find all of the headings we wanted to use for the card sort. We were looking for page headings and subheadings across all pages so the card sort would give us the most comprehensive results possible. By including as many subheadings as possible, without having an overwhelming number of cards, we could go beyond the main navigation and reorganize content on the pages themselves.</p>
+                    <p>Once we had identified what cards we wanted to use, we developed a procedure for all of the card sorts and set up the xSort software in order to conduct the tests.</p>
+                    <a target="_blank" href="/projects/Researcher_Toolkit.pdf">
+                      <button type="button" target="_blank" class="btn btn-default">See Researcher ToolKit</button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -199,15 +202,12 @@
                 <p class="headerline">2. Research</p>
                 <h4 class="color">Conducting the Card Sort</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/testing.png">
-                  </div>
-                  <div class="col-sm-5">
+                  <div class="col-sm-12">
                     <p>The team conducted the cards sorts with 16 participants for 4 different age/gender groups:</p>
                     <ul class="larger">
                       <li>Women over 40</li>
@@ -215,43 +215,57 @@
                       <li>Men over 40</li>
                       <li>Men under 40</li>
                     </ul>
-                  </div>
                 </div>
+              </div>
+              <div class="row margin-top">
+                <div class="col-sm-6">
+                  <img class="portfolio_picture" alt="Card Sort Photo" src="/img/cardsort/testing.jpg">
+                </div>
+                <div class="col-sm-6 hidden-xs">
+                  <img class="portfolio_picture" alt="Card Sort Screen" src="/img/cardsort/testing2.jpg">
+                </div>
+              </div>
               </div>
 
               <div id="step3" class="step col-md-11 col-md-offset-1">
                 <p class="headerline">3. Analyzing</p>
                 <h4 class="color">Translating the Results</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/round1.png">
-                  </div>
-                  <div class="col-sm-5">
-                    <p>As a team we gathered all of the data and sat down to refine the information archetecture of the site.</p>
-                    <p>After writing down different categories particpants came up with we took to the whiteboards to come up with a new way to organize all the cards on the website.</p>
+                  <div class="col-sm-12">
+                    <p>As a team, we gathered all of the data and sat down to refine the information architecture of the site. We looked at the cluster trees and distance matrix we developed in excel to see what groupings were most common among participants. We found some clear trends that emerged. After writing down different categories participants came up with we took to the whiteboards to come up with a new way to organize all the cards on the website.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/round2.png">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="Taking Notes" src="/img/cardsort/round1.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    <p>From there we were able to come up with even broader categories and refine our orginal organization.</p>
+                  <div class="col-sm-6 hidden-xs">
+                    <img class="portfolio_picture" alt="Whiteboard" src="/img/cardsort/round1-2.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/sitemap.png">
+                  <div class="col-sm-12">
+                    <p>From there we were able to come up with even broader categories and refine how we had orginally organized the data.</p>
                   </div>
-                  <div class="col-sm-5">
-                    <p>The final revised site map</p>
-                    <a target="_blank" href="http://lwhitaker3.github.io/USMortality/">
-                      <button type="button" class="btn btn-default pdf-button">The full report</button>
+                  <div class="col-sm-12 margin-top">
+                    <img class="portfolio_picture" alt="Whiteboard Round 2" src="/img/cardsort/round2.jpg">
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>This was the proposed sitemap we developed based on our analysis of the data.</p>
+                  </div>
+                  <div class="col-sm-12 margin-top">
+                    <img class="portfolio_picture" alt="Sitemap" src="/img/cardsort/sitemap.jpg">
+                  </div>
+                  <div class="col-sm-12 margin-top">
+                    <a target="_blank" href="/projects/Card_Sorting_Presentation.pdf">
+                      <button type="button" class="btn btn-default">The full report</button>
                     </a>
                   </div>
                 </div>
@@ -283,22 +297,22 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/cardsort/results1.jpg" alt="screen"><h4 class="center">Session 1 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results2.jpg" alt="screen"><h4 class="center">Session 2 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results3.jpg" alt="screen"><h4 class="center">Session 3 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results4.jpg" alt="screen"><h4 class="center">Session 4 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results5.jpg" alt="screen"><h4 class="center">Session 5 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results6.jpg" alt="screen"><h4 class="center">Session 6 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results7.jpg" alt="screen"><h4 class="center">Session 7 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results8.jpg" alt="screen"><h4 class="center">Session 8 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results9.jpg" alt="screen"><h4 class="center">Session 9 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results10.jpg" alt="screen"><h4 class="center">Session 10 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results11.jpg" alt="screen"><h4 class="center">Session 11 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results12.jpg" alt="screen"><h4 class="center">Session 12 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results13.jpg" alt="screen"><h4 class="center">Session 13 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results14.jpg" alt="screen"><h4 class="center">Session 14 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results15.jpg" alt="screen"><h4 class="center">Session 15 Results</h4></div>
-                <div><img class="carousel_image" src="/img/cardsort/results16.jpg" alt="screen"><h4 class="center">Session 16 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results1.jpg" alt="Problem Slide"><h4 class="center">Session 1 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results2.jpg" alt="Problem Slide"><h4 class="center">Session 2 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results3.jpg" alt="Problem Slide"><h4 class="center">Session 3 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results4.jpg" alt="Problem Slide"><h4 class="center">Session 4 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results5.jpg" alt="Problem Slide"><h4 class="center">Session 5 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results6.jpg" alt="Problem Slide"><h4 class="center">Session 6 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results7.jpg" alt="Problem Slide"><h4 class="center">Session 7 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results8.jpg" alt="Problem Slide"><h4 class="center">Session 8 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results9.jpg" alt="Problem Slide"><h4 class="center">Session 9 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results10.jpg" alt="Problem Slide"><h4 class="center">Session 10 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results11.jpg" alt="Problem Slide"><h4 class="center">Session 11 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results12.jpg" alt="Problem Slide"><h4 class="center">Session 12 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results13.jpg" alt="Problem Slide"><h4 class="center">Session 13 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results14.jpg" alt="Problem Slide"><h4 class="center">Session 14 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results15.jpg" alt="Problem Slide"><h4 class="center">Session 15 Results</h4></div>
+                <div><img class="carousel_image" src="/img/cardsort/results16.jpg" alt="Problem Slide"><h4 class="center">Session 16 Results</h4></div>
               </div>
             </div>
           </div>
@@ -319,7 +333,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Card sorts can provide a lot of useful information and insight into the end users however the results of a card sort require a lot of translating in order to use it in design</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Card sorts can provide a lot of useful information and insight into users' mental models, however, the results of a card sort require a lot of translating before it can be used in the design.</p>
             </div>
           </div>
         </div>
@@ -336,7 +350,7 @@
 
       ?>
       <script>
-      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-04.png', speed: .4});
+      $('.intro-portfolio-single-container').parallax({imageSrc: '/img/backgrounds/pattern-05.png', speed: .4});
 
       $('.carousel').slick({
       dots: true,

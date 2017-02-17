@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>Incident Reporting System for Nursing Home Employees</h4>
+                <h4>Incident reporting system for nursing home employees</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
@@ -66,7 +66,7 @@
               <h3>Project Description</h3>
               <p>This project was about finding a way to make it easier for administrators in nursing homes to keep track of incident reports. It is vital that these forms are easily accessible and kept track of because the must be reported to OSHA.</p>
               <p>The process of creating this system began with sketches, breaking down all the information that would be gathered on forms, and creating flows of the important tasks to be completed using the system. Breaking down the forms was important because many of the forms ask for the same information, so the labels needed to be standardized. It was also important to gather the types of information being gather in order to develop a useful dashboard.</p>
-              <p>Once the planning process was completed, it was time to move into sitemaps and devloping the first round of wireframes. The first round of wireframes were completed to get an idea of what information needed to be on each page and to work through how a user would move through the system. The wireframes were created in Axure.</p>
+              <p>Once the planning process was completed, it was time to move into sitemaps and developing the first round of wireframes. The first round of wireframes was completed to get an idea of what information needed to be on each page and to work through how a user would move through the system. The wireframes were created in Axure.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>
@@ -192,19 +192,32 @@
 
               <div id="step1" class="step col-md-11 col-md-offset-1">
                 <p class="headerline">1. Requirements</p>
-                <h4 class="color">Organizing the Forms and Information</h4>
+                <h4 class="color">Organizing the Forms and Understanding the Requirements</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Excel Spreadsheet" src="/img/dashboard/excel.png">
+                  <div class="col-sm-12">
+                    <p>In order to start designing I had to learn more about OSHA reporting and the employees in nursing homes that would use this system.</p>
                   </div>
-                  <div class="col-sm-5">
-                    <p>This project was about creating a system that allowed users to keep track of incidents reported by employees in a nursing home facility. The system had many forms that needed to be analyzed because many of the forms contained the same information. The labels for the form elements needed to be stanardzed across all forms and it was important to determine what type of input would be most effective for users.</p>
+
+                  <div class="col-sm-12 margin-top">
+                    <img class="portfolio_picture" alt="Excel Spreadsheet" src="/img/dashboard/research.jpg">
                   </div>
+
+                </div>
+
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>This project was about creating a system that allowed users to keep track of incidents reported by employees in a nursing home facility. The system had many forms that needed to be analyzed because many of the forms contained the same information. The labels for the form elements needed to be standardized across all forms and it was important to determine what type of input would be most effective for users.</p>
+                  </div>
+
+                  <div class="col-sm-12 margin-top">
+                    <img class="portfolio_picture" alt="Excel Spreadsheet" src="/img/dashboard/excel.jpg">
+                  </div>
+
                 </div>
               </div>
 
@@ -212,16 +225,16 @@
                 <p class="headerline">2. Planning</p>
                 <h4 class="color">Creating the Design Docs</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="User Flow" src="/img/dashboard/dashboard_flow.png">
+                    <img class="portfolio_picture" alt="User Flow" src="/img/dashboard/dashboard_flow.jpg">
                   </div>
                   <div class="col-sm-5">
-                  <p>There were also a lot of steps that needed to be well thought out in order to make the system run smoothly. An employee creates a report, which generates a case number and that case needs to be reviwed by the admin. This is a task flow for admin appending a review to a case.</p>
+                  <p>There were also a lot of steps that needed to be well thought out in order to make the system run smoothly. An employee creates a report, which generates a case number and that case needs to be reviewed by the admin. This is a task flow for admin appending a review to a case.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -229,7 +242,7 @@
                   <p>The site map shows the hierarchy of pages in the reporting dashboard.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="Sitemap" src="/img/dashboard/sitemap.png">
+                    <img class="portfolio_picture" alt="Sitemap" src="/img/dashboard/sitemap.jpg">
                   </div>
                 </div>
               </div>
@@ -238,16 +251,19 @@
                 <p class="headerline">3. Sketching</p>
                 <h4 class="color">Initial Ideas</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/sketches.jpg">
+                  <div class="col-sm-12">
+                    <p>These were the first set of sketches. Once I knew what functions the system needed to have, I began sketching out ideas for how the system should look.</p>
                   </div>
-                  <div class="col-sm-5">
-                    <p>These were the first set of sketches. Once I knew what functions the system needed to have, I began sketching out ides for how the sytem should look.</p>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/sketch1.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/sketch2.jpg">
                   </div>
                 </div>
               </div>
@@ -256,33 +272,41 @@
                 <p class="headerline">4. Wireframes</p>
                 <h4 class="color">Designing the App</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
+
+                  <div class="col-sm-12">
+                    <p>The first version of the wireframes were developed to better understand what features were needed on each of the pages. They were very rough but helped organize what needed to go on each page.</p>
+                    <p>The first set of wireframes made it clear that there were issues with the navigation structure. The system needs to allow the user to create reports, manage cases and submit reports. I went back tot sketching to see if I could come up with something that made more sense.</p>
+                  </div>
+                  <div class="col-sm-12">
                     <img class="portfolio_picture" alt="Version 1 of Wireframes" src="/img/dashboard/v1wires.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    <p>The first version of the wireframes were developed to better understand what features were needed on each of the pages. They were very rough, but helped organize what needed to go on each page.</p>
-                  </div>
                 </div>
+
                 <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wire2.png">
+                  <div class="col-sm-12">
+                    <p>The second version of the wireframes were more fleshed out with the new navigation structure that I developed. These woreframes were ully annotated to document how the system should work.</p>
+                    <a target="_blank" href="/projectsFinal_Project_Dashboard_Louise_Whitaker.pdf">
+                      <button type="button" class="btn btn-default">All Annotated Wireframes</button>
+                    </a>
                   </div>
-                  <div class="col-sm-5">
-                    <p>The first set of wireframes made it clear that there were issues with the navigation structure. The system need to allow the user to create reports, manage cases and submit reports. I went back tot sketching to see if I could come up with something that made more sense.</p>
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wires4.jpg">
                   </div>
-                </div>
-                <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wire2.png">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wires3.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    <p>The second version of the wireframes were more fleshed out with the new navigation structure that I developed.</p>
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wires2.jpg">
                   </div>
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Version 2 of Wireframes" src="/img/dashboard/v2wires1.jpg">
+                  </div>
+
                 </div>
               </div>
 
@@ -290,25 +314,30 @@
                 <p class="headerline">5. Prototyping</p>
                 <h4 class="color">Designing Interactions</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/form.png">
-                  </div>
-                  <div class="col-sm-5">
-                    <p>I developed the interations with the forms. The forms have inline validation and in-line helper text.</p>
+                  <div class="col-sm-12">
+                    <p>I prototyped the project in Axure to show all of the interactions across the system.</p>
+                    <a href="http://b69tdb.axshare.com"><button type="button" class="btn btn-default">Prototype</button></a>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/alerts.png">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/form.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>I created an alerts drop down and other interations to complete the prototype.</p>
-                    <a href="http://b69tdb.axshare.com"><button type="button" class="btn btn-default">Prototype</button></a>
+                    <p>I developed the interactions with the forms. The forms have inline validation and in-line helper text.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-7">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/dashboard/alerts.jpg">
+                  </div>
+                  <div class="col-sm-5">
+                    <p>I created an alerts drop down and other interactions to complete the prototype.</p>
                   </div>
                 </div>
               </div>
@@ -339,15 +368,15 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/dashboard/screen1.png" alt="screen"><h4 class="center">Landing Page</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen2.png" alt="screen"><h4 class="center">Dashboard</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen3.png" alt="screen"><h4 class="center">Reporting Portal</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen8.png" alt="screen"><h4 class="center">Create New Report</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen9.png" alt="screen"><h4 class="center">Injury Report</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen4.png" alt="screen"><h4 class="center">Case List</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen5.png" alt="screen"><h4 class="center">Employees</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen6.png" alt="screen"><h4 class="center">Osha Reports</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen7.png" alt="screen"><h4 class="center">Profile</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen1.jpg" alt="screen"><h4 class="center">Landing Page</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen2.jpg" alt="screen"><h4 class="center">Dashboard</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen3.jpg" alt="screen"><h4 class="center">Reporting Portal</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen8.jpg" alt="screen"><h4 class="center">Create New Report</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen9.jpg" alt="screen"><h4 class="center">Injury Report</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen4.jpg" alt="screen"><h4 class="center">Case List</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen5.jpg" alt="screen"><h4 class="center">Employees</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen6.jpg" alt="screen"><h4 class="center">Osha Reports</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen7.jpg" alt="screen"><h4 class="center">Profile</h4></div>
               </div>
             </div>
           </div>
@@ -368,7 +397,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Wireframing out the whole project roughly allowed me to seee what the issues were with the design imediately</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Wireframing out the whole project roughly allowed me to see what the issues were with the design immediately</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Dashboard design is a lot of fun</p>
             </div>
           </div>

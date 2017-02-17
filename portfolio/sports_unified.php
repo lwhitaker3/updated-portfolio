@@ -64,8 +64,8 @@
               <h3>The Ask</h3>
               <p>Find a solution to increase participation in Unified Sports.</p>
               <h3>Project Description</h3>
-              <p>10 students in the Interactive Media program worked with Special Olympics to develop and app from Sports Unified. The project began with understanding the problem and norrowing down what areas we wanted to focus on. We decided to build an application that would provide an easier way for people to get involved, connect people around the world and promote inclusion through an online platform.</p>
-              <p>Key stakeholders were interview to uncover opportunites to make our app as useful as possible.Our main takeawys were that coaches were looking for more high tech ways to organize their team, there is a lot of interest in growing Unified and creating more local events for more competetion is key to continued engagement.</p>
+              <p>10 students in the Interactive Media program worked with Special Olympics to develop and app from Sports Unified. The project began with understanding the problem and narrowing down what areas we wanted to focus on. We decided to build an application that would provide an easier way for people to get involved, connect people around the world and promote inclusion through an online platform.</p>
+              <p>Key stakeholders were interviewed to uncover opportunities to make our app as useful as possible. Our main takeaways were that coaches were looking for more high-tech ways to organize their team, there is a lot of interest in growing Unified and creating more local events for more competition is key to continued engagement.</p>
               <p>Once the research was completed the design team got to work on prototyping 2 applications to meet the needs of the client. The design went through many iterations and was tested with end users each week to make sure the app matched expectations.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -164,9 +164,9 @@
 
           <div class="row">
 
-            <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> We working on this project in a very agile way. We worked to develop a new prototype each week so it could be tested with users right away to contintuously get feedback and and refine our design.</p>
-              <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/photo.png">
+            <div class="col-sm-12">
+              <p class="intro"> We used Agile methodology to work on this project. We worked to develop a new prototype each week so it could be tested with users right away to continuously get feedback and refine our design.</p>
+              <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/photo.jpg">
             </div>
 
           </div>
@@ -188,26 +188,34 @@
 
               <div id="step1" class="step col-md-11 col-md-offset-1">
                 <p class="headerline">1. Designing</p>
-                <h4 class="color">Wireframing the Screens</h4>
+                <h4 class="color">Developing the Concept</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration1.png">
-                  </div>
-                  <div class="col-sm-5">
-                    <p>We began by creating wireframes for the project too create rapid prototypes to start testing as early as possible.</p>
+                  <div class="col-sm-12">
+                    <p>The client was looking for a way to grow community engagement so we had a very broad ask to work with. We began the project with brainstorming sessions to break down the design problem and identify areas for improvement. This allowed us to come up with the concept for our application. The app is a tool for coaches to schedule and manage events and a tool for players to find events and teams in their area.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/designguide.png">
+                  <div class="col-sm-12">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/design-thinking2.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    <p>We used symbols in Sketch to create a styke guide that we refined and developed as we went through the project.</p>
+                </div>
+
+                <div class="row margin-top">
+                  <div class="col-sm-12">
+                    <p>We began by creating wireframes for the project to create rapid prototypes to start testing as early as possible. We used symbols in Sketch to create a style guide that we refined and developed as we went through the project.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration1.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/designguide.jpg">
                   </div>
                 </div>
 
@@ -217,16 +225,17 @@
                 <p class="headerline">2. Feedback</p>
                 <h4 class="color">Gaining a Better Understanding of our Users</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    PICTURE OF FEEDBACK HERE
+
+                  <div class="col-sm-12">
+                    <p>After each prototype was developed we got it in front of users to test it and find out what we needed to improve on. In our weekly meeting, we went through the wireframes and discussed each one and the feedback we received on it.</p>
                   </div>
-                  <div class="col-sm-5">
-                    <p>After each prototype was developed we got it infront of users to test it and find out what we needed to improve on. In our weekly meeting we went through the wireframes and discussed each one and the feedback we received on it.</p>
+                  <div class="col-sm-12 margin-top">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/notes.jpg">
                   </div>
                 </div>
               </div>
@@ -235,25 +244,30 @@
                 <p class="headerline">3. Iterating</p>
                 <h4 class="color">Refining the Design</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/iterations.png">
-                  </div>
-                  <div class="col-sm-5">
+                  <div class="col-sm-12">
                     <p>We ended up with 21 versions of our admin app and 11 versions of our player app.</p>
                   </div>
                 </div>
 
-                <div class="row">
-                  <div class="col-sm-7">
-                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/final_iteration.png">
+                <div class="row margin-top">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/iteration2.jpg">
                   </div>
-                  <div class="col-sm-5">
-                    <p>The final version of the player app in sketch.</p>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/iteration3.jpg">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration5.jpg">
+                  </div>
+                  <div class="col-sm-6">
+                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration6.jpg">
                   </div>
                 </div>
               </div>
@@ -262,24 +276,29 @@
                 <p class="headerline">4. Final</p>
                 <h4 class="color">Final Designs</h4>
                 <div class="row">
-                  <div class="col-xs-2">
+                  <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-6 hidden-xs">
+                  <div class="col-sm-12">
+                    <p>After 15 weeks we had two complete prototypes we presented to our client. The two prototypes were developed in inVision to demonstrate the interactions to the client. They reflected all of the user feedback we had gathered over the 15 weeks.</p>
+                  </div>
+                </div>
+                <div class="row margin-top">
+                  <div class="col-md-6">
                     <h5>Player App</h5>
-                    <iframe width="438" height="930" src="//invis.io/UX9KCQQ2C" frameborder="0" allowfullscreen></iframe><br>
                     <a target="_blank" href="http://invis.io/UX9KCQQ2C">
                       <button type="button" target="_blank" class="btn btn-default">Final Prototype</button>
                     </a>
+                    <img class="phone_pic" alt="placeholder" src="/img/so/user_app.png">
                   </div>
-                  <div class="col-md-6 hidden-xs">
+                  <div class="col-md-6">
                     <h5>Admin/Coach App</h5>
-                    <iframe width="438" height="930" src="//invis.io/C49KCSVHA" frameborder="0" allowfullscreen></iframe>
-                    <a target="_blank" href="http://invis.io/C49KCSVHA"><br>
+                    <a target="_blank" href="http://invis.io/C49KCSVHA">
                       <button type="button" target="_blank" class="btn btn-default">Final Prototype</button>
                     </a>
+                    <img class="phone_pic" alt="placeholder" src="/img/so/coach_app.png">
                   </div>
                 </div>
               </div>
@@ -305,7 +324,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> These are a few of the screens desgn in Sketch for the final prototype</p>
+              <p class="intro"> These are a few of the screens designed in Sketch for the final prototype</p>
             </div>
           </div>
           <div class="row">
@@ -344,8 +363,7 @@
             <div class="col-sm-offset-1 col-sm-10">
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> When collaborating on sketch projects keeping all of the art boards organized and labeled is key.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> The Craft plugin for sketch saves so much time!</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Creating a design library when working on a team so everyone is using the same buttons and fonts while devoloping wireframes is a must.</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Creating a design library when working on a team so everyone is using the same buttons and fonts while devoloping wireframes is a must.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Creating a design library when working on a team so everyone is using the same buttons and fonts while developing wireframes is a must.</p>
             </div>
           </div>
         </div>
