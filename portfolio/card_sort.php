@@ -186,7 +186,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/cardsort/setup.jpg">
+                    <img class="portfolio_picture" alt="xSort Setup Screen" src="/img/cardsort/setup.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>We spent time searching through the Interactive Media site in order to find all of the headings we wanted to use for the card sort. We were looking for page headings and subheadings across all pages so the card sort would give us the most comprehensive results possible. By including as many subheadings as possible, without having an overwhelming number of cards, we could go beyond the main navigation and reorganize content on the pages themselves.</p>

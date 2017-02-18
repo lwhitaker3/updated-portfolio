@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/lemon/intro.png">
+                <img class="portfolio-single-intro-img" alt="Website Screen" src="/img/lemon/intro.png">
               </div>
             </div>
           </div>
@@ -190,7 +190,7 @@
                     <p>I sketched a variety of different ideas out on paper to get inspired to come up with a unique and creative way to display the information about our project on the website</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/lemon/sketch.jpg">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/lemon/sketch.jpg">
                   </div>
 
                 </div>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/lemon/wire1.jpg">
+                    <img class="portfolio_picture" alt="Wireframe 1" src="/img/lemon/wire1.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>The first concept I developed was a "scrollytelling" story. As the user scrolled it would show a lemon being made into lemonade and would explain the idea of our project and "goodness". We decided that while it was flashy and fun, it didn't get to the point of our project fast enough. We wanted to feature our graph and how the stand was doing more prominently and spend less time on the cliche "making lemons into lemonade".</p>
@@ -214,8 +214,8 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/lemon/final_sketch.jpg">
-                    <img class="portfolio_picture margin-top" alt="placeholder" src="/img/lemon/wire2.jpg">
+                    <img class="portfolio_picture" alt="Sketch of Final" src="/img/lemon/final_sketch.jpg">
+                    <img class="portfolio_picture margin-top" alt="Final Wireframe" src="/img/lemon/wire2.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>The second concept I came up with that was then developed into the final site was using drawers to allow the user to show and hide content. Our site needed to show what the project was about, get people to donate online, show our #GoodLemon feed on Twitter and Instagram and display our graphs showing how "good" the Grove was. All of these are related to the projects but are not related to one another in any kind of chronological so a single page displaying all of them at once seemed overwhelming and cluttered. Using drawers allowed us to separate out the content and create a stronger content hierarchy for the page.</p>
@@ -250,7 +250,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/lemon/link.jpg">
+                    <img class="portfolio_picture" alt="Links on Website" src="/img/lemon/link.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>When the user hovers over the drawer links little animations appear on the chalkboard backgrounds.</p>
@@ -258,7 +258,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/lemon/count.jpg">
+                    <img class="portfolio_picture" alt="Counter on Website" src="/img/lemon/count.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>There is a counter that counts up as the user scrolls to it to show how well the project is doing. </p>

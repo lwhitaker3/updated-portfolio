@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/radio/intro.png">
+                <img class="portfolio-single-intro-img" alt="Radio Home Screen" src="/img/radio/intro.png">
               </div>
             </div>
           </div>
@@ -152,7 +152,7 @@
               <p>The application was designed following material design guidelines. This created a cohesive design that is easy to follow. Icons are used to reduce the amount of text needed.</p>
             </div>
             <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/radio/product.png">
+              <img class="product" alt="Radio Home Screen" src="/img/radio/product.png">
             </div>
             <div class="col-sm-4">
               <h4>Packed with Functionality</h4>
@@ -161,7 +161,7 @@
               <p>Each wireframe is fully annotated to explain the interactions on the page. All functions were thought out and developed.</p>
             </div>
             <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/radio/product.png">
+              <img class="product" alt="Radio Home Screen" src="/img/radio/product.png">
             </div>
           </div>
         </div>
@@ -211,10 +211,10 @@
                     <p>Designing this application came with many challenges because radios are very technical and government workers have a long history of using them. It was important to make sure the functions were well thought out and organized. I created a concept map that broke down the major functions and displays based on page types.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/concept_map_sketch.jpg">
+                    <img class="portfolio_picture" alt="Concept Map Sketches" src="/img/radio/concept_map_sketch.jpg">
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture margin-top" alt="placeholder" src="/img/radio/mind_map_pages.jpg">
+                    <img class="portfolio_picture margin-top" alt="Concept Map" src="/img/radio/mind_map_pages.jpg">
                   </div>
                 </div>
               </div>
@@ -232,7 +232,7 @@
                     <p>After the initial planning and understanding of the functions were complete, I created task flows to figure out how a user would move through the application.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/scan_task_flow.jpg">
+                    <img class="portfolio_picture" alt="Task Fow" src="/img/radio/scan_task_flow.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -240,7 +240,7 @@
                     <p>Once the functions were organized, I created a site map to help figure out the page hierarchy.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/app_map.jpg">
+                    <img class="portfolio_picture" alt="App Map" src="/img/radio/app_map.jpg">
                   </div>
                 </div>
               </div>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/sketches.jpg">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/radio/sketches.jpg">
                   </div>
                 </div>
               </div>
@@ -279,34 +279,34 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires1.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Wireframes V1" src="/img/radio/wires1.jpg">
                     <p class="caption">The first round of wireframes in Sketch.</p>
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires2.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Wireframes V2" src="/img/radio/wires2.jpg">
                     <p class="caption">The second round of wireframes in Sketch.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/editing_wires.jpg">
+                    <img class="portfolio_picture" alt="Editing Wireframes" src="/img/radio/editing_wires.jpg">
                     <p class="caption">Working through the issues with the second round of wires. The third rouns of wireframes had a different navigation structure based on the issues woth the first two rounds.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires3.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Wireframes V3" src="/img/radio/wires3.jpg">
                     <p class="caption">The third round of wireframes in Sketch.</p>
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires4.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Wireframes V4" src="/img/radio/wires4.jpg">
                     <p class="caption">The fourth round of wireframes in Sketch.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/wires5.jpg">
+                    <img class="portfolio_picture" alt="Wireframes V5" src="/img/radio/wires5.jpg">
                     <p class="caption">The final round of wireframes in Sketch.</p>
                   </div>
                 </div>
@@ -318,16 +318,16 @@
                     </a>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/annotated1.jpg">
+                    <img class="portfolio_picture" alt="Annotated Home Screen" src="/img/radio/annotated1.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/annotated2.jpg">
+                    <img class="portfolio_picture" alt="Annotated Home Screen with Scan On" src="/img/radio/annotated2.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/annotated3.jpg">
+                    <img class="portfolio_picture" alt="Annotated Scan Lists" src="/img/radio/annotated3.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/radio/annotated4.jpg">
+                    <img class="portfolio_picture" alt="Annotated Edit Scan Lists" src="/img/radio/annotated4.jpg">
                   </div>
                 </div>
               </div>
@@ -379,17 +379,17 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/radio/final2.jpg" alt="screen"><h4 class="center">Home Screen</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final1.jpg" alt="screen"><h4 class="center">Home Screen with scan on</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final3.jpg" alt="screen"><h4 class="center">Scan List</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final4.jpg" alt="screen"><h4 class="center">Channel List</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final5.jpg" alt="screen"><h4 class="center">Private Calls</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final6.jpg" alt="screen"><h4 class="center">Channel Playback</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final7.jpg" alt="screen"><h4 class="center">Channel Listeners</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final8.jpg" alt="screen"><h4 class="center">Alerts</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final9.jpg" alt="screen"><h4 class="center">Contacts</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final10.jpg" alt="screen"><h4 class="center">Profile</h4></div>
-                <div><img class="carousel_image" src="/img/radio/final11.jpg" alt="screen"><h4 class="center">Settings</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final2.jpg" alt="Home Screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final1.jpg" alt="Home Screen with scan on"><h4 class="center">Home Screen with scan on</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final3.jpg" alt="Scan List"><h4 class="center">Scan List</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final4.jpg" alt="Channel List"><h4 class="center">Channel List</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final5.jpg" alt="Private Calls"><h4 class="center">Private Calls</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final6.jpg" alt="Channel Playback"><h4 class="center">Channel Playback</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final7.jpg" alt="Channel Listeners"><h4 class="center">Channel Listeners</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final8.jpg" alt="Alerts"><h4 class="center">Alerts</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final9.jpg" alt="Contacts"><h4 class="center">Contacts</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final10.jpg" alt="Profile"><h4 class="center">Profile</h4></div>
+                <div><img class="carousel_image" src="/img/radio/final11.jpg" alt="Settings"><h4 class="center">Settings</h4></div>
 
               </div>
             </div>

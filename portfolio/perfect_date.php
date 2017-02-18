@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/perfectdate/intro.png">
+                <img class="portfolio-single-intro-img" alt="Perfect Date Screens" src="/img/perfectdate/intro.png">
               </div>
             </div>
           </div>
@@ -149,7 +149,7 @@
               <p>The user can not only input a city and a day, but they can also narrow down the ideas by category to get more specific ideas.</p>
             </div>
             <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/perfectdate/product.png">
+              <img class="product" alt="Home Screen" src="/img/perfectdate/product.png">
             </div>
             <div class="col-sm-4">
               <h4>Enter Any City</h4>
@@ -158,7 +158,7 @@
               <p>The user can select any day within 5 days of the current day. They can then compare the weather on any of those days once they get to the date idea screen.</p>
             </div>
             <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/perfectdate/product.png">
+              <img class="product" alt="Hoe Screen" src="/img/perfectdate/product.png">
             </div>
           </div>
         </div>
@@ -209,7 +209,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/research.jpg">
+                    <img class="portfolio_picture" alt="Research - Competitive Investigation" src="/img/perfectdate/research.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>These were some applications that I found for date planning. The first one is location based. The user can search for places and create a wishlist and share them with a partner. The second one was just a simple application that gave random date ideas and the user could select another one. I liked the simplicity of the concept in this application. It just gave an idea, and you could use that idea to come up with your own plan. The final one had a list of categories on the homepage and then showed a list of ideas based on the choice. This inspired me to add a category selection on the home page that allows the user to pick the type of date they want.</p>
@@ -232,7 +232,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/sketch.jpg">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/perfectdate/sketch.jpg">
                   </div>
                 </div>
               </div>
@@ -250,29 +250,29 @@
                     <p>The design for my interface underwent many changes. The color scheme changed drastically over time, but so did the look of the interface. The original designs were heavy with thick borders and color blocks. By the final design, the look was much cleaner. The heavy borders were removed and the use of colors was drastically reduced to create a cleaner look.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-04.png">
+                <div class="row">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Version 1" src="/img/perfectdate/perfectdate-04.png">
                     <p >The first color scheme was heavy, these colors dated the theme too much. The image was awkward and didn't pull the design together well.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-05.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Version 2" src="/img/perfectdate/perfectdate-05.png">
                     <p >The colors were still too heavy in this version. The color blocks were distracting and the buttons took up way to much space.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-06.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Version 3" src="/img/perfectdate/perfectdate-06.png">
                     <p >Using the dark pink as the accent color and the only splash of color on the page made the design much cleaner.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-14.jpg">
+                <div class="row">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Version 2 Home Screen" src="/img/perfectdate/perfectdate-14.jpg">
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-15.jpg">
+                  <div class="col-sm-4 margin-top hidden-xs">
+                    <img class="portfolio_picture" alt="Version 2 Idea Screen" src="/img/perfectdate/perfectdate-15.jpg">
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-16.jpg">
+                  <div class="col-sm-4 margin-top hidden-xs">
+                    <img class="portfolio_picture" alt="Version 2 Weather Screen" src="/img/perfectdate/perfectdate-16.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p >This was the second version of the application. User feedback I received was that the colors were very heavy and the background images were distracting. There was no information about the app on the home screen. The users did not want to press the information button to learn that this was an application that would give them a date idea based on the weather. The buttons at the bottom of the second screen were bulky and not conveniently placed on the screen.</p>
@@ -296,11 +296,11 @@
                     <p>The coding for this project involved a lot of small things. I had to populate the dropdown menu on the homepage with the next 5 days. And it had to include the day of the week. Making the app spit out date ideas involved creating a list of all the ideas I wanted the app to have and then creating sets for those ideas. I had to create a set of ideas for each weather type, category, and temperature. Then the ideas that were found in all three of those sets were the possible date ideas the user would see.</p>
 
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-17.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Code in Atom" src="/img/perfectdate/perfectdate-17.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/perfectdate/perfectdate-18.jpg">
+                  <div class="col-sm-6 margin-top hidden-xs">
+                    <img class="portfolio_picture" alt="Code in Atom" src="/img/perfectdate/perfectdate-18.jpg">
                   </div>
                 </div>
               </div>
@@ -332,14 +332,14 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-1.jpg" alt="screen"><h4 class="center">Home Screen</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-3.jpg" alt="screen"><h4 class="center">Date Selection - Seattle</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-2.jpg" alt="screen"><h4 class="center">Date Idea - Seattle</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-4.jpg" alt="screen"><h4 class="center">Date Idea - Seattle</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-7.jpg" alt="screen"><h4 class="center">Date Selection - Miami</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-5.jpg" alt="screen"><h4 class="center">Date Idea - Miami</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-6.jpg" alt="screen"><h4 class="center">Date Idea - Miami</h4></div>
-                <div><img class="carousel_image" src="/img/perfectdate/carousel-8.jpg" alt="screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-1.jpg" alt="Home Screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-3.jpg" alt="Date Selection - Seattle"><h4 class="center">Date Selection - Seattle</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-2.jpg" alt="Date Idea - Seattle"><h4 class="center">Date Idea - Seattle</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-4.jpg" alt="Date Idea - Seattle"><h4 class="center">Date Idea - Seattle</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-7.jpg" alt="Date Selection - Miami"><h4 class="center">Date Selection - Miami</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-5.jpg" alt="Date Idea - Miami"><h4 class="center">Date Idea - Miami</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-6.jpg" alt="Date Idea - Miami"><h4 class="center">Date Idea - Miami</h4></div>
+                <div><img class="carousel_image" src="/img/perfectdate/carousel-8.jpg" alt="Home Screen"><h4 class="center">Home Screen</h4></div>
               </div>
             </div>
           </div>

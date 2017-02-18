@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/ccs/intro.png">
+                <img class="portfolio-single-intro-img" alt="U-Compute Screens" src="/img/ccs/intro.png">
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <img class="product" alt="placeholder" src="/img/ccs/ccs.png">
+              <img class="product" alt="UCompute and Omadamathy" src="/img/ccs/ccs.png">
             </div>
           </div>
         </div>
@@ -205,10 +205,10 @@
                     </ul>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/original.jpg">
+                    <img class="portfolio_picture" alt="Original Site Image" src="/img/ccs/original.jpg">
                   </div>
                   <div class="col-sm-6 margin-top hidden-xs">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/original-2.jpg">
+                    <img class="portfolio_picture" alt="Original Site Image" src="/img/ccs/original-2.jpg">
                   </div>
 
                 </div>
@@ -217,13 +217,13 @@
                     <p>We asked some users to organize the links into categories they felt made sense because they had a better understanding of the links and what fits together than we did. We realized the portals fell into three broad categories: Tutorials/Classes, Tools, and Resources. Based on that we sorted all of the portals in sub-categories.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/stickies.jpg">
+                    <img class="portfolio_picture" alt="Sticky Notes" src="/img/ccs/stickies.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/ucompute-sketch2.jpg">
+                    <img class="portfolio_picture" alt="Sketches of Site" src="/img/ccs/ucompute-sketch2.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/ucompute-sketch.jpg">
+                    <img class="portfolio_picture" alt="Sketches of Site" src="/img/ccs/ucompute-sketch.jpg">
                   </div>
                 </div>
 
@@ -239,17 +239,17 @@
                     <p>The next step in the process was to mock up ideas for a resign.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/wireframe1.jpg">
+                <div class="row">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="1st Wireframe" src="/img/ccs/wireframe1.jpg">
                     <p class="caption">This concept used smaller cards. It broke the cards into different categories that the user could filter down.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/wireframe2.jpg">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="2nd Wireframe" src="/img/ccs/wireframe2.jpg">
                     <p class="caption">This was the first design we created with the list view. The user can select a category from the drop down menu.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/wireframe3.jpg">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="3rd Wireframe" src="/img/ccs/wireframe3.jpg">
                     <p class="caption">This was the design we chose for the final site. We used a list view instead of cards and had a sticky navigation that followed the user down the page.</p>
                   </div>
 
@@ -272,7 +272,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/ucompute-menu.png">
+                    <img class="portfolio_picture" alt="UCompute Tabbed Navigation" src="/img/ccs/ucompute-menu.png">
                   </div>
                   <div class="col-sm-6">
                     <p class="caption">The main tabbed navigation. The user can decide whether they are looking for tutorials, tools or other resources.</p>
@@ -280,7 +280,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/ucompute-menu2.png">
+                    <img class="portfolio_picture" alt="UCompute Sub Navigation" src="/img/ccs/ucompute-menu2.png">
                   </div>
                   <div class="col-sm-6">
                     <p class="caption">This is the sub navigation. On both the mobile and desktop versions, the navigation is sticky so at any time the user can view the menu. On the desktop version, the menu is visible and as a user scrolls into a section, that title is highlighted on the menu. On the mobile version the menu icon shows up and the menu is a dropdown.</p>
@@ -288,7 +288,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/ucompute-card.png">
+                    <img class="portfolio_picture" alt="Card Link" src="/img/ccs/ucompute-card.png">
                   </div>
                   <div class="col-sm-6">
                     <p class="caption">This is the layout for the portal links. We chose to use just the logos instead of colorful pictures. We used color only for the title and the difficulty rating to keep the design very simple and clean.</p>
@@ -309,10 +309,10 @@
                     <p>Since this website was about explaining a new term Dr. Khuri (Department of Computational Science at the University of Miami) had coined, it was important to understand her vision and what she was looking to communicate on the site.</p>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/omada_sketch.jpg">
+                    <img class="portfolio_picture" alt="Omadamthy Sketch" src="/img/ccs/omada_sketch.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/ccs/omada_sketch2.jpg">
+                    <img class="portfolio_picture" alt="Omadamathy Notes" src="/img/ccs/omada_sketch2.jpg">
                   </div>
                 </div>
 
@@ -343,12 +343,12 @@
                     <p>We used FoundationPress to develop a Wordpress theme for the site.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
                     <img class="portfolio_picture" alt="Code in Atom" src="/img/ccs/omada-code.jpg">
                     <p class="caption">Developing the theme in Atom using FoundationPress</p>
                   </div>
-                  <div class="col-sm-6">
+                  <div class="col-sm-6 margin-top">
                     <img class="portfolio_picture" alt="ScreenShot of Code" src="/img/ccs/omada-final.jpg">
                     <p class="caption">The final design of the site</p>
                   </div>

@@ -53,24 +53,24 @@
           </div>
           <div data-aos="fade" data-aos-once="true" class="row">
             <div class="col-sm-offset-1 col-sm-5">
-              <img class="resumeIcons" alt="placeholder" src="img/icons/ux.png">
+              <img class="resumeIcons" alt="UX Design Iconr" src="img/icons/ux.png">
               <h4>UX Design</h4>
               <p>UX Design, Wireframing, Prototyping, AdobeCC, Photoshop, Illustrator, inDesign, Axure RP, Sketch, InVision</p>
             </div>
             <div class="col-sm-5">
-              <img class="resumeIcons" alt="placeholder" src="img/icons/ux-23.png">
+              <img class="resumeIcons" alt="UX Research Icon" src="img/icons/ux-23.png">
               <h4>UX Research</h4>
               <p>Card Sorting, Surveys, Competitive Analyses, Heuristic Reviews, Inspection Methods, Usability Testing, Focus Groups, Ethnography</p>
             </div>
           </div>
           <div data-aos="fade" data-aos-once="true" class="row">
             <div class="col-sm-offset-1 col-sm-5">
-              <img class="resumeIcons" alt="placeholder" src="img/icons/code.png">
+              <img class="resumeIcons" alt="Code Icon" src="img/icons/code.png">
               <h4>Code</h4>
               <p>HTML, JavaScript, SASS/CSS, PHP/MySQL, Wordpress</p>
             </div>
             <div class="col-sm-5">
-              <img class="resumeIcons" alt="placeholder" src="img/icons/other-skills.png">
+              <img class="resumeIcons" alt="Other Skills Icon" src="img/icons/other-skills.png">
               <h4>Other</h4>
               <p>Customer Service, Public Speaking, News Layout Design, Infographics, Data Visualization</p>
             </div>
@@ -93,7 +93,7 @@
                 <div class="row">
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/ux.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="UX Design Icon" src="img/icons/ux.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">June 2016 - August 2016<span> Coconut Grove, FL</span></p>
@@ -109,7 +109,7 @@
 
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/ux.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="UX Research Icon" src="img/icons/ux-23.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2015 - Present<span> Coral Gables, FL</span></p>
@@ -124,7 +124,7 @@
                   </div>
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/code.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Code Icon" src="img/icons/code.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2015 - December 2016<span> Coral Gables, FL</span></p>
@@ -139,7 +139,7 @@
                   </div>
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/school.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Education Icon" src="img/icons/school.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2015 - Present<span> Coral Gables, FL</span></p>
@@ -155,7 +155,7 @@
 
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/code.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Code Icon" src="img/icons/code.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2014 - May 2015<span> Coral Gables, FL</span></p>
@@ -169,7 +169,7 @@
 
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/code.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Work Icon" src="img/icons/work.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2012 - May 2015<span> Coral Gables, FL</span></p>
@@ -177,13 +177,13 @@
       							<p class="resume-title">Department of Housing</span>
       							<ul class="resume-description">
       								<li><span>Provided customer service to freshmen residents and their parents.</span></li>
-      								<li><span>Sorted resident mail and organized file systems for 900 students..</span></li>
+      								<li><span>Sorted resident mail and organized file systems for 900 students.</span></li>
       							</ul>
                   </div>
 
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/work.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Work Icon" src="img/icons/work.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2014 - December 2015<span> Miami, FL</span></p>
@@ -197,7 +197,7 @@
                   </div>
 
                   <div class="hidden-xs col-sm-3 text-center">
-                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="placeholder" src="img/icons/grad.png">
+                    <img data-aos="fade" data-aos-once="true" class="resumeImg" alt="Education Icon" src="img/icons/grad.png">
                   </div>
                   <div data-aos="fade-left" data-aos-once="true" class="col-sm-9 resume-entry">
                     <p class="resume-date">August 2011 - May 2015<span> Coral Gables, FL</span></p>

@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/dashboard/intro.png">
+                <img class="portfolio-single-intro-img" alt="Dashboard Screen" src="/img/dashboard/intro.png">
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
           </div>
           <div class="row">
             <div class="col-sm-12s">
-              <img class="product" alt="placeholder" src="/img/dashboard/product.png">
+              <img class="product" alt="Dashboard Screens" src="/img/dashboard/product.png">
             </div>
           </div>
         </div>
@@ -368,15 +368,15 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/dashboard/screen1.jpg" alt="screen"><h4 class="center">Landing Page</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen2.jpg" alt="screen"><h4 class="center">Dashboard</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen3.jpg" alt="screen"><h4 class="center">Reporting Portal</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen8.jpg" alt="screen"><h4 class="center">Create New Report</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen9.jpg" alt="screen"><h4 class="center">Injury Report</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen4.jpg" alt="screen"><h4 class="center">Case List</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen5.jpg" alt="screen"><h4 class="center">Employees</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen6.jpg" alt="screen"><h4 class="center">Osha Reports</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen7.jpg" alt="screen"><h4 class="center">Profile</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen1.jpg" alt="Landing Page"><h4 class="center">Landing Page</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen2.jpg" alt="Dashboard"><h4 class="center">Dashboard</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen3.jpg" alt="Reporting Portal"><h4 class="center">Reporting Portal</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen8.jpg" alt="Create New Report"><h4 class="center">Create New Report</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen9.jpg" alt="Injury Report"><h4 class="center">Injury Report</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen4.jpg" alt="Case List<"><h4 class="center">Case List</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen5.jpg" alt="Employees"><h4 class="center">Employees</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen6.jpg" alt="Osha Reports"><h4 class="center">Osha Reports</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen7.jpg" alt="Profile"><h4 class="center">Profile</h4></div>
               </div>
             </div>
           </div>

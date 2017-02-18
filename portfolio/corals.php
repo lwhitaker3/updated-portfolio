@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/coral/intro.png">
+                <img class="portfolio-single-intro-img" alt="Coral Website Screen" src="/img/coral/intro.png">
               </div>
             </div>
           </div>
@@ -197,7 +197,7 @@
                     <p>To begin this project we had to conduct research on corals as we didn't have any expertise on the subject. The scientists at RSMAS are doing incredible work, but the articles they produce do not communicate concepts in a way that is easy for the general public to understand. It was our goal the create an experience that explained what corals were and why they were important in a simple yet informative way. We searched through articles on Google Scholar to gather as much information about corals and their threats as possible. We talked to Dr. Neil Hammerschlag, a marine ecologist and research assistant professor, about content that the site needed to have in order to narrow down or research.  I learned a lot about coral through this process. For example, I had no idea that a coral was a "colonial organism" which means that there are many polyps living together on a single coral. I had always assumed the coral itself was the living organism.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/notes.jpg">
+                    <img class="portfolio_picture" alt="Notes to Cover On Site" src="/img/coral/notes.jpg">
                   </div>
                 </div>
               </div>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/storyboard.jpg">
+                    <img class="portfolio_picture" alt="Storyboard" src="/img/coral/storyboard.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>We wanted to create a short video that explained how the "Rescue a Reef" program works using 3D assets built in Maya. We storyboarded different ideas for the video in order to determine what content we wanted to present and the order we wanted to present it in.</p>
@@ -220,7 +220,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/coral.jpg">
+                    <img class="portfolio_picture" alt="Elkhorn in Maya" src="/img/coral/coral.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>I started off by creating Elkhorn coral which is the type of coral researchers at the University of Miami are working to restore. I had never worked with Maya before working on this project, so building this coral was also about learning how to make 3D objects in Maya. I started with a cylinder and shaped into a long stem. Then by creating edge loops, I was able to pull the faces out of a rounded section to create branches.</p>
@@ -228,7 +228,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/fish.jpg">
+                    <img class="portfolio_picture" alt="Fish in Maya" src="/img/coral/fish.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>A coral reef needs more than just pieces of coral, so we created other asssets like fish to add content to give more context to the video.</p>
@@ -251,10 +251,10 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/draft.jpg">
+                    <img class="portfolio_picture" alt="First Sketch" src="/img/coral/draft.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/draft2.jpg">
+                  <div class="col-sm-6 hidden-xs">
+                    <img class="portfolio_picture" alt="Second Sketch" src="/img/coral/draft2.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -262,7 +262,7 @@
                     <p>We played with the order of these frames in order to determine what made the most sense to tell the whole story about corals.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/wireframe1.jpg">
+                    <img class="portfolio_picture" alt="Wireframe 1" src="/img/coral/wireframe1.jpg">
                   </div>
 
                 </div>
@@ -284,11 +284,11 @@
                 <div class="row margin-top">
                   <div class="col-sm-6">
                     <p>The wireframe for the site</p>
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/wireframe2.jpg">
+                    <img class="portfolio_picture" alt="Wireframe2" src="/img/coral/wireframe2.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>The wireframe with content</p>
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/wireframe3.jpg">
+                    <img class="portfolio_picture" alt="Wireframe3" src="/img/coral/wireframe3.jpg">
                   </div>
                 </div>
               </div>
@@ -303,7 +303,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/code.jpg">
+                    <img class="portfolio_picture" alt="Code in Atom" src="/img/coral/code.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>The site was hand coded with using Bootstrap as a foundation.</p>
@@ -311,7 +311,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coral/website1.jpg">
+                    <img class="portfolio_picture" alt="Website V1" src="/img/coral/website1.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>This was the first version of the site that we built to start adding content to and refining the design as we built the site.</p>

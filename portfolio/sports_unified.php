@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/so/intro.png">
+                <img class="portfolio-single-intro-img" alt="Sports Unified Home Screen" src="/img/so/intro.png">
               </div>
             </div>
           </div>
@@ -166,7 +166,7 @@
 
             <div class="col-sm-12">
               <p class="intro"> We used Agile methodology to work on this project. We worked to develop a new prototype each week so it could be tested with users right away to continuously get feedback and refine our design.</p>
-              <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/photo.jpg">
+              <img class="portfolio_picture margin-bottom" alt="Design Team" src="/img/so/photo.jpg">
             </div>
 
           </div>
@@ -201,7 +201,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/design-thinking2.jpg">
+                    <img class="portfolio_picture" alt="Affinity Diagram" src="/img/so/design-thinking2.jpg">
                   </div>
                 </div>
 
@@ -210,12 +210,12 @@
                     <p>We began by creating wireframes for the project to create rapid prototypes to start testing as early as possible. We used symbols in Sketch to create a style guide that we refined and developed as we went through the project.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration1.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Version 1 Wireframes" src="/img/so/iteration1.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/designguide.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Symbols" src="/img/so/designguide.jpg">
                   </div>
                 </div>
 
@@ -235,7 +235,7 @@
                     <p>After each prototype was developed we got it in front of users to test it and find out what we needed to improve on. In our weekly meeting, we went through the wireframes and discussed each one and the feedback we received on it.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/notes.jpg">
+                    <img class="portfolio_picture" alt="Feedback and Redesigning" src="/img/so/notes.jpg">
                   </div>
                 </div>
               </div>
@@ -254,20 +254,20 @@
                   </div>
                 </div>
 
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/iteration2.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Iteration" src="/img/so/iteration2.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture margin-bottom" alt="placeholder" src="/img/so/iteration3.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Iteration" src="/img/so/iteration3.jpg">
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration5.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Iteration" src="/img/so/iteration5.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/so/iteration6.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Iteration" src="/img/so/iteration6.jpg">
                   </div>
                 </div>
               </div>
@@ -291,14 +291,14 @@
                     <a target="_blank" href="http://invis.io/UX9KCQQ2C">
                       <button type="button" target="_blank" class="btn btn-default">Final Prototype</button>
                     </a>
-                    <img class="phone_pic" alt="placeholder" src="/img/so/user_app.png">
+                    <img class="phone_pic" alt="User App Final" src="/img/so/user_app.png">
                   </div>
                   <div class="col-md-6">
                     <h5>Admin/Coach App</h5>
                     <a target="_blank" href="http://invis.io/C49KCSVHA">
                       <button type="button" target="_blank" class="btn btn-default">Final Prototype</button>
                     </a>
-                    <img class="phone_pic" alt="placeholder" src="/img/so/coach_app.png">
+                    <img class="phone_pic" alt="Coach App Final" src="/img/so/coach_app.png">
                   </div>
                 </div>
               </div>
@@ -330,15 +330,15 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/so/finalscreen5.png" alt="screen"><h4 class="center">Login Screen</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen4.png" alt="screen"><h4 class="center">Home Screen</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen9.png" alt="screen"><h4 class="center">Team Page</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen2.png" alt="screen"><h4 class="center">Event Information</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen6.png" alt="screen"><h4 class="center">Notifications</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen7.png" alt="screen"><h4 class="center">Profile Page</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen1.png" alt="screen"><h4 class="center">Create a Team</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen8.png" alt="screen"><h4 class="center">Member Page</h4></div>
-                <div><img class="carousel_image" src="/img/so/finalscreen3.png" alt="screen"><h4 class="center">Find a Sport</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen5.png" alt="Login Screen"><h4 class="center">Login Screen</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen4.png" alt="Home Screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen9.png" alt="Team Page"><h4 class="center">Team Page</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen2.png" alt="Event Information"><h4 class="center">Event Information</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen6.png" alt="Notifications"><h4 class="center">Notifications</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen7.png" alt="Profile Page"><h4 class="center">Profile Page</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen1.png" alt="Create a Team"><h4 class="center">Create a Team</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen8.png" alt="Member Page"><h4 class="center">Member Page</h4></div>
+                <div><img class="carousel_image" src="/img/so/finalscreen3.png" alt="Find a Sport"><h4 class="center">Find a Sport</h4></div>
 
 
               </div>

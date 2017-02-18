@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/docs/intro.png">
+                <img class="portfolio-single-intro-img" alt="Redesigns of Site" src="/img/docs/intro.png">
               </div>
             </div>
           </div>
@@ -205,7 +205,7 @@
                 </div>
                 <div class="row">
                   <div class="col-md-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/group_heuristic.jpg">
+                    <img class="portfolio_picture" alt="Group Heuristic Evaluation" src="/img/docs/group_heuristic.jpg">
                   </div>
                   <div class="col-md-6">
                     <p>We began this project by taking the time to get to know the website we were going to be testing. Each member of the team conducted their own heuristic evaluation of the site. Then as a group, we sat together and created a master list of issues we found. From there we put together a detailed report of all of the problems we found before we conducted the research.</p>
@@ -238,7 +238,7 @@
                     </a>
                   </div>
                   <div class="col-sm-12  margin-top">
-                    <img class="portfolio_picture" alt="radio home screen" src="/img/docs/protocol.jpg">
+                    <img class="portfolio_picture" alt="Refining the Protocol" src="/img/docs/protocol.jpg">
                   </div>
 
 
@@ -255,7 +255,7 @@
                 </div>
                 <div class="row">
                   <div class="col-md-6">
-                    <img class="portfolio_picture" alt="radio home screen" src="/img/docs/testing.jpg">
+                    <img class="portfolio_picture" alt="Testing DOCS Site" src="/img/docs/testing.jpg">
                   </div>
                   <div class="col-md-6">
                     <p>We conducted the test with 6 participants. For each one of the tasks we established the following completion and performance criteria:</p>
@@ -296,7 +296,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/satisfaction.png">
+                    <img class="portfolio_picture" alt="Graph of SUS Scores" src="/img/docs/satisfaction.png">
                   </div>
                   <div class="col-sm-6">
                     <p>We calculated the effectiveness (completion rates), efficiency (task time), and satisfaction (based on SEQ and SUS). We had low completion rates and a low satisfaction score that indicated the site had a lot of room for improvement.</p>
@@ -304,7 +304,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/problems.jpg">
+                    <img class="portfolio_picture" alt="Problem List" src="/img/docs/problems.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>We took all of the of the notes from the sessions and developed a master list of problems discovered during the testing. We created a full report with our findings and the problems we discovered during testing.</p>
@@ -329,10 +329,10 @@
                     <p>We wrote down the titles of the panels on the yellow sticky notes. We organized those notes into groupings of similar themes and ideas. Then we added information that was missing from the site with the blue sticky notes and named the groups with the pink sticky notes.</p>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/stickies.jpg">
+                    <img class="portfolio_picture" alt="Sticky Notes" src="/img/docs/stickies.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/stickies2.jpg">
+                    <img class="portfolio_picture" alt="Sticky Notes" src="/img/docs/stickies2.jpg">
                   </div>
 
                 </div>
@@ -340,7 +340,7 @@
                 <div class="row margin-top">
                   <div class="col-sm-12">
                     <p>Redesigned Sitemap</p>
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/sitemap.jpg">
+                    <img class="portfolio_picture" alt="Revised Sitemap" src="/img/docs/sitemap.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>Once we organized the site information we realized there were 5 main sections for the site.</p>
@@ -357,7 +357,7 @@
 
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/docs/wire.png">
+                    <img class="portfolio_picture" alt="Home Page Wireframe" src="/img/docs/wire.png">
                   </div>
                   <div class="col-sm-5">
                     <p>Once we organized the site information we realized there were 5 main sections for the site.</p>
@@ -403,13 +403,13 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/docs/wire1.png" alt="screen"><h4 class="center">1</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire2.png" alt="screen"><h4 class="center">2</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire3.png" alt="screen"><h4 class="center">3</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire4.png" alt="screen"><h4 class="center">4</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire5.png" alt="screen"><h4 class="center">5</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire6.png" alt="screen"><h4 class="center">4</h4></div>
-                <div><img class="carousel_image" src="/img/docs/wire7.png" alt="screen"><h4 class="center">5</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire1.png" alt="Wireframe1"><h4 class="center">Homepage</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire2.png" alt="Wireframe2"><h4 class="center">What is Docs?</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire3.png" alt="Wireframe3"><h4 class="center">Why DOCS?</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire4.png" alt="Wireframe4"><h4 class="center">DOCS at UM</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire5.png" alt="Wireframe5"><h4 class="center">Develop Organization</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire6.png" alt="Wireframe6"><h4 class="center">Plan Event</h4></div>
+                <div><img class="carousel_image" src="/img/docs/wire7.png" alt="Wireframe7"><h4 class="center">Contact</h4></div>
               </div>
             </div>
           </div>

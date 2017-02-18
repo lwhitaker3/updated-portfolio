@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/coke/coke.png">
+                <img class="portfolio-single-intro-img" alt="Coke Redesigns" src="/img/coke/coke.png">
               </div>
             </div>
           </div>
@@ -136,12 +136,12 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> Based on the research we conducted on the coke freestyle machine, we came up with a new design for the coke machine and the UI.</p>
+              <p class="intro">Based on the research we conducted on the coke freestyle machine, we came up with a new design for the coke machine and the UI.</p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <img class="product" alt="placeholder" src="/img/coke/ui.png">
+              <img class="product" alt="Final Redesign of UI" src="/img/coke/ui.png">
             </div>
           </div>
         </div>
@@ -194,7 +194,7 @@
 
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/flow.jpg">
+                    <img class="portfolio_picture" alt="Task Flow" src="/img/coke/flow.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>We broke down what all of the controls on the machine were, what interactions the user could have, and what tasks the user could accomplish.</p>
@@ -263,7 +263,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/notes.jpg">
+                    <img class="portfolio_picture" alt="Notes from Observations" src="/img/coke/notes.jpg">
                   </div>
                   <div class="col-sm-12  margin-top">
                     <ul class="larger">
@@ -300,7 +300,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/diagram.jpg">
+                    <img class="portfolio_picture" alt="Affinity Diagram" src="/img/coke/diagram.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -367,7 +367,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/redesign.jpg">
+                    <img class="portfolio_picture" alt="Redesign" src="/img/coke/redesign.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>The machine should have a separate button for water that is not on the screen in order to make the process of getting water faster. There should be an ice button next to the water button as users were not expecting to press on an ice lever.</p>
@@ -379,7 +379,7 @@
 
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/coke/annotated.png">
+                    <img class="portfolio_picture" alt="Annotated Redesign" src="/img/coke/annotated.png">
                   </div>
                   <div class="col-sm-6">
                     <ol class="larger">
@@ -429,16 +429,16 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/coke/problem1.jpg" alt="screen"><h4 class="center">Problem 1</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem2.jpg" alt="screen"><h4 class="center">Problem 2</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem3.jpg" alt="screen"><h4 class="center">Problem 3</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem4.jpg" alt="screen"><h4 class="center">Problem 4</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem5.jpg" alt="screen"><h4 class="center">Problem 5</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem6.jpg" alt="screen"><h4 class="center">Problem 6</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem7.jpg" alt="screen"><h4 class="center">Problem 7</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem8.jpg" alt="screen"><h4 class="center">Problem 8</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem9.jpg" alt="screen"><h4 class="center">Problem 9</h4></div>
-                <div><img class="carousel_image" src="/img/coke/problem10.jpg" alt="screen"><h4 class="center">Problem 10</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem1.jpg" alt="Problem 1"><h4 class="center">Problem 1</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem2.jpg" alt="Problem 2"><h4 class="center">Problem 2</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem3.jpg" alt="Problem 3"><h4 class="center">Problem 3</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem4.jpg" alt="Problem 4"><h4 class="center">Problem 4</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem5.jpg" alt="Problem 5"><h4 class="center">Problem 5</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem6.jpg" alt="Problem 6"><h4 class="center">Problem 6</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem7.jpg" alt="Problem 7"><h4 class="center">Problem 7</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem8.jpg" alt="Problem 8"><h4 class="center">Problem 8</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem9.jpg" alt="Problem 9"><h4 class="center">Problem 9</h4></div>
+                <div><img class="carousel_image" src="/img/coke/problem10.jpg" alt="Problem 10"><h4 class="center">Problem 10</h4></div>
               </div>
             </div>
           </div>

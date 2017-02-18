@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/systematize/intro.png">
+                <img class="portfolio-single-intro-img" alt="Systematize Calendar Screen" src="/img/systematize/intro.png">
               </div>
             </div>
           </div>
@@ -143,7 +143,7 @@
           <div class="row">
 
             <div class="col-sm-8">
-              <img class="product" alt="placeholder" src="/img/systematize/product.png">
+              <img class="product" alt="Calendar Page" src="/img/systematize/product.png">
             </div>
             <div class="col-sm-4">
               <h4>Create Todo Lists</h4>
@@ -199,18 +199,18 @@
                     <p>I started by looking at other planner apps out there to see what features they had and how they worked.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive1.jpg">
+                    <img class="portfolio_picture" alt="Competitive Analysis" src="/img/systematize/competitive1.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive2.jpg">
+                    <img class="portfolio_picture" alt="Competitive Analysis" src="/img/systematize/competitive2.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/competitive3.jpg">
+                    <img class="portfolio_picture" alt="Competitive Analysis" src="/img/systematize/competitive3.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/sketches.jpg">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/systematize/sketches.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>I started stetching to get my ideas on paper and thinking about what would work best. It was important to me that all of the features worked together. I wanted to make sure it was relatively simple to use and didn't have an overload of functions that would make it confusing. The problem I found with many apps was that they had too many features packed into one app and it was easy to get lost in it.</p>
@@ -218,7 +218,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/database.jpg">
+                    <img class="portfolio_picture" alt="Database Design" src="/img/systematize/database.jpg">
                   </div>
                   <div class="col-sm-5">
                     <p>This was the database design for the app. I started planning out what variables and data I would need to get from the user and how I could use all of that information to create an app that was elegant and easy to use.</p>
@@ -237,7 +237,7 @@
                     </ul>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/tasks.jpg">
+                    <img class="portfolio_picture" alt="Task Flows" src="/img/systematize/tasks.jpg">
                   </div>
 
                 </div>
@@ -259,25 +259,25 @@
                     </a>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd1.png">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="XD Login" src="/img/systematize/xd1.png">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd2.png">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="XD Calendar Page" src="/img/systematize/xd2.png">
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd3.png">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="XD Notes Page" src="/img/systematize/xd3.png">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/xd4.png">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="XD Task List" src="/img/systematize/xd4.png">
                   </div>
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/wires_notes.jpg">
+                    <img class="portfolio_picture" alt="Notes on Wireframes" src="/img/systematize/wires_notes.jpg">
                   </div>
                 </div>
               </div>
@@ -298,12 +298,12 @@
                     </a>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/html.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="HTML Prototype" src="/img/systematize/html.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/html2.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="HTML Prototype" src="/img/systematize/html2.jpg">
                   </div>
                 </div>
               </div>
@@ -321,12 +321,12 @@
                     <p>Using Laravel I built this application from scratch.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/code.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Code in Atom" src="/img/systematize/code.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/systematize/final.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Calendar Page" src="/img/systematize/final.jpg">
 
                   </div>
                 </div>
@@ -361,10 +361,10 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/systematize/screen0.jpg" alt="screen"><h4 class="center">Login Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen1.jpg" alt="screen"><h4 class="center">Calendar Page/Home Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen2.jpg" alt="screen"><h4 class="center">List View Page</h4></div>
-                <div><img class="carousel_image" src="/img/systematize/screen3.jpg" alt="screen"><h4 class="center">Sticky Notes Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen0.jpg" alt="Login Page"><h4 class="center">Login Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen1.jpg" alt="Calendar Page/Home Page"><h4 class="center">Calendar Page/Home Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen2.jpg" alt="List View Page"><h4 class="center">List View Page</h4></div>
+                <div><img class="carousel_image" src="/img/systematize/screen3.jpg" alt="Sticky Notes Page"><h4 class="center">Sticky Notes Page</h4></div>
               </div>
             </div>
           </div>

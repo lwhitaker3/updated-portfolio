@@ -119,7 +119,6 @@
                           <h2 class="white">Radio UI</h2>
                           <p>Touch screen interface for police radios</p>
                         </div>
-                        <!-- <a href="about.html">CLICK</a> -->
                       </a>
                     </div>
                   </li>

@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/mortality/intro.png">
+                <img class="portfolio-single-intro-img" alt="Infant Mortality Website Screen" src="/img/mortality/intro.png">
               </div>
             </div>
           </div>
@@ -67,7 +67,7 @@
               <p>The project is a single page scrolly-telling site that tells the story of infant mortality in the US. It shows how the United States compares with other "high-income developed" countries and explores why the US infant mortality rate is much higher that other countries. It was hand-coded in d3.js.</p>
               <p>I started the project in September 2015 when I began learning about D3.js. I spent the next three months exploring trends in data and building graphs with D3 to put together a cohesive story. The story starts with infant mortality across the world, zooms into the high-income developed countries, and then dives further into the US and the individual states.</p>
               <a target="_blank" href="http://lwhitaker3.github.io/USMortality/">
-                <button type="button" class="btn btn-default  ">Open Project in New Tab</button>
+                <button type="button" class="btn btn-default">Open Project in New Tab</button>
               </a>
 
             </div>
@@ -142,7 +142,7 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <img class="product" alt="placeholder" src="/img/mortality/product.png">
+              <img class="product" alt="Final Graphs" src="/img/mortality/product.png">
             </div>
           </div>
         </div>
@@ -193,7 +193,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-01.png">
+                    <img class="portfolio_picture" alt="D3 Bar Chart" src="/img/mortality/d3-01.png">
                   </div>
                   <div class="col-sm-5">
                     <p>The very first bar chart I made with D3.</p>
@@ -201,7 +201,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-02.png">
+                    <img class="portfolio_picture" alt="Scrolling Graph" src="/img/mortality/d3-02.png">
                   </div>
                   <div class="col-sm-5">
                     <p>A scrolling interactive graph that I later adapted for my final project.</p>
@@ -209,7 +209,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-7">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-03.png">
+                    <img class="portfolio_picture" alt="Choropleth Map" src="/img/mortality/d3-03.png">
                   </div>
                   <div class="col-sm-5">
                     <p>A choropleth map of the United States showing infant mortality in the different states.</p>
@@ -230,14 +230,14 @@
                     <p>The project was to use infant mortality data to tell a story. I initially started looking at infant mortality and gender equality in countries. I wanted to investigate the connection between how women are treated and infant mortality. I realized that the United States, while it had a low infant mortality compared to developing nations, seemed to lag behind other high-income, developed countries.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-04.jpg">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Excel Sheet of Data" src="/img/mortality/d3-04.jpg">
                   </div>
-                  <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-05.jpg">
+                  <div class="col-sm-6 margin-top">
+                    <img class="portfolio_picture" alt="Excel Sheet of Data" src="/img/mortality/d3-05.jpg">
                   </div>
-                  <div class="col-sm-12">
+                  <div class="col-sm-12 margin-top">
                     <p>As I started researching the topic my data and ideas grew exponentially. I needed to make sure that my data stayed organized, so I knew what data belonged to what graph and what it meant. I created separate sheets for each graph I planned on making and kept the titles descriptive, but simple for the purposes of coding.</p>
                   </div>
                 </div>
@@ -251,16 +251,16 @@
                     <div class="lineBreak project-steps"></div>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-6">
+                <div class="row">
+                  <div class="col-sm-6 margin-top">
                     <a href="/img/mortality/d3-06a.png">
-                      <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-06.png">
+                      <img class="portfolio_picture" alt="Wireframe 1" src="/img/mortality/d3-06.png">
                     </a>
                     <p>This was the first mockup I did of the project. Click on the image to see the full mockup.</p>
                   </div>
-                  <div class="col-sm-6">
+                  <div class="col-sm-6 margin-top">
                     <a href="/img/mortality/d3-07a.png">
-                      <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-07.png">
+                      <img class="portfolio_picture" alt="Wireframe 2" src="/img/mortality/d3-07.png">
                     </a>
                     <p>This was the second mockup I created after I had started putting the project together. Click on the image to see the full mockup.</p>
                   </div>
@@ -278,7 +278,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-08.png">
+                    <img class="portfolio_picture" alt="Code in Atom" src="/img/mortality/d3-08.png">
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -286,31 +286,31 @@
                     <p>The first draft of the project had 3 basic graphs on the page. As I went on, I added interactivity to them and more styling to create strong graphs within the project.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-09.png">
+                <div class="row">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Scatterplot Version 1" src="/img/mortality/d3-09.png">
                     <p class="caption">The scatter plot started off as a static scatter plot comparing Preterm birth rates to infant mortality.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-10.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Scatterplot Version 2" src="/img/mortality/d3-10.png">
                     <p class="caption">I realized that there were other factors I could compare to infant mortality for each country. I wanted to create a scatter plot that changed when the user clicked on a different variable. I wanted to add bar charts too so the user could compare all of the countries in that variable..</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-11.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Scatterplot Version 3" src="/img/mortality/d3-11.png">
                     <p class="caption">I added a hover effect so when the user hovers over a country it highlights on all of the graphs. I added tooltips to all of the graphs. I positioned the buttons and small graphs under the scatter plot to make it clearer to the user they were all related.</p>
                   </div>
                 </div>
-                <div class="row margin-top">
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-12.png">
+                <div class="row">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 1" src="/img/mortality/d3-12.png">
                     <p class="caption">This was the original map I created with a simple tooltip.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-13.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 2" src="/img/mortality/d3-13.png">
                     <p class="caption">I added pie charts to the tooltips to show the percentage of women in different age and race categories giving birth as compared to the rest of the United States.</p>
                   </div>
-                  <div class="col-sm-4">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/mortality/d3-14.png">
+                  <div class="col-sm-4 margin-top">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 3" src="/img/mortality/d3-14.png">
                     <p class="caption">I changed the pie charts to line charts because the pie charts were too small and difficult to compare.</p>
                   </div>
                 </div>
@@ -341,11 +341,11 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/mortality/twitter1.png" alt="screen"></div>
-                <div><img class="carousel_image" src="/img/mortality/twitter2.png" alt="screen"></div>
-                <div><img class="carousel_image" src="/img/mortality/twitter3.png" alt="screen"></div>
-                <div><img class="carousel_image" src="/img/mortality/twitter4.png" alt="screen"></div>
-                <div><img class="carousel_image" src="/img/mortality/twitter5.png" alt="screen"></div>
+                <div><img class="carousel_image" src="/img/mortality/twitter1.png" alt="Twitter Post"></div>
+                <div><img class="carousel_image" src="/img/mortality/twitter2.png" alt="Twitter Post"></div>
+                <div><img class="carousel_image" src="/img/mortality/twitter3.png" alt="Twitter Post"></div>
+                <div><img class="carousel_image" src="/img/mortality/twitter4.png" alt="Twitter Post"></div>
+                <div><img class="carousel_image" src="/img/mortality/twitter5.png" alt="Twitter Post"></div>
               </div>
             </div>
           </div>

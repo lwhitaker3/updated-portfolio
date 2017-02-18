@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6 col-wrapper">
               <div class="image-wrapper">
-                <img class="portfolio-single-intro-img" alt="radio home screen" src="/img/parkpass/intro.png">
+                <img class="portfolio-single-intro-img" alt="Park Pass Screen" src="/img/parkpass/intro.png">
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
               <p>There is an option for the user to buy a single day ticket if the user wants to quickly purchase a ticket.</p>
             </div>
             <div class="col-sm-4 visible-lg visible-md visible-sm">
-              <img class="product" alt="placeholder" src="/img/parkpass/product.png">
+              <img class="product" alt="Buying Tickets Screen" src="/img/parkpass/product.png">
             </div>
             <div class="col-sm-4">
               <h4>Add-Ons</h4>
@@ -155,7 +155,7 @@
               <p>User can prove their residency by scanning their ID into the app.</p>
             </div>
             <div class="col-sm-4 visible-xs">
-              <img class="product" alt="placeholder" src="/img/parkpass/product.png">
+              <img class="product" alt="Buying Tickets Screen" src="/img/parkpass/product.png">
             </div>
           </div>
         </div>
@@ -204,10 +204,10 @@
                     <p>We began the process by conducting secondary research online to learn how current ticketing systems work. From there we looked into the fact that at many theme parks in order to prove residency the user must show some form of ID at the ticket gate. We wanted to find a way to solve the problem of having to wait in line and give the user the opportunity to upload an ID through the ticket application.</p>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/competetive.jpg">
+                    <img class="portfolio_picture" alt="Competitive Analysis" src="/img/parkpass/competetive.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/competetive2.jpg">
+                    <img class="portfolio_picture" alt="Competitive Analysis" src="/img/parkpass/competetive2.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>We created an online survey to find out what should be included in the application, we wanted to get an idea of how people currently book trips and how they purchase tickets online. We also wanted to see how people felt about online security especially when uploading checks since we felt that was a similar real world example to uploading an ID.</p>
@@ -219,10 +219,10 @@
                     </ul>
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/survey.jpg">
+                    <img class="portfolio_picture" alt="Survey" src="/img/parkpass/survey.jpg">
                   </div>
                   <div class="col-sm-6 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/survey2.jpg">
+                    <img class="portfolio_picture" alt="Survey" src="/img/parkpass/survey2.jpg">
                   </div>
                 </div>
               </div>
@@ -240,11 +240,11 @@
                     <p>Task flows were developed to start thinking through how the app would work in order to create a simple seamless experience.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/flow-1.jpg">
+                    <img class="portfolio_picture" alt="Version 1 Task Flow" src="/img/parkpass/flow-1.jpg">
                     <p class="caption">This was the first task flow we developed for the app</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/flow-final.jpg">
+                    <img class="portfolio_picture" alt="Final Task Flow" src="/img/parkpass/flow-final.jpg">
                     <p class="caption">This was the final task flow, we removed many of the functions like logging in to after the user adds the tickets to the cart to streamline the process and get the user to the cart faster.</p>
                   </div>
                 </div>
@@ -253,10 +253,10 @@
                     <p>As a team, we spent time working through possible different flows. We spent a lot of time thinking through which questions should be asked first when purchasing a ticket to establish the most efficient flow. We ended up experimenting with a different combination during each round of testing which led us to the final design.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/whiteboard.jpg">
+                    <img class="portfolio_picture" alt="Whiteboard" src="/img/parkpass/whiteboard.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/sketches.jpg">
+                    <img class="portfolio_picture" alt="Sketches" src="/img/parkpass/sketches.jpg">
                   </div>
                 </div>
               </div>
@@ -274,10 +274,10 @@
                     <p>After each round of wireframes we tested with users to gather feedback on the designs and inform the next iteration.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/testing.jpg">
+                    <img class="portfolio_picture" alt="Testing the App" src="/img/parkpass/testing.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/feedback.jpg">
+                    <img class="portfolio_picture" alt="Feedback of Design" src="/img/parkpass/feedback.jpg">
                   </div>
                 </div>
 
@@ -286,13 +286,13 @@
                     <h5>Iteration 1</h5>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v1wire1.jpg">
+                    <img class="portfolio_picture" alt="Version 1 Wireframe" src="/img/parkpass/v1wire1.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v1wire2.jpg">
+                    <img class="portfolio_picture" alt="Version 1 Wireframe" src="/img/parkpass/v1wire2.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v1wire3.jpg">
+                    <img class="portfolio_picture" alt="Version 1 Wireframe" src="/img/parkpass/v1wire3.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>Feedback from user testing</p>
@@ -308,13 +308,13 @@
                     <h5>Iteration 2</h5>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v2wire1.jpg">
+                    <img class="portfolio_picture" alt="Version 2 Wireframe" src="/img/parkpass/v2wire1.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v2wire2.jpg">
+                    <img class="portfolio_picture" alt="Version 2 Wireframe" src="/img/parkpass/v2wire2.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v2wire3.jpg">
+                    <img class="portfolio_picture" alt="Version 2 Wireframe" src="/img/parkpass/v2wire3.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>Feedback from user testing</p>
@@ -330,13 +330,13 @@
                     <h5>Iteration 3</h5>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v4wire1.jpg">
+                    <img class="portfolio_picture" alt="Version 3 Wireframe" src="/img/parkpass/v4wire1.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v4wire2.jpg">
+                    <img class="portfolio_picture" alt="Version 3 Wireframe" src="/img/parkpass/v4wire2.jpg">
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="placeholder" src="/img/parkpass/v4wire3.jpg">
+                    <img class="portfolio_picture" alt="Version 3 Wireframe" src="/img/parkpass/v4wire3.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
                     <p>Feedback from user testing</p>
@@ -397,18 +397,18 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="carousel">
-                <div><img class="carousel_image" src="/img/parkpass/screen1.jpg" alt="screen"><h4 class="center">Home Screen</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen2.jpg" alt="screen"><h4 class="center">Buy Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen3.jpg" alt="screen"><h4 class="center">Express Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen4.jpg" alt="screen"><h4 class="center">Buy Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen5.jpg" alt="screen"><h4 class="center">Buy Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen6.jpg" alt="screen"><h4 class="center">Buy Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen7.jpg" alt="screen"><h4 class="center">Buy Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen8.jpg" alt="screen"><h4 class="center">Add-Ons</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen9.jpg" alt="screen"><h4 class="center">Account</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen10.jpg" alt="screen"><h4 class="center">Purchased Tickets</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen11.jpg" alt="screen"><h4 class="center">Cart</h4></div>
-                <div><img class="carousel_image" src="/img/parkpass/screen12.jpg" alt="screen"><h4 class="center">Verify Residency</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen1.jpg" alt="Home Screen"><h4 class="center">Home Screen</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen2.jpg" alt="Buy Tickets Menu"><h4 class="center">Buy Tickets Menu</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen3.jpg" alt="Express Tickets"><h4 class="center">Express Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen4.jpg" alt="Buy Tickets"><h4 class="center">Buy Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen5.jpg" alt="Buy Tickets"><h4 class="center">Buy Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen6.jpg" alt="Buy Tickets"><h4 class="center">Buy Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen7.jpg" alt="Buy Tickets"><h4 class="center">Buy Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen8.jpg" alt="Add-Ons"><h4 class="center">Add-Ons</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen9.jpg" alt="Account"><h4 class="center">Account</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen10.jpg" alt="Purchased Tickets"><h4 class="center">Purchased Tickets</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen11.jpg" alt="Cart"><h4 class="center">Cart</h4></div>
+                <div><img class="carousel_image" src="/img/parkpass/screen12.jpg" alt="Verify Residency"><h4 class="center">Verify Residency</h4></div>
 
 
               </div>
