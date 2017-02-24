@@ -10,6 +10,7 @@
 <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
 
 <meta prefix="og: http://ogp.me/ns#" property="og:site_name" name="og:site_name" content="Louise Whitaker's Portfolio"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:title" name="og:title" content="Louise Whitaker's Portfolio"/>
 <meta prefix="og: http://ogp.me/ns#" property="og:image" name="og:image" content="http://www.louisewhitaker.com/img/backgrounds/preview.jpg"/>
 <meta prefix="og: http://ogp.me/ns#" property="og:description" name="og:description" content="HI THERE! Let me introduce myself...My name is Louise! I am a user experience designer from Seattle. I am currently working on my MFA in Interactive Media at the University of Miami with a specialization in UX/UI design and will be graduating in May 2017."/>
 <meta prefix="og: http://ogp.me/ns#" property="og:url" name="og:url" content="http://louisewhitaker.com"/>
