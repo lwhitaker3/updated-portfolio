@@ -1,7 +1,7 @@
 <!-- GLOBAL HEAD INFO -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="description" content="">
+<meta name="description" content="HI THERE! Let me introduce myself... My name is Louise! I am a user experience designer from Seattle. I am currently working on my MFA in Interactive Media at the University of Miami with a specialization in UX/UI design and will be graduating in May 2017.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/normalize.min.css">
 <link rel="stylesheet" href="/css/aos.css" />
