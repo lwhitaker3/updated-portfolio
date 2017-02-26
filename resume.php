@@ -31,7 +31,7 @@
                 </div>
               </div>
               <p class="adjectives">Creative Thinker <span>&#8226;</span> Problem Solver <span>&#8226;</span> UX Designer</p>
-              <p data-aos="fade" data-aos-once="true" class="larger">I am a grad student at the University of Miami working towards my MFA in Interactive Media with a focus in UX/UI design. Through my experiences, I have learned the importance of good customer service and creating interactions that are pleasant for the customer. Technology should work the same. Users should enjoy interacting with products and understand how they work intuitively. I work iteratively with a user-centered design approach to uncover the strengths and weaknesses of different ideas. My strengths include developing wireframes and creating rapid prototypes to explore how the product should function. Upon graduation this May, I am seeking to join a UX team committed to developing innovative and meaningful projects that are user-friendly.</p>
+              <p data-aos="fade" data-aos-once="true" class="larger">I am passionate about developing experiences that are intuitive and make technology more accessible to everyone. As an advocate for users, I go into every project with an open mind willing to test any assumption. I love to dive in and create prototypes using a variety of different tools to communicate solutions to complex design problems.  By working iteratively and being flexible, I ensure the design meets the needs of end-users.</p>
             </div>
           </div>
           <div data-aos="fade-up" data-aos-once="true" class="row">
@@ -67,12 +67,12 @@
             <div class="col-sm-offset-1 col-sm-5">
               <img class="resumeIcons" alt="Code Icon" src="img/icons/code.png">
               <h4>Code</h4>
-              <p>HTML, JavaScript, SASS/CSS, PHP/MySQL, Wordpress</p>
+              <p>HTML, JavaScript, SASS/CSS, PHP/MySQL, Wordpress, Arduino</p>
             </div>
             <div class="col-sm-5">
               <img class="resumeIcons" alt="Other Skills Icon" src="img/icons/other-skills.png">
               <h4>Other</h4>
-              <p>Customer Service, Public Speaking, News Layout Design, Infographics, Data Visualization</p>
+              <p>Customer Service, Public Speaking, News Layout Design, Infographics, Data Visualization, Jira, Project Management, Physical Computing, Maya</p>
             </div>
           </div>
         </div>
