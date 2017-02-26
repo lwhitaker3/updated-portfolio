@@ -55,6 +55,7 @@
 
 }
 .resume-section-wrapper{
+  margin-bottom: 40px;
   .row{
     position: relative;
     .vertical-line{
@@ -70,10 +71,10 @@
 }
 .resumeImg{
   width: 80px;
-  margin: 20px 0;
+  margin: 40px 0;
 }
 .resume-entry{
-  margin: 40px 0;
+  margin: 40px 0 0 0;
   // background-color: #E7E7E8;
   padding: 0;
   p{
@@ -101,7 +102,7 @@
   }
   .resume-description{
     font-size: 16px;
-    padding: 0 40px 30px;
+    // padding: 0 40px 30px;
     color: $secondary-dark-color;
     li{
       margin: 10px 0;

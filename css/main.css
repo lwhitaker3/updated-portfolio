@@ -6573,22 +6573,24 @@ footer {
   .skills-container img {
     width: 25%; }
 
-.resume-section-wrapper .row {
-  position: relative; }
-  .resume-section-wrapper .row .vertical-line {
-    border-left: 2px solid #CCCCCC;
-    position: absolute;
-    right: -12.5%;
-    height: 100%;
-    width: 100%;
-    z-index: -1; }
+.resume-section-wrapper {
+  margin-bottom: 40px; }
+  .resume-section-wrapper .row {
+    position: relative; }
+    .resume-section-wrapper .row .vertical-line {
+      border-left: 2px solid #CCCCCC;
+      position: absolute;
+      right: -12.5%;
+      height: 100%;
+      width: 100%;
+      z-index: -1; }
 
 .resumeImg {
   width: 80px;
-  margin: 20px 0; }
+  margin: 40px 0; }
 
 .resume-entry {
-  margin: 40px 0;
+  margin: 40px 0 0 0;
   padding: 0; }
   .resume-entry p {
     padding: 0 15px; }
@@ -6609,7 +6611,6 @@ footer {
     font-size: 24px; }
   .resume-entry .resume-description {
     font-size: 16px;
-    padding: 0 40px 30px;
     color: #37BC9B; }
     .resume-entry .resume-description li {
       margin: 10px 0; }
