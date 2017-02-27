@@ -6,7 +6,7 @@
         <span></span>
         <span></span>
       </div>
-      <a class="navbar-brand" href="/index">
+      <a class="navbar-brand" href="/">
         <img alt="LRW Logo" src="/img/logo-pink.png">
       </a>
     </div>
@@ -32,7 +32,7 @@
       <a href="/about">About</a>
       <a href="/resume">Resume</a>
       <a href="/portfolio">Portfolio</a>
-      <a href="/index">Home</a>
+      <a href="/">Home</a>
       <div class="container">
         <div class="row">
             <a target="_blank" href="mailto:l.whitaker@umiami.edu">

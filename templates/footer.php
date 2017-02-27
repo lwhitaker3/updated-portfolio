@@ -31,7 +31,7 @@
     <div class="row">
       <div class="col-sm-12 credit">
         <p>© 2016 - Louise Whitaker</p>
-        <a href="/credits.php">Credits</a>
+        <a href="/credits">Credits</a>
       </div>
     </row>
   </div>

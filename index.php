@@ -47,7 +47,7 @@
             </div>
           </div>
           <div data-aos="fade-up" data-aos-once="true" class="row">
-            <a href="/about.php">
+            <a href="/about">
               <button type="button" class="btn btn-default">More About Me</button>
             </a>
           </div>
@@ -87,7 +87,7 @@
             </div>
           </div>
           <div data-aos="fade-up" data-aos-once="true" class="row">
-            <a href="/resume.php">
+            <a href="/resume">
               <button type="button" class="btn btn-reverse">See My Resume</button>
             </a>
           </div>
@@ -147,7 +147,7 @@
             </div>
           </div>
           <div data-aos="fade-up" data-aos-once="true" class="row">
-            <a href="/portfolio.php">
+            <a href="/portfolio">
               <button type="button" class="btn btn-default">See More Projects</button>
             </a>
           </div>
