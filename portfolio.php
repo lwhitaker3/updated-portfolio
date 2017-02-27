@@ -209,7 +209,7 @@
             <div class="mix uxd">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="Radio UI" src="img/thumbs/radio_ui.jpg">
-                <a href="/portfolio/radio_ui">
+                <a href="/portfolio/radio_UI">
                   <div class="portfolio-overlay">
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
