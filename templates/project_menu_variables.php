@@ -1,6 +1,6 @@
 <?php
 
-  $dirList = array_map('basename', glob('../portfolio/*'));
+  $dirList = array_map('basename', glob('../portfolio/*.php'));
   $uri = $_SERVER['REQUEST_URI'];
   $uriPage = substr(strrchr($uri, "/"), 1); // Outputs: URI
   $prev;

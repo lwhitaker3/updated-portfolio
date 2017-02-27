@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-4">
-        <a target="_blank" href="mailto:l.whitaker@umiami.edu">
+        <a href="mailto:l.whitaker@umiami.edu">
           <div class="social-icon-wrapper">
             <img class="footerIcons" alt="Email" src="/img/icons/email.png">
           </div>
@@ -12,7 +12,7 @@
         </a>
       </div>
       <div class="col-xs-4">
-        <a target="_blank" href="https://www.linkedin.com/in/louiserwhitaker">
+        <a href="https://www.linkedin.com/in/louiserwhitaker">
           <div class="social-icon-wrapper">
             <img class="footerIcons" alt="Linked In" src="/img/icons/linkedin.png">
           </div>
@@ -20,7 +20,7 @@
         </a>
       </div>
       <div class="col-xs-4">
-        <a target="_blank" href="https://www.github.com/lwhitaker3">
+        <a href="https://www.github.com/lwhitaker3">
           <div class="social-icon-wrapper">
             <img class="footerIcons" alt="Github" src="/img/icons/github.png">
           </div>

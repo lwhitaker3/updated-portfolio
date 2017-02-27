@@ -154,7 +154,7 @@
                       <li><span>Participated in client meetings to get feedback for further iterations.</span></li>
                       <li><span>Created design docs such as  task flows, site maps, and wireframes to keep projects organized.</span></li>
                       <li><span>Developed prototypes with Axure to demonstrate proof of concept and hand off to development teams for implementation.</span></li>
-                      <li><span>Designed and developed the website for the Summer 2016 intern project using Axure and HTML/CSS/JavaScript. <a target="_blank" href="/portfolio/good_lemon">See Project Here.</a></span></li>
+                      <li><span>Designed and developed the website for the Summer 2016 intern project using Axure and HTML/CSS/JavaScript. <a target="_blank" href="/portfolio/good_lemon.php">See Project Here.</a></span></li>
                       <li><span>Clients: Carnival Cruise Lines, Universal Studios, Seminole Gaming.</span></li>
 
                     </ul>
@@ -187,7 +187,7 @@
                       <li><span>Developed stronger information architecture and visual hierarchy for existing pages.</span></li>
                       <li><span>Provided wireframes for review and refined design based on stakeholder feedback. </span></li>
                       <li><span>Designed mock ups of visual design for sites.</span></li>
-                      <li><span>Coded new designs in HTML/CSS/JavaScript. <a target="_blank" href="/portfolio/ccs">See Projects Here.</a></span></li></span></li>
+                      <li><span>Coded new designs in HTML/CSS/JavaScript. <a target="_blank" href="/portfolio/ccs.php">See Projects Here.</a></span></li></span></li>
                     </ul>
                   </div>
 
