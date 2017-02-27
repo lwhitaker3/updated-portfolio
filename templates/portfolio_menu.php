@@ -6,7 +6,7 @@
         <span></span>
         <span></span>
       </div>
-      <a class="navbar-brand" href="/index.php">
+      <a class="navbar-brand" href="/index">
         <img alt="LRW Logo" src="/img/logo-pink.png">
       </a>
     </div>
@@ -19,9 +19,9 @@
         </div>
       </ul>
       <ul id="menuList" class="nav navbar-nav navbar-right">
-        <li><a href="/about.php">About</a></li>
-        <li><a href="/resume.php">Resume</a></li>
-        <li><a href="/portfolio.php">Portfolio</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/resume">Resume</a></li>
+        <li><a href="/portfolio">Portfolio</a></li>
       </ul>
     </div>
   </div>
@@ -29,23 +29,23 @@
 
     <!-- Overlay content -->
     <div class="overlay-content">
-      <a href="/about.php">About</a>
-      <a href="/resume.php">Resume</a>
-      <a href="/portfolio.php">Portfolio</a>
-      <a href="/index.php">Home</a>
+      <a href="/about">About</a>
+      <a href="/resume">Resume</a>
+      <a href="/portfolio">Portfolio</a>
+      <a href="/index">Home</a>
       <div class="container">
         <div class="row">
-            <a href="mailto:l.whitaker@umiami.edu">
+            <a target="_blank" href="mailto:l.whitaker@umiami.edu">
               <div class="overlay-icon-wrapper">
                 <img alt="email" src="/img/icons/email.png">
               </div>
             </a>
-            <a href="https://www.linkedin.com/in/louiserwhitaker">
+            <a target="_blank" href="https://www.linkedin.com/in/louiserwhitaker">
               <div class="overlay-icon-wrapper">
                 <img alt="linked in" src="/img/icons/linkedin.png">
               </div>
             </a>
-            <a href="https://www.github.com/lwhitaker3">
+            <a target="_blank" href="https://www.github.com/lwhitaker3">
               <div class="overlay-icon-wrapper">
                 <img alt="github" src="/img/icons/github.png">
               </div>

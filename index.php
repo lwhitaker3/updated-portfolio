@@ -114,7 +114,7 @@
                 <ul>
                   <li>
                     <div>
-                      <a href="/portfolio/radio_UI.php">
+                      <a href="/portfolio/radio_UI">
                         <div>
                           <h2 class="white">Radio UI</h2>
                           <p>Touch screen interface for police radios</p>
@@ -124,7 +124,7 @@
                   </li>
                   <li>
                     <div>
-                      <a href="/portfolio/sports_unified.php">
+                      <a href="/portfolio/sports_unified">
                         <div>
                           <h2 class="white">Unified Sports App</h2>
                           <p>iOS application to help orgnanize Unified Sports events</p>
@@ -134,7 +134,7 @@
                   </li>
                   <li>
                     <div>
-                      <a href="/portfolio/safety_first.php">
+                      <a href="/portfolio/safety_first">
                         <div>
                           <h2 class="white">Safety First</h2>
                           <p>A reporting dashboard system for nursing home safety</p>
