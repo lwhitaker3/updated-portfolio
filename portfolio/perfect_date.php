@@ -212,7 +212,7 @@
                     <img class="portfolio_picture" alt="Research - Competitive Investigation" src="/img/perfectdate/research.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <p>These were some applications that I found for date planning. The first one is location based. The user can search for places and create a wishlist and share them with a partner. The second one was just a simple application that gave random date ideas and the user could select another one. I liked the simplicity of the concept in this application. It just gave an idea, and you could use that idea to come up with your own plan. The final one had a list of categories on the homepage and then showed a list of ideas based on the choice. This inspired me to add a category selection on the home page that allows the user to pick the type of date they want.</p>
+                    <p>These were some applications that I found for date planning. The first one is location based. The user can search for places and create a wish list and share them with a partner. The second one was just a simple application that gave random date ideas and the user could select another one. I liked the simplicity of the concept in this application. It just gave an idea, and you could use that idea to come up with your own plan. The final one had a list of categories on the homepage and then showed a list of ideas based on the choice. This inspired me to add a category selection on the home page that allows the user to pick the type of date they want.</p>
                   </div>
                 </div>
               </div>
@@ -227,7 +227,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>I took a mobile-first approach to designing the application and sketched different ifras with various inputs.</p>
+                    <p>I took a mobile-first approach to designing the application and sketched different ideas with various inputs.</p>
                   </div>
                 </div>
                 <div class="row margin-top">

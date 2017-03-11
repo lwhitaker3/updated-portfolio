@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Design a walkie talkie app for public safety administrators and knowledge worker government markers.</p>
+              <p>Design a walkie-talkie app for public safety administrators and knowledge worker government markers.</p>
               <h3>Project Description</h3>
               <p>In just the last 10 years we have seen cell phones evolve from a brick-like device with a small screen and number buttons, to slick touch-screen devices.  Yet, radios have generally maintained the same look in that time. The goal of this project was to bring radios used by public safety supervisors and government workers into the 21st century.</p>
               <p>While developing a touchscreen UI for a radio, it was important to keep users mental models in mind, but find ways to update this legacy technology. Radios are mission critical for police, firefighters and many other government entities, so the UI needed to be simple and straight-forward. For example, it was important to keep in mind that this user group doesn't have time to go through five screens to perform a simple task.</p>
@@ -232,7 +232,7 @@
                     <p>After the initial planning and understanding of the functions were complete, I created task flows to figure out how a user would move through the application.</p>
                   </div>
                   <div class="col-sm-12">
-                    <img class="portfolio_picture" alt="Task Fow" src="/img/radio/scan_task_flow.jpg">
+                    <img class="portfolio_picture" alt="Task Flow" src="/img/radio/scan_task_flow.jpg">
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -291,7 +291,7 @@
                 <div class="row margin-top">
                   <div class="col-sm-12">
                     <img class="portfolio_picture" alt="Editing Wireframes" src="/img/radio/editing_wires.jpg">
-                    <p class="caption">Working through the issues with the second round of wires. The third rouns of wireframes had a different navigation structure based on the issues woth the first two rounds.</p>
+                    <p class="caption">The third round of wireframes had a different navigation structure based on the issues with the first two rounds.</p>
                   </div>
                 </div>
                 <div class="row">

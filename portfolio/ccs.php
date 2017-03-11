@@ -62,7 +62,7 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>I worked with the Department of Computational Science at the University of Miami on two microsites. The first was to redesign Ucompute (a page that features tutorials and resources for computational science). The second was to build a custom Wordpress theme for Omadamathy.</p>
+              <p>I worked with the Department of Computational Science at the University of Miami on two microsites. The first was to redesign Ucompute (a page that features tutorials and resources for computational science). The second was to build a custom WordPress theme for Omadamathy.</p>
               <h3>Project Description</h3>
               <p>Both of these projects were a collaboration with <a href="http://sarahkasiske.com" target="_blank">Sarah Kasiske</a>.</p>
               <p>Ucompute was a redesign of an existing site. The original site was 50 or so links organized under headings that were not completely accurate. Our job was to reorganize the site content and develop a new structure for organizing the content so a user could quickly find a section they were looking for.</p>
@@ -84,7 +84,7 @@
                     <p class="list first">Sketch/Illustrator</p>
                     <p class="list">HTML/CSS</p>
                     <p class="list">Foundation</p>
-                    <p class="list last">Wordpress</p>
+                    <p class="list last">WordPress</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
@@ -108,7 +108,7 @@
                       <p class="list first">Sketch/Illustrator</p>
                       <p class="list">HTML/CSS</p>
                       <p class="list">Foundation</p>
-                      <p class="list last">Wordpress</p>
+                      <p class="list last">WordPress</p>
                     </div>
                   </div>
                   <div class="row hidden-sm hidden-md hidden-lg">
@@ -246,7 +246,7 @@
                   </div>
                   <div class="col-sm-4 margin-top">
                     <img class="portfolio_picture" alt="2nd Wireframe" src="/img/ccs/wireframe2.jpg">
-                    <p class="caption">This was the first design we created with the list view. The user can select a category from the drop down menu.</p>
+                    <p class="caption">This was the first design we created with the list view. The user can select a category from the drop-down menu.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
                     <img class="portfolio_picture" alt="3rd Wireframe" src="/img/ccs/wireframe3.jpg">
@@ -283,7 +283,7 @@
                     <img class="portfolio_picture" alt="UCompute Sub Navigation" src="/img/ccs/ucompute-menu2.png">
                   </div>
                   <div class="col-sm-6">
-                    <p class="caption">This is the sub navigation. On both the mobile and desktop versions, the navigation is sticky so at any time the user can view the menu. On the desktop version, the menu is visible and as a user scrolls into a section, that title is highlighted on the menu. On the mobile version the menu icon shows up and the menu is a dropdown.</p>
+                    <p class="caption">This is the sub navigation. On both the mobile and desktop versions, the navigation is sticky so at any time the user can view the menu. On the desktop version, the menu is visible and as a user scrolls into a section, that title is highlighted on the menu. On the mobile version the menu icon shows up and the menu is a drop-down.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -332,7 +332,7 @@
 
                 </div>
 
-                <h4 class="color margin-top">Developing the Wordpress Theme</h4>
+                <h4 class="color margin-top">Developing the WordPress Theme</h4>
                 <div class="row">
                   <div class="col-xs-2 col-md-1">
                     <div class="lineBreak project-steps"></div>
@@ -340,7 +340,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>We used FoundationPress to develop a Wordpress theme for the site.</p>
+                    <p>We used FoundationPress to develop a WordPress theme for the site.</p>
                   </div>
                 </div>
                 <div class="row">

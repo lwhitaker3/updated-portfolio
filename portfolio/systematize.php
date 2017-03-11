@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>To do web application built with PHP</h4>
+                <h4>To-do web application built with PHP</h4>
               </div>
             </div>
             <div class="col-sm-6 col-wrapper">
@@ -64,8 +64,8 @@
               <h3>The Ask</h3>
               <p>Create a data driven website</p>
               <h3>Project Description</h3>
-              <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your to-do lists and plan out your week. The user can create basic to do lists with notes and due dates. On the calendar page, the user can drag individual items on the todo list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well.</p>
-              <p>This project came from my frustration with todo list apps out there. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
+              <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your to-do lists and plan out your week. The user can create basic to-do lists with notes and due dates. On the calendar page, the user can drag individual items on the to-do list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well.</p>
+              <p>This project came from my frustration with to-do list apps out there. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
               <a target="_blank" href="http://ec2-54-245-149-157.us-west-2.compute.amazonaws.com/planner">
                 <button type="button" class="btn btn-default margin-top">Try it Out</button>
               </a>
@@ -146,8 +146,8 @@
               <img class="product" alt="Calendar Page" src="/img/systematize/product.png">
             </div>
             <div class="col-sm-4">
-              <h4>Create Todo Lists</h4>
-              <p>Add items to the todo list. Each item can have a due date, notes, and reminders.</p>
+              <h4>Create To-do Lists</h4>
+              <p>Add items to the to-do list. Each item can have a due date, notes, and reminders.</p>
               <h4 class="margin-top">Plan Out Your Week</h4>
               <p>Drag the items to different days of the week to schedule your week.</p>
               <h4 class="margin-top">Add Notes</h4>
@@ -292,7 +292,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>In HTML, CSS, and Javascript I created a prototype for the calendar page to get an idea of how the interactions would work. I was trying to get a feel for how easy it would be to drag the todo list items into the calendar.</p>
+                    <p>In HTML, CSS, and Javascript I created a prototype for the calendar page to get an idea of how the interactions would work. I was trying to get a feel for how easy it would be to drag the to-do list items into the calendar.</p>
                     <a target="_blank" href="/projects/planner_test/">
                       <button type="button" class="btn btn-default  ">Try it Out</button>
                     </a>

@@ -88,7 +88,7 @@
                     <p class="list first">Report on Heuristic Evaluation</p>
                     <p class="list">Test Plan</p>
                     <p class="list">Moderator & Participant Packets</p>
-                    <p class="list last">Final Report on Usabilty Test</p>
+                    <p class="list last">Final Report on Usability Test</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
@@ -113,7 +113,7 @@
                       <p class="list first">Report on Heuristic Evaluation</p>
                       <p class="list">Test Plan</p>
                       <p class="list">Moderator & Participant Packets</p>
-                      <p class="list last">Final Report on Usabilty Test</p>
+                      <p class="list last">Final Report on Usability Test</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>

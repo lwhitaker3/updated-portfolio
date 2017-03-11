@@ -86,7 +86,7 @@
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
-                    <p class="list first last">Report with Results and Recomendations for Navigation Resdesign</p>
+                    <p class="list first last">Report with Results and Recommendations for Navigation Redesign</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
@@ -110,7 +110,7 @@
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Deliverables</h5>
-                      <p class="list first">Report with Results and Recomendations for Navigation Resdesign</p>
+                      <p class="list first">Report with Results and Recommendations for Navigation Redesign</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>
@@ -250,7 +250,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <p>From there we were able to come up with even broader categories and refine how we had orginally organized the data.</p>
+                    <p>From there we were able to come up with even broader categories and refine how we had originally organized the data.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Whiteboard Round 2" src="/img/cardsort/round2.jpg">

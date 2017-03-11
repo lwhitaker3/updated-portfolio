@@ -87,7 +87,7 @@
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
                     <p class="list first">Report on Observations</p>
-                    <p class="list last">Resdesign</p>
+                    <p class="list last">Redesign</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
@@ -110,7 +110,7 @@
                     <div class="col-xs-6">
                       <h5>Deliverables</h5>
                       <p class="list first">Report on Observations</p>
-                      <p class="list last">Resdesign</p>
+                      <p class="list last">Redesign</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>

@@ -75,7 +75,7 @@
                     <h5>Skills</h5>
                     <p class="list first">UX Design</p>
                     <p class="list">Interaction Design</p>
-                    <p class="list last">Front End Devlopment</p>
+                    <p class="list last">Front End Development</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
@@ -97,7 +97,7 @@
                       <h5>Skills</h5>
                       <p class="list first">UX Design</p>
                       <p class="list">Interaction Design</p>
-                      <p class="list last">Front End Devlopment</p>
+                      <p class="list last">Front End Development</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Tools</h5>
@@ -209,7 +209,7 @@
                     <img class="portfolio_picture" alt="Wireframe 1" src="/img/lemon/wire1.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>The first concept I developed was a "scrollytelling" story. As the user scrolled it would show a lemon being made into lemonade and would explain the idea of our project and "goodness". We decided that while it was flashy and fun, it didn't get to the point of our project fast enough. We wanted to feature our graph and how the stand was doing more prominently and spend less time on the cliche "making lemons into lemonade".</p>
+                    <p>The first concept I developed was a "scrollytelling" story. As the user scrolled it would show a lemon being made into lemonade and would explain the idea of our project and "goodness". We decided that while it was flashy and fun, it didn't get to the point of our project fast enough. We wanted to feature our graph and how the stand was doing more prominently and spend less time on the cliché  "making lemons into lemonade".</p>
                   </div>
                 </div>
                 <div class="row margin-top">

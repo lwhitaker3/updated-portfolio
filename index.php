@@ -41,7 +41,7 @@
               <div class="row">
                 <div class="col-sm-10 col-sm-offset-1">
                   <p class="larger">My name is Louise!  I am a user experience designer from Seattle. I am currently working on my MFA in Interactive Media at the University of Miami with a specialization in UX/UI design and will be graduating in May 2017.</p>
-                  <p>I have nearly two years of experience in user experience design, user experience research, and web development. I love that the tech industry is fast-paced, ever-changing, and has so many innovative ideas to make life easier and create new experiences that once seemed impossible. I believe the most successful innovations are the ones that take into account the end user during each stage of development. The reality is, no matter how revolutionary a product is, it can’t succeed if no one can use it. I am passionate about developing experiences that are intuitive and make technology more accessible to everyone.</p>
+                  <p>I have nearly two years of experience in user experience design, user experience research, and web development. I love that the tech industry is fast-paced, ever-changing, and has so many innovative ideas to make life easier and create new experiences that once seemed impossible. I believe the most successful innovations are the ones that consider the end user during each stage of development. The reality is, no matter how revolutionary a product is, it can’t succeed if no one can use it. I am passionate about developing experiences that are intuitive and make technology more accessible to everyone.</p>
                 </div>
               </div>
             </div>
@@ -127,7 +127,7 @@
                       <a href="/portfolio/sports_unified">
                         <div>
                           <h2 class="white">Unified Sports App</h2>
-                          <p>iOS application to help orgnanize Unified Sports events</p>
+                          <p>iOS application to help organize Unified Sports events</p>
                         </div>
                       </a>
                     </div>

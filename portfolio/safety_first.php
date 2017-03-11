@@ -289,7 +289,7 @@
 
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <p>The second version of the wireframes were more fleshed out with the new navigation structure that I developed. These woreframes were ully annotated to document how the system should work.</p>
+                    <p>The second version of the wireframes were more fleshed out with the new navigation structure that I developed. These wireframes were fully annotated to document how the system should work.</p>
                     <a target="_blank" href="/projectsFinal_Project_Dashboard_Louise_Whitaker.pdf">
                       <button type="button" class="btn btn-default">All Annotated Wireframes</button>
                     </a>
@@ -373,7 +373,7 @@
                 <div><img class="carousel_image" src="/img/dashboard/screen3.jpg" alt="Reporting Portal"><h4 class="center">Reporting Portal</h4></div>
                 <div><img class="carousel_image" src="/img/dashboard/screen8.jpg" alt="Create New Report"><h4 class="center">Create New Report</h4></div>
                 <div><img class="carousel_image" src="/img/dashboard/screen9.jpg" alt="Injury Report"><h4 class="center">Injury Report</h4></div>
-                <div><img class="carousel_image" src="/img/dashboard/screen4.jpg" alt="Case List<"><h4 class="center">Case List</h4></div>
+                <div><img class="carousel_image" src="/img/dashboard/screen4.jpg" alt="Case List"><h4 class="center">Case List</h4></div>
                 <div><img class="carousel_image" src="/img/dashboard/screen5.jpg" alt="Employees"><h4 class="center">Employees</h4></div>
                 <div><img class="carousel_image" src="/img/dashboard/screen6.jpg" alt="Osha Reports"><h4 class="center">Osha Reports</h4></div>
                 <div><img class="carousel_image" src="/img/dashboard/screen7.jpg" alt="Profile"><h4 class="center">Profile</h4></div>

@@ -65,7 +65,7 @@
               <p>Create a website for The Rosenstiel School of Marine and Atmospheric Science about their coral restoration project.</p>
               <h3>Project Description</h3>
               <p>I collaborated with 3 others on this project: Sarah Kasike, Christian Rodriguez and Nick Aguirre. We developed a video in Maya about the coral restoration project at the University of Miami and created a website around it to explain what coral is an why it is so important.</p>
-              <p>Did you know globally 60% of reefs are threatened by pollution, overfishing, desctructive fishing practices and so on? And climate change is a threat to all reefs. The university of Miami has a program called "Rescue a Reef" to help restore reefs that have been damaged by growing coral in nurseries and planting it back into reefs. We wanted to share this story with people through this website.</p>
+              <p>Did you know globally 60% of reefs are threatened by pollution, overfishing, destructive fishing practices and so on? And climate change is a threat to all reefs. The university of Miami has a program called "Rescue a Reef" to help restore reefs that have been damaged by growing coral in nurseries and planting it back into reefs. We wanted to share this story with people through this website.</p>
               <a target="_blank" href="http://sharkresearch.rsmas.miami.edu/coral-restoration/">
                 <button type="button" target="_blank" class="btn btn-default  ">Visit Site</button>
               </a>
@@ -78,7 +78,7 @@
                     <h5>Skills</h5>
                     <p class="list first">3D Modeling</p>
                     <p class="list">Web Design</p>
-                    <p class="list last">Web Developement</p>
+                    <p class="list last">Development</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Tools</h5>
@@ -100,7 +100,7 @@
                       <h5>Skills</h5>
                       <p class="list first">3D Modeling</p>
                       <p class="list">Web Design</p>
-                      <p class="list last">Web Developement</p>
+                      <p class="list last">Development</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Tools</h5>
@@ -231,7 +231,7 @@
                     <img class="portfolio_picture" alt="Fish in Maya" src="/img/coral/fish.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>A coral reef needs more than just pieces of coral, so we created other asssets like fish to add content to give more context to the video.</p>
+                    <p>A coral reef needs more than just pieces of coral, so we created other assets like fish to add content to give more context to the video.</p>
                   </div>
                 </div>
               </div>

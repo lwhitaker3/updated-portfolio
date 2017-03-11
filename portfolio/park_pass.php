@@ -65,7 +65,7 @@
               <p>Create a mobile application to buy and manage tickets for a theme park.</p>
               <h3>Project Description</h3>
               <p>Lauren Kett, Sarah Kasiske and I worked on this application together. We wanted to develop an application that made buying tickets to enter a theme park as easy as possible.</p>
-              <p>The orginal questions we went into the project wanting to answer were: How can we get Florida residents through the residency validation process faster? How can we make the ticket purchasing flow easier and possible on a mobile device? Can people buy tickets while waiting in line to enter the park without having to ever wait in the ticket line?</p>
+              <p>The original questions we went into the project wanting to answer were: How can we get Florida residents through the residency validation process faster? How can we make the ticket purchasing flow easier and possible on a mobile device? Can people buy tickets while waiting in line to enter the park without having to ever wait in the ticket line?</p>
               <p>We developed this project in a rapid iterative process. We tested each of our prototypes as we went and fixed the issues as they came up in testing. We made 3 rounds of prototypes that we tested and concluded with a 4th prototype to be tested.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
