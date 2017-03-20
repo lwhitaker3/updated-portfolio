@@ -1,0 +1,143 @@
+.question_wrapper{
+  display: none;
+  width: 80%;
+  min-width: 300px;
+  max-width: 800px;
+  margin: auto;
+}
+.response_wrapper{
+  display: none;
+  width: 80%;
+  min-width: 300px;
+  max-width: 800px;
+  margin: auto;
+}
+.question-icon{
+  width: 50px;
+  height: auto;
+  display: block;
+  margin: 0 auto 30px;
+}
+.intro-container{
+  display: none;
+}
+.question-counter{
+  display: none;
+}
+.btn-next{
+  display: none;
+  margin-left: 45px;
+  margin-top: 30px;
+  padding: 6px 30px;
+}
+.display{
+  display: block;
+}
+.next{
+  margin: auto;
+  margin-top: 30px;
+  display: block;
+}
+
+
+/*NAVBAR*/
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+.navbar-brand{
+  padding: 5px 15px;
+}
+.navbar-brand>img{
+  height: 100%;
+  width: auto;
+}
+/*END OF NAVBAR*/
+
+/*BUTTON STYLES*/
+.btn-default {
+    color: #009B90;
+    background-color: #fff;
+    border-color: #009B90;
+    border-radius: 2px;
+    transition: all .2s ease-in;
+}
+.btn-default:hover {
+    color: #fff;
+    background-color: #009B90;
+    border-color: #009B90;
+}
+/*END OF BUTTON STYLES*/
+
+/*COUNTER BUTTONS*/
+.finished{
+  background-color: #009B90;
+  color: #fff;
+}
+.current{
+  background-color: #27CBC0;
+}
+.question-counter{
+  text-align: center;
+  margin-bottom: 40px;
+}
+/*END OF COUNTER BUTTONS*/
+
+.question{
+  font-size: 24px;
+  font-weight: 500;
+}
+
+/*RADIO BUTTONS*/
+
+
+  .question_wrapper input[type="radio"],
+  .question_wrapper input[type="checkbox"]{
+    display: none;
+  }
+  .radio_wrapper {
+    margin-bottom: 0px;
+    padding-left: 80px;
+  }
+  .radio_wrapper label {
+    position: relative;
+  }
+  .radio_wrapper span::before,
+  .radio_wrapper span::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+
+  /* Radio buttons */
+  .radio_wrapper span.radio:hover {
+    cursor: pointer;
+  }
+  .radio_wrapper span.radio::before {
+    width: 22px;
+    height: 22px;
+    background-color: #D8D8D8;
+    left: -35px;
+    border-radius: 50%;
+    transition: all .2s; */
+   }
+   .radio_wrapper span.radio::after {
+     left: -32px;
+     width: 16px;
+     height: 16px;
+     border-radius: 50%;
+     background-color: #D8D8D8;
+   }
+   .radio_wrapper span.radio:hover::after {
+     left: -32px;
+     width: 16px;
+     height: 16px;
+     border-radius: 50%;
+     background-color: #27CBC0;
+     transition: background-color .2s; */
+   }
+   input[type="radio"]:checked + label span.radio::after {
+     background-color: #009B90;
+   }
