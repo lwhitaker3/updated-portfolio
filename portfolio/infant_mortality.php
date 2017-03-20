@@ -296,21 +296,21 @@
                     <p class="caption">I realized that there were other factors I could compare to infant mortality for each country. I wanted to create a scatter plot that changed when the user clicked on a different variable. I wanted to add bar charts too so the user could compare all of the countries in that variable.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="Scatterplot Version 3" src="/img/mortality/d3-11.png">
+                    <img class="portfolio_picture" alt="Scatterplot Version 3" src="/img/mortality/d3-14.png">
                     <p class="caption">I added a hover effect so when the user hovers over a country it highlights on all of the graphs. I added tooltips to all of the graphs. I positioned the buttons and small graphs under the scatter plot to make it clearer to the user they were all related.</p>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="Choropleth Map Version 1" src="/img/mortality/d3-12.png">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 1" src="/img/mortality/d3-13.png">
                     <p class="caption">This was the original map I created with a simple tooltip.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="Choropleth Map Version 2" src="/img/mortality/d3-13.png">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 2" src="/img/mortality/d3-12.png">
                     <p class="caption">I added pie charts to the tooltips to show the percentage of women in different age and race categories giving birth as compared to the rest of the United States.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
-                    <img class="portfolio_picture" alt="Choropleth Map Version 3" src="/img/mortality/d3-14.png">
+                    <img class="portfolio_picture" alt="Choropleth Map Version 3" src="/img/mortality/d3-11.png">
                     <p class="caption">I changed the pie charts to line charts because the pie charts were too small and difficult to compare.</p>
                   </div>
                 </div>
