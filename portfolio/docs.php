@@ -342,16 +342,6 @@
                     <p>Redesigned Sitemap</p>
                     <img class="portfolio_picture" alt="Revised Sitemap" src="/img/docs/sitemap.jpg">
                   </div>
-                  <div class="col-sm-12 margin-top">
-                    <p>Once we organized the site information we realized there were 5 main sections for the site.</p>
-                    <ol class="larger">
-                      <li>The home page should have the introduction video, supporting text, and contain a brief introduction about what DOCS is</li>
-                      <li>The About DOCS section should add on what DOCS actually is, something that is currently missing from the site. It should contain information like what health fairs are, how it works and what it is. </li>
-                      <li>The Why DOCS section should explain why DOCS benefits Universities if they implement the program. </li>
-                      <li>DOCS at UM should be a case study on how it worked at UM. It should have information about the Department here at UM, the past events held here to show the spread and scope of the DOCS program, and it should have some testimonials about what UM has done. This should inspire other institutions to develop a program because the UM one has been very successful</li>
-                      <li>The Adopt DOCS section should be split into 3 sections, it should have how to build the organization, plan events and resources to do those things. Building the organization and planning an event are currently rolled into one process called the “DOCS model” which is not a clear message. </li>
-                    </ol>
-                  </div>
                 </div>
 
 
