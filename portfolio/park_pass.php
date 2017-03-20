@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>An app to simplify buying tickets to a theme park.</h4>
+                <h4>An app to simplify buying tickets to a theme park</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
@@ -64,7 +64,7 @@
               <h3>The Ask</h3>
               <p>Create a mobile application to buy and manage tickets for a theme park.</p>
               <h3>Project Description</h3>
-              <p>Lauren Kett, Sarah Kasiske and I worked on this application together. We wanted to develop an application that made buying tickets to enter a theme park as easy as possible.</p>
+              <p>Lauren Kett, Sarah Kasiske, and I worked on this application together. We wanted to develop an application that made buying tickets to enter a theme park as easy as possible.</p>
               <p>The original questions we went into the project wanting to answer were: How can we get Florida residents through the residency validation process faster? How can we make the ticket purchasing flow easier and possible on a mobile device? Can people buy tickets while waiting in line to enter the park without having to ever wait in the ticket line?</p>
               <p>We developed this project in a rapid iterative process. We tested each of our prototypes as we went and fixed the issues as they came up in testing. We made 3 rounds of prototypes that we tested and concluded with a 4th prototype to be tested.</p>
             </div>
@@ -210,11 +210,11 @@
                     <img class="portfolio_picture" alt="Competitive Analysis" src="/img/parkpass/competetive2.jpg">
                   </div>
                   <div class="col-sm-12 margin-top">
-                    <p>We created an online survey to find out what should be included in the application, we wanted to get an idea of how people currently book trips and how they purchase tickets online. We also wanted to see how people felt about online security especially when uploading checks since we felt that was a similar real world example to uploading an ID.</p>
+                    <p>We created an online survey to find out what should be included in the application.. We wanted to get an idea of how people currently book trips and how they purchase tickets online. We also wanted to see how people felt about online security, especially when uploading checks, since we felt that was a similar real world example to uploading an ID.</p>
                     <p>Some of the highlights we learned from the survey:</p>
                     <ul>
-                      <li>Of the people we surveyed the 56% normally stay for one day in a theme park 29% stay for 2 days, 11% stay for 3 days</li>
-                      <li>In the past 68% purchased tickets online at some point</li>
+                      <li>Of the people we surveyed 56% normally stay for one day in a theme park, 29% stay for 2 days, and 11% stay for 3 days</li>
+                      <li>In the past 68%, purchased tickets online at some point</li>
                       <li>65% of respondents believe depositing a check through a mobile app is safe, while 80% of respondents believe depositing a check through a mobile app is convenient</li>
                     </ul>
                   </div>
@@ -237,11 +237,11 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>Task flows were developed to start thinking through how the app would work in order to create a simple seamless experience.</p>
+                    <p>Task flows were developed to start thinking through how the app would work in order to create a simple, seamless experience.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Version 1 Task Flow" src="/img/parkpass/flow-1.jpg">
-                    <p class="caption">This was the first task flow we developed for the app</p>
+                    <p class="caption">This was the first task flow we developed for the app.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Final Task Flow" src="/img/parkpass/flow-final.jpg">
@@ -271,7 +271,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>After each round of wireframes we tested with users to gather feedback on the designs and inform the next iteration.</p>
+                    <p>After each round of wireframes, we tested with users to gather feedback on the designs and inform the next iteration.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Testing the App" src="/img/parkpass/testing.jpg">
@@ -344,7 +344,7 @@
                       <li>I don’t understand the pricing. It’s not obvious what the numbers mean. It needs to be written out or there should be somewhere I can click that explains that one is FL resident and one is not</li>
                       <li>How do I tell if I have selected a credit card?</li>
                       <li>Create account needs to be separated somehow to show you aren't creating an account with username and password</li>
-                      <li>To buy express tickets clicked on ticket Buy Tickets page, but hesitated because of the confusing options - “I would go with the most vague options of Buy Tickets again</li>
+                      <li>To buy express tickets clicked on ticket Buy Tickets page, but hesitated because they felt the choices were unclear-“I would go with the most vague options of Buy Tickets again"</li>
                   </div>
                 </div>
               </div>

@@ -62,11 +62,11 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Design a walkie-talkie app for public safety administrators and knowledge worker government markers.</p>
+              <p>Design a walkie-talkie app for public safety administrators and government knowledge workers.</p>
               <h3>Project Description</h3>
-              <p>In just the last 10 years we have seen cell phones evolve from a brick-like device with a small screen and number buttons, to slick touch-screen devices.  Yet, radios have generally maintained the same look in that time. The goal of this project was to bring radios used by public safety supervisors and government workers into the 21st century.</p>
-              <p>While developing a touchscreen UI for a radio, it was important to keep users mental models in mind, but find ways to update this legacy technology. Radios are mission critical for police, firefighters and many other government entities, so the UI needed to be simple and straight-forward. For example, it was important to keep in mind that this user group doesn't have time to go through five screens to perform a simple task.</p>
-              <p>The process began with concept maps and user flows to understand how the product needed to work. Sketches of different ideas were produced to get as many ideas on paper. Then annotated wireframes were developed to layout pages and explain the behaviors across all screens.
+              <p>In just the last 10 years we have seen cell phones evolve from a brick-like device with a small screen and number buttons to slick touch-screen devices.  Yet, radios have generally maintained the same look in that time. The goal of this project was to bring radios used by public safety supervisors and government workers into the 21st century.</p>
+              <p>While developing a touchscreen UI for a radio, it was important to keep users mental models in mind, but find ways to update this legacy technology. Radios are mission critical for police, firefighters, and many other government entities, so the UI needed to be simple and straight-forward. For example, it was important to keep in mind that this user group doesn't have time to go through five screens to perform a simple task.</p>
+              <p>The process began with concept maps and user flows to understand how the product needed to work. Sketches of different ideas were produced to get as many ideas on paper as possible. Then annotated wireframes were developed to lay out pages and explain the behaviors across all screens.
               </p>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -156,7 +156,7 @@
             </div>
             <div class="col-sm-4">
               <h4>Packed with Functionality</h4>
-              <p>The app has all of the primary functions that public safety supervisors would need to do their job and a lot more. Includes scan features, personal messaging, contact lists and so on.</p>
+              <p>The app has all of the primary functions that public safety supervisors would need to do their job and a lot more. Includes scan features, personal messaging, contact lists, and so on.</p>
               <h4 class="margin-top">Fully Documented</h4>
               <p>Each wireframe is fully annotated to explain the interactions on the page. All functions were thought out and developed.</p>
             </div>
@@ -411,7 +411,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Shared styles in sketch are your best friend</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Shared styles in sketch can greatly increase refactoring speed</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Concept maps are a great tool for breaking down a complicated problem into its part and making it more manageable</p>
             </div>
           </div>

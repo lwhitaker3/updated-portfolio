@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>App to help players and coach keep track of events</h4>
+                <h4>App to help players and coaches keep track of events</h4>
               </div>
             </div>
             <div class="col-sm-6 col-wrapper">
@@ -64,9 +64,9 @@
               <h3>The Ask</h3>
               <p>Find a solution to increase participation in Unified Sports.</p>
               <h3>Project Description</h3>
-              <p>10 students in the Interactive Media program worked with Special Olympics to develop and app from Sports Unified. The project began with understanding the problem and narrowing down what areas we wanted to focus on. We decided to build an application that would provide an easier way for people to get involved, connect people around the world and promote inclusion through an online platform.</p>
-              <p>Key stakeholders were interviewed to uncover opportunities to make our app as useful as possible. Our main takeaways were that coaches were looking for more high-tech ways to organize their team, there is a lot of interest in growing Unified and creating more local events for more competition is key to continued engagement.</p>
-              <p>Once the research was completed the design team got to work on prototyping 2 applications to meet the needs of the client. The design went through many iterations and was tested with end users each week to make sure the app matched expectations.</p>
+              <p>10 students in the Interactive Media program worked with Special Olympics to develop and app from Sports Unified. The project began with understanding the problem and narrowing down what areas we wanted to focus on. We decided to build an application that would provide an easier way for people to get involved, connect people around the world, and promote inclusion through an online platform.</p>
+              <p>Key stakeholders were interviewed to uncover opportunities to make our app as useful as possible. Our main takeaways were that coaches were looking for more high-tech ways to organize their team, there is a lot of interest in growing Unified, and creating more local events for more competition is key to continued engagement.</p>
+              <p>Once the initial research was completed, the design team got to work on prototyping two applications to meet the needs of the client. The design went through many iterations and was tested with end users each week to make sure the app matched expectations.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>

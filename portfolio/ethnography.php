@@ -62,9 +62,9 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Conduct an ethnography study - observe users interacting with the Coke Freestyle Machine and identify problems with using the machine.</p>
+              <p>Conduct an ethnography study-observe users interacting with the Coke Freestyle Machine and identify problems with using the machine.</p>
               <h3>Project Description</h3>
-              <p>Coke freestyle is a touch screen soda fountain. The machine was developed in 2009 to help revitalize the soft drink industry. We conducted an ethnography study to see how users interacted with the machine and based on our observations identify issues with the product. We wanted to see if our users were more likely to get a drink if this machine was in the restaurant, and if they were using the phone application Coke developed to work with the machine.</p>
+              <p>Coke freestyle is a touch screen soda fountain. The machine was developed in 2009 to help revitalize the soft drink industry. We conducted an ethnography study to see how users interacted with the machine, and based on our observations, identify issues with the product. We wanted to see if our users were more likely to get a drink if this machine was in the restaurant, and if they were using the phone application Coke developed to work with the machine.</p>
               <a target="_blank" href="/projects/Ethnography_Whitaker_Roy.pdf">
                 <button type="button" class="btn btn-default margin-top">See Full PDF Report</button>
               </a>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>Before we began our study it was important to gather background research on the product to understand why it was developed, how it works and what controls it has.</p>
+                    <p>Before we began our study, it was important to gather background research on the product to understand why it was developed, how it works, and what controls it has.</p>
                   </div>
                 </div>
 
@@ -246,8 +246,6 @@
                       <li>Does this machine make you more/less likely to order a soda at a restaurant? Why?</li>
                       <li>Have you ever downloaded the Coke Freestyle App or followed them on social media?</li>
                       <li>What was your experience?</li>
-                      <li>Can people find the ice?</li>
-                      <li>Are people using the Coke Freestyle App?</li>
                     </ol>
                   </div>
                 </div>
@@ -271,7 +269,7 @@
                         <ul>
                           <li>4 people selected water</li>
                           <li>7 people selected a beverage with no flavoring</li>
-                          <li>4 Selected a beverage with flavoring</li>
+                          <li>4 people selected a beverage with flavoring</li>
                         </ul>
                       <li>People spent a variety of different times at the machine:</li>
                         <ul>

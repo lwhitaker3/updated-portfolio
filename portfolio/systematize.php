@@ -62,10 +62,10 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Create a data driven website</p>
+              <p>Create a data driven website.</p>
               <h3>Project Description</h3>
               <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your to-do lists and plan out your week. The user can create basic to-do lists with notes and due dates. On the calendar page, the user can drag individual items on the to-do list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well.</p>
-              <p>This project came from my frustration with to-do list apps out there. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
+              <p>This project came from my frustration with existing to-do list apps. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
               <a target="_blank" href="http://ec2-54-245-149-157.us-west-2.compute.amazonaws.com/planner">
                 <button type="button" class="btn btn-default margin-top">Try it Out</button>
               </a>
@@ -226,7 +226,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <p>These were the task flows I developed to work through the tasks the user could perform using this app. The final tasks i decided to develop for the app were:</p>
+                    <p>These were the task flows I developed to work through the tasks the user could perform using this app. The final tasks I decided to develop for the app were:</p>
                     <ul>
                       <li>Create to-do list items (Title, Due Date, Description, and Category)</li>
                       <li>Add reminders to to-list items (Title, Day)</li>

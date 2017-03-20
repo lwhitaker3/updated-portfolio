@@ -236,7 +236,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>The next step in the process was to mock up ideas for a resign.</p>
+                    <p>The next step in the process was to mock up ideas for a redesign.</p>
                   </div>
                 </div>
                 <div class="row">
@@ -275,7 +275,7 @@
                     <img class="portfolio_picture" alt="UCompute Tabbed Navigation" src="/img/ccs/ucompute-menu.png">
                   </div>
                   <div class="col-sm-6">
-                    <p class="caption">The main tabbed navigation. The user can decide whether they are looking for tutorials, tools or other resources.</p>
+                    <p class="caption">The main tabbed navigation. The user can decide whether they are looking for tutorials, tools, or other resources.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -283,7 +283,7 @@
                     <img class="portfolio_picture" alt="UCompute Sub Navigation" src="/img/ccs/ucompute-menu2.png">
                   </div>
                   <div class="col-sm-6">
-                    <p class="caption">This is the sub navigation. On both the mobile and desktop versions, the navigation is sticky so at any time the user can view the menu. On the desktop version, the menu is visible and as a user scrolls into a section, that title is highlighted on the menu. On the mobile version the menu icon shows up and the menu is a drop-down.</p>
+                    <p class="caption">This is the sub navigation. On both the mobile and desktop versions, the navigation is sticky so at any time the user can view the menu. On the desktop version, the menu is visible and as a user scrolls into a section, that title is highlighted on the menu. On the mobile version, the menu icon is present and the menu is a drop-down.</p>
                   </div>
                 </div>
                 <div class="row margin-top">

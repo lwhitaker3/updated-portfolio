@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>A d3.js focusing on infant mortality in the US</h4>
+                <h4>A d3.js project focusing on infant mortality in the US</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
@@ -62,9 +62,9 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Create an interactive data-driven story using UNICEF data.</p>
+              <p>Create an interactive, data-driven story using UNICEF data.</p>
               <h3>Project Description</h3>
-              <p>The project is a single page scrolly-telling site that tells the story of infant mortality in the US. It shows how the United States compares with other "high-income developed" countries and explores why the US infant mortality rate is much higher that other countries. It was hand-coded in d3.js.</p>
+              <p>The project is a single-page, scrolly-telling site that tells the story of infant mortality in the US. It shows how the United States compares with other "high-income developed" countries and explores why the US infant mortality rate is much higher that other countries. It was hand-coded in d3.js.</p>
               <p>I started the project in September 2015 when I began learning about D3.js. I spent the next three months exploring trends in data and building graphs with D3 to put together a cohesive story. The story starts with infant mortality across the world, zooms into the high-income developed countries, and then dives further into the US and the individual states.</p>
               <a target="_blank" href="http://lwhitaker3.github.io/USMortality/">
                 <button type="button" class="btn btn-default">Open Project in New Tab</button>
@@ -137,7 +137,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro">Using D3.js and different types of charts this project dives into issues surrounding infant mortality in the United States.</p>
+              <p class="intro">Using D3.js and different types of charts, this project dives into issues surrounding infant mortality in the United States.</p>
             </div>
           </div>
           <div class="row">
@@ -188,7 +188,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>When I started this class I had never seen D3 before. We started with simply loading CSVs and simple bar charts and scatter plots. Then we learned how to add interactivity to them with tooltips and on click functions. As we went we learned more graphs to our repertoire.</p>
+                    <p>When I started this class I had never seen D3 before. We started with simply loading CSVs and simple bar charts and scatter plots. Then we learned how to add interactivity to them with tooltips and on click functions. As we learned, we added more graphs to our repertoire.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -289,7 +289,7 @@
                 <div class="row">
                   <div class="col-sm-4 margin-top">
                     <img class="portfolio_picture" alt="Scatterplot Version 1" src="/img/mortality/d3-09.png">
-                    <p class="caption">The scatter plot started off as a static scatter plot comparing Preterm birth rates to infant mortality.</p>
+                    <p class="caption">The scatter plot started off as a static scatter plot comparing preterm birth rates to infant mortality.</p>
                   </div>
                   <div class="col-sm-4 margin-top">
                     <img class="portfolio_picture" alt="Scatterplot Version 2" src="/img/mortality/d3-10.png">
@@ -366,8 +366,8 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Keeping files organized is so important because it can get out of control very quickly.</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Always have a backup plan. The night before I presented this project at the conference I found out they didn't have internet connection for the project. I had to make a walkthrough video of the website while I talked through it to get the timing right.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Keeping files organized is important because it can get out of control very quickly.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Always have a backup plan. The night before I presented this project at the conference, I found out they didn't have an internet connection for the presentation. I had to make a walkthrough video of the website while I talked through it to get the timing right.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> D3 is an amazing library, but it is not easy.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> I really enjoyed using data to find a story. Using excel to quickly build charts was incredibly useful to determine if there was something to the data I found.</p>
             </div>

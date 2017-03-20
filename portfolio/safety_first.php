@@ -64,8 +64,8 @@
               <h3>The Ask</h3>
               <p>Design and prototype an accident reporting system for nursing home settings. Provide user specific interface views: Report Submission and Analysis.</p>
               <h3>Project Description</h3>
-              <p>This project was about finding a way to make it easier for administrators in nursing homes to keep track of incident reports. It is vital that these forms are easily accessible and kept track of because the must be reported to OSHA.</p>
-              <p>The process of creating this system began with sketches, breaking down all the information that would be gathered on forms, and creating flows of the important tasks to be completed using the system. Breaking down the forms was important because many of the forms ask for the same information, so the labels needed to be standardized. It was also important to gather the types of information being gather in order to develop a useful dashboard.</p>
+              <p>This project was about finding a way to make it easier for administrators in nursing homes to keep track of incident reports. It is vital that these forms are easily accessible and kept track of because they must be reported to OSHA.</p>
+              <p>The process of creating this system began with sketches, breaking down all the information that would be gathered on forms, and creating flows of the important tasks to be completed using the system. Breaking down the forms was important because many of the forms ask for the same information, so the labels needed to be standardized. It was also important to determine the types of information being gathered in order to develop a useful dashboard.</p>
               <p>Once the planning process was completed, it was time to move into sitemaps and developing the first round of wireframes. The first round of wireframes was completed to get an idea of what information needed to be on each page and to work through how a user would move through the system. The wireframes were created in Axure.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
@@ -141,7 +141,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro"> The SafetyFirst is a system designed to make it easier for nursing home employees to report accidents and incidents as required by OSHA (Occupational Safety and Health Administration) for regulated industries. Safety is a major concern in the workplace and this system will provide a single place for all of the data to be analyzed and viewed.</p>
+              <p class="intro">SafetyFirst is a system designed to make it easier for nursing home employees to report accidents and incidents as required by OSHA (Occupational Safety and Health Administration) for regulated industries. Safety is a major concern in the workplace and this system will provide a single place for all of the data to be analyzed and viewed.</p>
             </div>
           </div>
           <div class="row">
@@ -200,7 +200,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>In order to start designing I had to learn more about OSHA reporting and the employees in nursing homes that would use this system.</p>
+                    <p>In order to start designing, I had to learn more about OSHA reporting and the employees in nursing homes that would use this system.</p>
                   </div>
 
                   <div class="col-sm-12 margin-top">
@@ -234,7 +234,7 @@
                     <img class="portfolio_picture" alt="User Flow" src="/img/dashboard/dashboard_flow.jpg">
                   </div>
                   <div class="col-sm-5">
-                  <p>There were also a lot of steps that needed to be well thought out in order to make the system run smoothly. An employee creates a report, which generates a case number and that case needs to be reviewed by the admin. This is a task flow for admin appending a review to a case.</p>
+                  <p>There were also a lot of steps that needed to be well thought out in order to make the system run smoothly. An employee creates a report, which generates a case number and that case needs to be reviewed by the admin. This is a task flow for an admin appending a review to a case.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -280,7 +280,7 @@
 
                   <div class="col-sm-12">
                     <p>The first version of the wireframes were developed to better understand what features were needed on each of the pages. They were very rough but helped organize what needed to go on each page.</p>
-                    <p>The first set of wireframes made it clear that there were issues with the navigation structure. The system needs to allow the user to create reports, manage cases and submit reports. I went back tot sketching to see if I could come up with something that made more sense.</p>
+                    <p>The first set of wireframes made it clear that there were issues with the navigation structure. The system needs to allow the user to create reports, manage cases, and submit reports. I went back to sketching to see if I could come up with something that made more sense.</p>
                   </div>
                   <div class="col-sm-12">
                     <img class="portfolio_picture" alt="Version 1 of Wireframes" src="/img/dashboard/v1wires.jpg">

@@ -154,7 +154,7 @@
                     <img class="magnifying-glass" alt="magnifying glass" src="img/icons/magnify.png">
                     <div class="portfolio-item-caption">
                       <h2>Infant Mortality</h2>
-                      <p>A d3.js focusing on infant mortality in the US</p>
+                      <p>A d3.js project focusing on infant mortality in the US</p>
                     </div>
                   </div>
                 </a>

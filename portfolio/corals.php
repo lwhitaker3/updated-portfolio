@@ -64,8 +64,8 @@
               <h3>The Ask</h3>
               <p>Create a website for The Rosenstiel School of Marine and Atmospheric Science about their coral restoration project.</p>
               <h3>Project Description</h3>
-              <p>I collaborated with 3 others on this project: Sarah Kasike, Christian Rodriguez and Nick Aguirre. We developed a video in Maya about the coral restoration project at the University of Miami and created a website around it to explain what coral is an why it is so important.</p>
-              <p>Did you know globally 60% of reefs are threatened by pollution, overfishing, destructive fishing practices and so on? And climate change is a threat to all reefs. The university of Miami has a program called "Rescue a Reef" to help restore reefs that have been damaged by growing coral in nurseries and planting it back into reefs. We wanted to share this story with people through this website.</p>
+              <p>I collaborated with 3 others on this project: Sarah Kasike, Christian Rodriguez, and Nick Aguirre. We developed a video in Maya about the coral restoration project at the University of Miami and created a website around it to explain what coral is an why it is so important.</p>
+              <p>Did you know globally 60% of reefs are threatened by pollution, overfishing, destructive fishing practices, and more? Climate change is a threat to all reefs. The university of Miami has a program called "Rescue a Reef" to help restore reefs that have been damaged by growing coral in nurseries and planting it back into reefs. We wanted to share this story with people through this website.</p>
               <a target="_blank" href="http://sharkresearch.rsmas.miami.edu/coral-restoration/">
                 <button type="button" target="_blank" class="btn btn-default  ">Visit Site</button>
               </a>
@@ -194,7 +194,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>To begin this project we had to conduct research on corals as we didn't have any expertise on the subject. The scientists at RSMAS are doing incredible work, but the articles they produce do not communicate concepts in a way that is easy for the general public to understand. It was our goal the create an experience that explained what corals were and why they were important in a simple yet informative way. We searched through articles on Google Scholar to gather as much information about corals and their threats as possible. We talked to Dr. Neil Hammerschlag, a marine ecologist and research assistant professor, about content that the site needed to have in order to narrow down or research.  I learned a lot about coral through this process. For example, I had no idea that a coral was a "colonial organism" which means that there are many polyps living together on a single coral. I had always assumed the coral itself was the living organism.</p>
+                    <p>To begin this project, we had to conduct research on corals as we didn't have any expertise on the subject. The scientists at RSMAS are doing incredible work, but the articles they produce do not communicate concepts in a way that is easy for the general public to understand. It was our goal to create an experience that explained what corals were and why they were important in a simple yet informative way. We searched through articles on Google Scholar to gather as much information about corals and their threats as possible. We talked to Dr. Neil Hammerschlag, a marine ecologist and research assistant professor, about content that the site needed to have in order to narrow down or research.  I learned a lot about coral through this process. For example, I had no idea that a coral was a "colonial organism" which means that there are many polyps living together on a single coral. I had always assumed the coral itself was the living organism.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Notes to Cover On Site" src="/img/coral/notes.jpg">
@@ -223,7 +223,7 @@
                     <img class="portfolio_picture" alt="Elkhorn in Maya" src="/img/coral/coral.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>I started off by creating Elkhorn coral which is the type of coral researchers at the University of Miami are working to restore. I had never worked with Maya before working on this project, so building this coral was also about learning how to make 3D objects in Maya. I started with a cylinder and shaped into a long stem. Then by creating edge loops, I was able to pull the faces out of a rounded section to create branches.</p>
+                    <p>I started off by creating Elkhorn coral, which is the type of coral researchers at the University of Miami are working to restore. I had never worked with Maya before working on this project, so building this coral was also about learning how to make 3D objects in Maya. I started with a cylinder and shaped into a long stem. Then, by creating edge loops, I was able to pull the faces out of a rounded section to create branches.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -278,7 +278,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>We took the original wireframes and condensed them down into a single wireframe for the whole site. Taking the original wireframes we condensed down the sections and put the website together. Once we had a frame we started developing content and copy to be put into the site.</p>
+                    <p>We took the original wireframes and condensed them down into a single wireframe for the whole site. Once we had a frame, we started developing content and copy to be put onto the site.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -306,7 +306,7 @@
                     <img class="portfolio_picture" alt="Code in Atom" src="/img/coral/code.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>The site was hand coded with using Bootstrap as a foundation.</p>
+                    <p>The site was hand-coded using Bootstrap as a foundation.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -314,7 +314,7 @@
                     <img class="portfolio_picture" alt="Website V1" src="/img/coral/website1.jpg">
                   </div>
                   <div class="col-sm-5">
-                    <p>This was the first version of the site that we built to start adding content to and refining the design as we built the site.</p>
+                    <p>This was the first version that we built to start adding content and refine the design.</p>
                   </div>
                 </div>
               </div>
@@ -367,9 +367,9 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>  After every change in Maya save a version of the new model. That way when something goes wrong you can roll back to the version before it all went wrong.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> After every change in Maya, save a version of the new model. That way, when something goes wrong you can roll back to a previous version before it all went wrong.</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Make sure your vertices don't get crossed or you can end up with some very odd shapes.</p>
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communicating science is in a digestible way is incredibly important, research papers are long and difficult to read, so creating projects that help explain it in layman's terms gets the message out there.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communicating science is in a digestible way is incredibly important. Research papers are long and difficult to read, so creating projects that help explain it in layman's terms are important to get the message out there.</p>
             </div>
           </div>
         </div>

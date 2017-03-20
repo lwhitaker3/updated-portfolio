@@ -65,7 +65,7 @@
               <p>Conduct card sorts to find an appropriate way to organize content on the Interactive Media site that matches users' mental models.</p>
               <h3>Project Description</h3>
               <p>The team performed a non-directive (without context) card sort where we told participants to group the items as quickly as possible. The product researched was the UM Interactive Media website (interactive.miami.edu), a website for the School of Communication's Interactive Media program which is part of the University of Miami located in Coral Gables, Florida.</p>
-              <p>We used xSort to conduct the card sort. We had 16 participants within four age categories perform the card sort. For there we analyzed the data and translated it into a stronger navigation structure for the site.</p>
+              <p>We used xSort to conduct the card sort. We had 16 participants within four age categories perform the card sort. From there, we analyzed the data and translated it into a stronger navigational structure for the site.</p>
             </div>
             <div class="col-md-3 col-md-offset-1">
               <div class='list-wrapper'>
@@ -136,7 +136,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro">After conducting the card sort with 16 participants we used excel to organize the data. We found clear trends in how users grouped the cards which helped us develop a new navigation structure for the website.</p>
+              <p class="intro">After conducting the card sort with 16 participants, we used excel to organize the data. We found clear trends in how users grouped the cards which helped us develop a new navigational structure for the website.</p>
             </div>
           </div>
           <div class="row">
@@ -237,7 +237,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>As a team, we gathered all of the data and sat down to refine the information architecture of the site. We looked at the cluster trees and distance matrix we developed in excel to see what groupings were most common among participants. We found some clear trends that emerged. After writing down different categories participants came up with we took to the whiteboards to come up with a new way to organize all the cards on the website.</p>
+                    <p>As a team, we gathered all of the data and sat down to refine the information architecture of the site. We looked at the cluster trees and distance matrix we developed in excel to see what groupings were most common among participants. We found some clear trends that emerged. After writing down different categories participants came up with, we took to the whiteboards to come up with a new way to organize all the cards on the website.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -250,7 +250,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-12">
-                    <p>From there we were able to come up with even broader categories and refine how we had originally organized the data.</p>
+                    <p>From there, we were able to come up with even broader categories and refine how we had originally organized the data.</p>
                   </div>
                   <div class="col-sm-12 margin-top">
                     <img class="portfolio_picture" alt="Whiteboard Round 2" src="/img/cardsort/round2.jpg">
@@ -333,7 +333,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Card sorts can provide a lot of useful information and insight into users' mental models, however, the results of a card sort require a lot of translating before it can be used in the design.</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Card sorts can provide a lot of useful information and insight into users' mental models. However, the results of a card sort require a lot of translating before it can be used in the design.</p>
             </div>
           </div>
         </div>

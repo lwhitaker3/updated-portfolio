@@ -33,7 +33,7 @@
                     <div class="lineBreak"></div>
                   </div>
                 </div>
-                <h4>A 2-d endless runner game in p5.js</h4>
+                <h4>A 2D endless runner game in P5.js</h4>
               </div>
             </div>
             <div class="col-md-6 col-wrapper">
@@ -62,9 +62,9 @@
           <div class="row">
             <div class="col-md-8">
               <h3>The Ask</h3>
-              <p>Create an "awesome" sketch with p5.JS</p>
+              <p>Create an "awesome" sketch with P5.js</p>
               <h3>Project Description</h3>
-              <p>Princess Run is an infinite 2-d runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen tries to stop her by shooting Fire Orbs. If the player is hit by a fire orb or falls into the water they die and must try again.</p>
+              <p>Princess Run is an infinite 2D runner game where the player, Princess Winnifred, must collect water orbs, while Lilibelle, the dragon queen, tries to stop her by shooting Fire Orbs. If the player is hit by a fire orb or falls into the water, they die and must try again.</p>
               <p>The game was hand coded from scratch in P5.js. All of the sprites were created in Illustrator. The mechanics of the game are simple, the princess can run forward and backward as well as jump and the player must collect as many orbs as they can.</p>
               <a target="_blank" href="http://louisewhitaker.com/projects/princessrun/">
                 <button type="button" class="btn btn-default margin-top">Open Game in New Tab</button>
@@ -88,7 +88,7 @@
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Deliverables</h5>
-                    <p class="list first last">Game in p5.js</p>
+                    <p class="list first last">Game in P5.js</p>
                   </div>
                   <div class="hidden-xs col-sm-3 col-md-12">
                     <h5>Date</h5>
@@ -111,7 +111,7 @@
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-6">
                       <h5>Deliverables</h5>
-                      <p class="list first last">Game in p5.js</p>
+                      <p class="list first last">Game in P5.js</p>
                     </div>
                     <div class="col-xs-6">
                       <h5>Date</h5>
@@ -262,7 +262,7 @@
                     <img class="portfolio_picture" alt="Initial Game with No Obstacles" src="/img/princessrun/code-01.png">
                   </div>
                   <div class="col-sm-5">
-                    <p >The first thing I did was add the background and a ground layer that was even when the user starts the game so they can get started without having to worry about obstacles. then created a function that randomly generated ground pieces. Every time the game is played the ground is different. I needed to make sure that two water pieces never ended up next to each other, though, so the user can jump over the water.</p>
+                    <p >The first thing I did was add the background and a ground layer that was even when the user starts the game so they can get started without having to worry about obstacles. Then I created a function that randomly generated ground pieces. Every time the game is played the ground is different. I needed to make sure that two water pieces never ended up next to each other, though, so the user can jump over the water.</p>
                   </div>
                 </div>
                 <div class="row margin-top">
@@ -302,7 +302,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-12">
-                    <p>After playtesting the game I found that game needed a more elegant dying process and a button to restart the game when the player died. People also found the fuzzy clouds in the background distracting.</p>
+                    <p>After playtesting the game I found that game needed a more elegant death flow and a button to restart the game when the player died. People also found the fuzzy clouds in the background distracting.</p>
                   </div>
                 </div>
                 <div class="row">
@@ -378,7 +378,7 @@
           </div>
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> When coding you often fix one problem and create 5 more</p>
+              <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> When coding you often fix one problem and create five more</p>
               <p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Play testing a game when developing is so important, players don't always do exactly what you would expect.</p>
             </div>
           </div>

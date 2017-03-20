@@ -64,8 +64,8 @@
               <h3>The Ask</h3>
               <p>The task was to create a weather application in a creative and fun way. Using Foundation to create the interface, the goal was to make a fully responsive project that was connected to the OpenWeatherMap.org API.</p>
               <h3>Project Description</h3>
-              <p>I wanted to create something that was more than just plain weather application that spits out the weather for a given city.</p>
-              <p>Generally, the only times I check the weather are I want to plan some kind of activity (although that might also be because I live in Miami and the weather is more or less the same every day). Specifically, I thought about how it can be hard to think of activities to do on a date, and what you decide to do can be very weather dependent, so there was the idea for my app.</p>
+              <p>I wanted to create something that was more than just a plain weather application that spits out the weather for a given city.</p>
+              <p>Generally, the only times I check the weather are when I want to plan some kind of activity (although that might also be because I live in Miami and the weather is more or less the same every day). Specifically, I thought about how it can be hard to think of activities to do on a date, and what you decide to do can be very weather dependent, so there was the idea for my app.</p>
               <p>The project interface was developed using HTML/CSS and Foundation. Javascript was used to make the page dynamic and the OpenWeatherMap.org API was used to pull in the weather data.</p>
               <a target="_blank" href="http://louisewhitaker.com/projects/perfectdate/">
                 <button type="button" class="btn btn-default  ">Open Project in New Tab</button>
@@ -326,7 +326,7 @@
               </div>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p class="intro">The final design is fully responsive and the theme is cohesive across all of the pages. The final design only had 3 pages cutting down the hoops the user has to jump through to get an idea. On the first page, they give input on their preferences. On the next page, they can get an idea. If they don't like that idea they can simply click on the white area where the idea is displayed and the app with give them another idea.</p>
+              <p class="intro">The final design is fully responsive and the theme is cohesive across all of the pages. The final design only had 3 pages, cutting down the hoops the user has to jump through to get an idea. On the first page, they give input on their preferences. On the next page, they can get an idea. If they don't like that idea they can simply click on the white area where the idea is displayed and the app with give them another idea.</p>
             </div>
           </div>
           <div class="row">
