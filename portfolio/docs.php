@@ -296,7 +296,7 @@
                 </div>
                 <div class="row margin-top">
                   <div class="col-sm-6">
-                    <img class="portfolio_picture" alt="Graph of SUS Scores" src="/img/docs/satisfaction.png">
+                    <img class="portfolio_picture" alt="Graph of SUS Scores" src="/img/docs/satisfaction.jpg">
                   </div>
                   <div class="col-sm-6">
                     <p>We calculated the effectiveness (completion rates), efficiency (task time), and satisfaction (based on SEQ and SUS). We had low completion rates and a low satisfaction score that indicated the site had a lot of room for improvement.</p>

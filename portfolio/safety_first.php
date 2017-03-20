@@ -290,7 +290,7 @@
                 <div class="row margin-top">
                   <div class="col-sm-12">
                     <p>The second version of the wireframes were more fleshed out with the new navigation structure that I developed. These wireframes were fully annotated to document how the system should work.</p>
-                    <a target="_blank" href="/projectsFinal_Project_Dashboard_Louise_Whitaker.pdf">
+                    <a target="_blank" href="/projects/Final_Project_Dashboard_Louise_Whitaker.pdf">
                       <button type="button" class="btn btn-default">All Annotated Wireframes</button>
                     </a>
                   </div>
