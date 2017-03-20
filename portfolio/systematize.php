@@ -66,7 +66,7 @@
               <h3>Project Description</h3>
               <p>Systematize is a web application built with Laravel. It was designed to be a new way to keep track of your to-do lists and plan out your week. The user can create basic to-do lists with notes and due dates. On the calendar page, the user can drag individual items on the to-do list to days on the calendar and plan out how they want to get everything done. They can write notes directly on the calendar as well.</p>
               <p>This project came from my frustration with existing to-do list apps. I have yet to find a to-do list app that I like because they are either too complicated or too simple. When I have a lot of tasks to do I like to break them down into what tasks I am going to get done on each day.</p>
-              <a target="_blank" href="http://ec2-54-245-149-157.us-west-2.compute.amazonaws.com/planner">
+              <a target="_blank" href="http://ec2-54-245-149-157.us-west-2.compute.amazonaws.com">
                 <button type="button" class="btn btn-default margin-top">Try it Out</button>
               </a>
             </div>
