@@ -1,0 +1,4 @@
+Options Indexes
+DirectorySlash On
+
+RewriteEngine Off
