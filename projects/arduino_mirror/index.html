@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+</head>
+<body>
+	<title>Mirror of Positivity</title>
+	<main>
+		<div class="cd-image-block">
+			<ul class="cd-images-list">
+				<li class="is-selected">
+					<a href="#0">
+						<h2>The Project</h2>
+					</a>
+				</li>
+
+				<li>
+					<a href="#0">
+						<h2>The Components/ Code Plan</h2>
+					</a>
+				</li>
+
+				<li>
+					<a href="#0">
+						<h2>Version 1</h2>
+					</a>
+				</li>
+
+				<li>
+					<a href="#0">
+						<h2>Final Version</h2>
+					</a>
+				</li>
+
+				<li>
+					<a href="#0">
+						<h2>References</h2>
+					</a>
+				</li>
+			</ul> <!-- .cd-images-list -->
+		</div> <!-- .cd-image-block -->
+
+		<div class="cd-content-block">
+			<ul>
+				<li class="is-selected">
+					<div>
+						<h2>Mirror of Positivity</h2>
+
+						<div class="videoWrapper">
+								<!-- Copy & Pasted from YouTube -->
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8bcY73y--8" frameborder="0" allowfullscreen></iframe>
+						</div>
+
+
+						<p>
+							Mirrors are that one object that can create negative thoughts. I love the idea of putting postive sticky notes on the mirror as a reminder to think positive thoughts. So I thought why not create a digital experience based on that? I created this mirror using an Arduino, a PIR sensor, LED lights and 7 segment displays. It was very much a project where arts and crafts meets technolgy and I had a lot of fun putting it together.
+						</p>
+
+						<img class="full_width_image" src="img/final_image.jpg">
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<h2>Materials</h2>
+
+						<h3>Components</h3>
+						<img class="full_width_image" src="img/components.jpg">
+						<ul class='list'>
+							<li>2 seven segment displays</li>
+							<li>1 alpha numeric display</li>
+							<li>1 strip of 30 Neopixel LEDs</li>
+							<li>1 PIR sensor</li>
+							<li>Real time clock sensor</li>
+							<li>120 pack of jumper cables</li>
+							<li>1 Arduino UNO</li>
+						</ul>
+
+						<h3>Other Materials</h3>
+						<ul class='list'>
+							<li>Cardboard</li>
+							<li>Cardstock</li>
+							<li>White Paper</li>
+							<li>Tape</li>
+							<li>12x12 2 Way Acryllic </li>
+							<li>12x12 Shadow Box</li>
+						</ul>
+
+						<h3>Tools</h3>
+						<ul class='list'>
+							<li>Soldering Iron</li>
+							<li>Hot Glue Gun</li>
+							<li>Die Cut Machine</li>
+						</ul>
+
+						<h2>Code Plan</h2>
+
+						<p>A real time clock sensor will pull in the date and time data which will be displayed on the seven segment/aphanumeric displays. The tree LED lights will change color based on the time of day. The PIR sensor will activate LED lights that light up positove phrases at the bottom of the mirror</p>
+
+						<h3>Psuedo Code</h3>
+						<img class="full_width_image" src="img/code_plan.jpg">
+
+						<ul class='list'>
+							<li>Real time clock sensor gathers data</li>
+							<ul class='list secondary'>
+								<li>Time is displayed on 7 segment display as 24 hour clock, with center colon blinking every second (format: hh:mm)</li>
+								<li>Day of the week is displayed on the apha numeric display (format: it can show up to four letters so days of the week will display as MON, TUES, WED, THUR, FRI, SAT, SUN)</li>
+								<li>Date is displayed on seven segment display with period after the month (format: mm.dd) </li>
+								<li>Based on time of day the LEDs behind the tree design will chnage color as follows:</li>
+								<ul class='list secondary'>
+									<li>6am-7am: Pink</li>
+									<li>7am-8am: Red</li>
+									<li>8am-9am: Orange</li>
+									<li>9am-12pm: Yellow</li>
+									<li>12pm-3pm: Green</li>
+									<li>3pm-5pm: Yellow</li>
+									<li>5pm-6pm: Orange</li>
+									<li>6pm-7pm: Red</li>
+									<li>7pm-8pm:  Pink</li>
+									<li>8pm-6am:  Blue</li>
+								</ul>
+							</ul>
+							<li>3 butterflies are hard coded as pink, orange, and purple</li>
+							<li>PIR sensor detects motions</li>
+							<ol class='list'>
+								<li>When sensor detects motion LEDs behind phrase 1 will turn on</li>
+								<li>While sensor senses motion the phrase will display</li>
+								<li>When sensor stops sensing motion the LEDs will turn off</li>
+								<li>When sensor sesnse motion again it will turn on LEDs behind phrase 2</li>
+								<li>While sensor senses motion the phrase will display</li>
+								<li>When sensor stops sensing motion the LEDs will turn off</li>
+							</ol>
+						</ul>
+
+
+
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<h2>Testing the Concept</h2>
+						<img class="full_width_image" src="img/prototype.jpg">
+
+						<p>
+							I started with a smaller shadow box and printer paper to see how the LED lights would shine through. I cut out simple icons using a die cut machine with black card stock. I segmented the sections using card board so the LED lights could light up a single icon at a time. The biggest takeaway from testing it was that while the card board worked well to segment the displays, the simple LED lights I had were not bright enough, and I would need more LEDs. The Neopixel strip was perfect because it meant I could have multiple LEDs using fewer pins to control them all.
+						</p>
+
+						<div class="videoWrapper">
+						    <!-- Copy & Pasted from YouTube -->
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/1yiTSkVrWWk" frameborder="0" allowfullscreen></iframe>
+						</div>
+
+
+
+
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<h2>Building the Project</h2>
+
+						<img class="full_width_image" src="img/pir.jpg">
+						<p>
+							I started this project by setting up all of the components and playing with them to make sure I understood how the code worked for each indivual component. The PIR sensor was the first one I connected. This sensor is very simple because it returns "HIGH" while it senses motion and "LOW" while it doesn't.
+						</p>
+
+						<img class="half_width_image" src="img/solder1.jpg">
+						<img class="half_width_image" src="img/solder2.jpg">
+						<p>
+							The next step was soldering all of the parts together. The LED strips needed to be soldered. The displays and the realtime clock needed to be soldered to their boards and the header pins needed to be soldered to the boards as well.
+						</p>
+
+						<img class="full_width_image" src="img/testing.jpg">
+						<p>
+							The next step was to test all of the soldered peices. I set up the displays to show the date time and the day of the week. <a href="https://github.com/lwhitaker3/Arduino-Magic-Mirror/blob/master/Code%20Iterations/mirror_date_display_day_and_time/mirror_date_display_day_and_time.ino">The code for this can be found here.</a>
+						</p>
+
+						<img class="half_width_image" src="img/frame2.jpg">
+						<img class="half_width_image" src="img/frame.jpg">
+						<p>
+							The frame needed to be put together with the 2-way acryllic. I pulled the shadow box apart to be abe to put the two way acryllic right up against the glass and glued it all back together.
+						</p>
+
+						<img class="full_width_image" src="img/sketch.jpg">
+						<p>
+							I created a design for the tree by sketching it out and tracing it into ilustrator with the pen tool. I created an svg file so I could cut out the lettering and tree design with a die cut machine.
+						</p>
+
+						<img class="half_width_image" src="img/build1.jpg">
+						<img class="half_width_image" src="img/build2.jpg">
+						<img class="half_width_image" src="img/build3.jpg">
+						<img class="half_width_image" src="img/build4.jpg">
+						<p>
+							The I put the inside of the frame together using cardboard to create housing for the LED lights that need to be segmented off.
+						</p>
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<h2>Adafruit Guides</h2>
+
+						<ul class="list secondary">
+							<li><a href="https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview">Understanding the PIR Sensor</a></li>
+							<li><a href="https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/overview">Understanding the Real Time Clock</a></li>
+							<li><a href="https://learn.adafruit.com/adafruit-led-backpack">Understanding the Seven Segment Displays and Alphanumeric Display</a></li>
+							<li><a href="https://learn.adafruit.com/adafruit-neopixel-uberguide">Understanding the Neopixel Strip</a></li>
+						</ul>
+
+						<h2>Libraries Used in This Project</h2>
+
+						<ul class="list secondary">
+							<li><a href="https://github.com/adafruit/RTClib">Real Time Clock</a></li>
+							<li><a href="https://github.com/adafruit/Adafruit_LED_Backpack">LED Backpack Library</a></li>
+							<li><a href="https://github.com/adafruit/Adafruit-GFX-Library">GFX Library</a></li>
+							<li><a href="https://github.com/adafruit/Adafruit_NeoPixel">Neopixel Libray</a></li>
+						</ul>
+
+					</div>
+				</li>
+
+			</ul>
+
+			<button class="cd-close">Close</button>
+		</div> <!-- .cd-content-block -->
+
+		<ul class="block-navigation">
+			<li><button class="cd-prev inactive">&larr; Prev</button></li>
+			<li><button class="cd-next">Next &rarr;</button></li>
+		</ul> <!-- .block-navigation -->
+	</main>	<!-- .cd-main -->
+
+<script src="js/jquery-2.1.4.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
