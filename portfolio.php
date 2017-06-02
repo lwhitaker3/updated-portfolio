@@ -25,6 +25,7 @@
 
           <div data-aos="fade" data-aos-once="true" class="row text-center filter-buttons">
             <div class="col-sm-12">
+              <button class="btn btn-default filter" data-filter=".featured">Featured</button>
               <button class="btn btn-default filter" data-filter=".uxd">UX Design</button>
               <button class="btn btn-default filter" data-filter=".uxr">UX Research</button>
               <button class="btn btn-default filter" data-filter=".code">Code</button>
@@ -206,7 +207,7 @@
               </div>
             </div>
 
-            <div class="mix uxd">
+            <div class="mix uxd featured">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="Radio UI" src="img/thumbs/radio_ui.jpg">
                 <a href="/portfolio/radio_UI">
@@ -223,7 +224,7 @@
 
 
 
-            <div class="mix uxd">
+            <div class="mix uxd featured">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="Dashboard" src="img/thumbs/dashboard.jpg">
                 <a href="/portfolio/safety_first">
@@ -239,7 +240,7 @@
             </div>
 
 
-            <div class="mix uxd">
+            <div class="mix uxd featured">
               <div class="portfolio-item-wrapper">
                 <img class="portfolio-item" alt="Sports Unified App" src="img/thumbs/so.jpg">
                 <a href="/portfolio/sports_unified">
@@ -296,7 +297,11 @@
       <script>
 
         $(function(){
-        	$('#filter-section').mixItUp();
+        	$('#filter-section').mixItUp({
+            load: {
+              filter: '.featured'
+            }
+          });
         });
         $('#filter-section').on('mixEnd', function(){
           jQuery(window).trigger('resize').trigger('scroll');
