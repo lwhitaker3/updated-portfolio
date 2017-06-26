@@ -321,7 +321,7 @@
                 <div class="row">
                   <div class="col-sm-12">
                     <p>I prototyped the project in Axure to show all of the interactions across the system.</p>
-                    <a href="http://b69tdb.axshare.com"><button type="button" class="btn btn-default">Prototype</button></a>
+                    <a href="http://z39tbw.axshare.com/"><button type="button" class="btn btn-default">Prototype</button></a>
                   </div>
                 </div>
                 <div class="row margin-top">
