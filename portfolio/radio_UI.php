@@ -343,10 +343,10 @@
                 <div class="row">
                   <div class="col-sm-12">
                     <p>The prototype was created in Axure to illustrate how the pages are related to each other and demonstrate the interactions on different pages.</p>
-                    <a target="_blank" href="http://r23785.axshare.com/screen_frame.html">
+                    <a target="_blank" href="http://r23785.axshare.com/#c=2">
                       <button type="button" class="btn btn-default ">Open Prototype in New Tab</button>
                     </a>
-                    <iframe class="hidden-xs" frameborder="0" width="100%" height="900" scrolling="no" src="http://r23785.axshare.com/screen_frame.html"></iframe>
+                    <iframe class="hidden-xs" frameborder="0" width="100%" height="900" scrolling="no" src="http://r23785.axshare.com/#c=2"></iframe>
                   </div>
                 </div>
 
